@@ -31,10 +31,10 @@ async function fetchFans(uid) {
 
 async function main() {
   const now = new Date().toISOString();
-  if (!fs.existsSync('data')) fs.mkdirSync('data');
+  if (!fs.existsSync('docs/data')) fs.mkdirSync('docs/data', { recursive: true });
 
   for (const uid of config.uids) {
-    const filePath = `data/${uid}.json`;
+    const filePath = `docs/data/${uid}.json`;
     let fileData = { meta: null, records: [] };
     
     if (fs.existsSync(filePath)) {

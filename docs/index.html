@@ -36,8 +36,8 @@
 
     if (!uid) {
       app.innerHTML = `<div class="input-box">
-        <h1>请输入 UP主 UID</h1>
-        <input type="text" id="uidInput" placeholder="例如: 360697277">
+        <h1>查询B站UP主</h1>
+        <input type="text" id="uidInput" placeholder="请输入 uid">
         <button onclick="window.location.href='?uid=' + document.getElementById('uidInput').value">查看</button>
       </div>`;
     } else {
@@ -46,7 +46,7 @@
 
     async function fetchData() {
       try {
-        const res = await fetch(`../data/${uid}.json`);
+        const res = await fetch(`./data/${uid}.json`);
         const { meta, records } = await res.json();
         render(meta, records);
       } catch (e) {
