@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>B站粉丝追踪</title>
+  <link rel="icon" href="https://www.bilibili.com/favicon.ico">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
   <style>
@@ -41,8 +42,9 @@
     .time-range button{padding:6px 16px;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--text-dim);cursor:pointer}
     .time-range button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
     .input-box{text-align:center;padding:100px 20px}
-    input{padding:10px;width:200px;border-radius:6px;border:1px solid var(--border);background:var(--bg-color);color:var(--text-main)}
-    button{padding:10px 20px;border-radius:6px;border:none;background:var(--accent);color:#fff;cursor:pointer}
+    .query-form{display:flex;justify-content:center;align-items:center;gap:8px;margin-top:24px}
+    input{height:36px;width:200px;padding:0 10px;border-radius:6px;border:1px solid var(--border);background:var(--bg-color);color:var(--text-main);line-height:36px}
+    button{height:36px;padding:0 20px;border-radius:6px;border:none;background:var(--accent);color:#fff;cursor:pointer;line-height:36px}
   </style>
 </head>
 <body>
@@ -54,9 +56,11 @@
 
     if (!uid) {
       app.innerHTML = `<div class="input-box">
-        <h1>查询B站UP主</h1>
-        <input type="text" id="uidInput" placeholder="请输入 uid">
-        <button onclick="window.location.href='?uid=' + document.getElementById('uidInput').value">查看</button>
+        <h1>追踪B站UP主粉丝数</h1>
+        <div class="query-form">
+          <input type="text" id="uidInput" placeholder="请输入 uid">
+          <button onclick="window.location.href='?uid=' + document.getElementById('uidInput').value">查看</button>
+        </div>
       </div>`;
     } else {
       fetchData();
