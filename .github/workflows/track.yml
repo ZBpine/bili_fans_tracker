@@ -1,0 +1,34 @@
+name: B站粉丝追踪
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 使用 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 采集粉丝数据
+        run: node scripts/fetch.js
+
+      - name: 生成静态页面
+        run: node scripts/build-site.js
+
+      - name: 提交并推送
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          git diff --staged --quiet || git commit -m "chore: update fans data [skip ci]"
+          git push

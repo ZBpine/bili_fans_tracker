@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>B站粉丝追踪</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0d1117;color:#c9d1d9;min-height:100vh}
+    .container{max-width:960px;margin:0 auto;padding:32px 16px}
+    header{margin-bottom:32px}
+    header h1{font-size:24px;color:#f0f6fc;margin-bottom:8px}
+    header p{color:#8b949e;font-size:14px}
+    .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-bottom:32px}
+    .card{display:block;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;text-decoration:none;color:inherit;transition:border-color .2s}
+    .card:hover{border-color:#58a6ff}
+    .card h3{font-size:16px;color:#f0f6fc;margin-bottom:12px}
+    .fans-count{font-size:32px;font-weight:700;color:#58a6ff}
+    .fans-label{font-size:13px;color:#8b949e;margin-top:4px}
+    .overview-chart{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:32px}
+    .overview-chart h2{font-size:16px;color:#f0f6fc;margin-bottom:16px}
+    .chart-wrap{position:relative;height:350px}
+    .data-table{background:#161b22;border:1px solid #30363d;border-radius:8px;overflow-x:auto}
+    .data-table table{width:100%;border-collapse:collapse}
+    .data-table th,.data-table td{padding:12px 16px;text-align:left;border-bottom:1px solid #30363d;font-size:14px}
+    .data-table th{color:#8b949e;font-weight:500}
+    .data-table td{color:#c9d1d9}
+    .data-table tr:last-child td{border-bottom:none}
+    .data-table a{color:#58a6ff;text-decoration:none}
+    .data-table a:hover{text-decoration:underline}
+    @media(max-width:600px){.card-grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>B站粉丝追踪</h1>
+      <p>最后更新: 2026/6/23 14:07:49</p>
+    </header>
+    <div class="card-grid">
+    <a href="up/360697277.html" class="card">
+      <h3>XDC城北徐公</h3>
+      <div class="fans-count">228,197</div>
+      <div class="fans-label">粉丝</div>
+    </a>
+
+    <a href="up/79577853.html" class="card">
+      <h3>智能路障</h3>
+      <div class="fans-count">4,221,819</div>
+      <div class="fans-label">粉丝</div>
+    </a>
+
+    <a href="up/316568752.html" class="card">
+      <h3>马督工</h3>
+      <div class="fans-count">2,209,113</div>
+      <div class="fans-label">粉丝</div>
+    </a></div>
+    <div class="overview-chart">
+      <h2>粉丝数趋势（全部UP主）</h2>
+      <div class="chart-wrap"><canvas id="overviewChart"></canvas></div>
+    </div>
+    <div class="data-table">
+      <table>
+        <thead><tr><th>UP主</th><th>UID</th><th>当前粉丝</th><th>数据点数</th><th>最早记录</th></tr></thead>
+        <tbody><tr><td><a href="up/360697277.html">XDC城北徐公</a></td><td style="color:#8b949e">360697277</td><td>228,197</td><td>1</td><td>2026/6/23 14:07:44</td></tr>
+<tr><td><a href="up/79577853.html">智能路障</a></td><td style="color:#8b949e">79577853</td><td>4,221,819</td><td>1</td><td>2026/6/23 14:07:44</td></tr>
+<tr><td><a href="up/316568752.html">马督工</a></td><td style="color:#8b949e">316568752</td><td>2,209,113</td><td>1</td><td>2026/6/23 14:07:44</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+  <script>
+    const COLORS = ['#58a6ff','#3fb950','#f0883e','#da3633','#a371f7','#f2cc60'];
+    const ALL_DATA = [{"name":"XDC城北徐公","uid":"360697277","records":[{"time":"2026-06-23T06:07:44.809Z","fans":228197}]},{"name":"智能路障","uid":"79577853","records":[{"time":"2026-06-23T06:07:44.809Z","fans":4221819}]},{"name":"马督工","uid":"316568752","records":[{"time":"2026-06-23T06:07:44.809Z","fans":2209113}]}];
+    new Chart(document.getElementById('overviewChart'), {
+      type: 'line',
+      data: {
+        datasets: ALL_DATA.map((u,i) => ({
+          label: u.name,
+          data: u.records.map(r => ({ x: new Date(r.time), y: r.fans })),
+          borderColor: COLORS[i % COLORS.length],
+          backgroundColor: COLORS[i % COLORS.length] + '20',
+          fill: true, tension: 0.3, pointRadius: 0, borderWidth: 2
+        }))
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        interaction: { mode: 'nearest', axis: 'x' },
+        plugins: { legend: { labels: { color: '#8b949e', boxWidth: 12, padding: 16 } } },
+        scales: {
+          x: { type: 'time', time: { tooltipFormat: 'yyyy-MM-dd HH:mm' }, ticks: { color: '#8b949e', maxTicksLimit: 10 }, grid: { color: '#21262d' } },
+          y: { ticks: { color: '#8b949e', callback: v => v.toLocaleString() }, grid: { color: '#21262d' } }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
