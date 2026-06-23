@@ -103,14 +103,28 @@
         const filtered = days === 0 ? records : records.filter(r => new Date(r.time) > Date.now() - days * 86400000);
         const ctx = document.getElementById('chart').getContext('2d');
         if (chart) chart.destroy();
+
+        const computedStyle = getComputedStyle(document.documentElement);
+        const colorDim = computedStyle.getPropertyValue('--text-dim').trim();
+        const colorBorder = computedStyle.getPropertyValue('--border').trim();
+
         chart = new Chart(ctx, {
           type: 'line',
           data: { datasets: [{ data: filtered.map(r => ({x: new Date(r.time), y: r.fans})), borderColor: 'var(--accent)', fill: true, backgroundColor: 'var(--accent)20', tension: 0.3, pointRadius: 0 }] },
           options: {
             responsive: true, maintainAspectRatio: false,
             scales: { 
-              x: { type: 'time', ticks: {color: 'var(--text-dim)'}, grid: {color: 'var(--border)'} }, 
-              y: { ticks: {color: 'var(--text-dim)', callback: v => v.toLocaleString()}, grid: {color: 'var(--border)'} } 
+              x: { 
+                type: 'time', 
+                ticks: { color: colorDim }, 
+                grid: { color: colorBorder },
+                border: { color: colorBorder }
+              }, 
+              y: { 
+                ticks: { color: colorDim, callback: v => v.toLocaleString() }, 
+                grid: { color: colorBorder },
+                border: { color: colorBorder }
+              } 
             },
             plugins: { legend: { display: false } }
           }
