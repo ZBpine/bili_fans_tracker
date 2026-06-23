@@ -64,12 +64,29 @@
 
     async function fetchData() {
       try {
-        const res = await fetch(`./data/${uid}.json`);
+        const res = await fetch(`./data/${encodeURIComponent(uid)}.json`, { cache: 'no-store' });
+        if (!res.ok) {
+          renderError(res.status === 404 ? '没有这个UP主的数据' : '数据加载失败');
+          return;
+        }
         const { meta, records } = await res.json();
+        if (!meta || !Array.isArray(records)) {
+          renderError('数据格式错误');
+          return;
+        }
+        if (records.length === 0) {
+          renderError('暂无粉丝记录');
+          return;
+        }
         render(meta, records);
       } catch (e) {
-        app.innerHTML = `<h1>加载失败</h1><p>${e.message}</p>`;
+        renderError('数据加载失败');
       }
+    }
+
+    function renderError(message) {
+      app.innerHTML = '<div class="input-box"><h1 id="errorTitle"></h1></div>';
+      document.getElementById('errorTitle').textContent = message;
     }
 
     let chart = null;
