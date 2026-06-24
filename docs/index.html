@@ -15,6 +15,7 @@
       --text-dim: #8b949e;
       --border: #30363d;
       --accent: #58a6ff;
+      --accent-fill: rgba(88,166,255,0.08);
     }
     @media (prefers-color-scheme: light) {
       :root {
@@ -24,6 +25,7 @@
         --text-dim: #57606a;
         --border: #d0d7de;
         --accent: #0969da;
+        --accent-fill: rgba(9,105,218,0.08);
       }
     }
     *{margin:0;padding:0;box-sizing:border-box}
@@ -128,10 +130,13 @@
         const computedStyle = getComputedStyle(document.documentElement);
         const colorDim = computedStyle.getPropertyValue('--text-dim').trim();
         const colorBorder = computedStyle.getPropertyValue('--border').trim();
+        const colorAccent = computedStyle.getPropertyValue('--accent').trim();
+        const colorAccentFill = computedStyle.getPropertyValue('--accent-fill').trim();
+        const pointStep = Math.max(1, Math.ceil(filtered.length / 180));
 
         chart = new Chart(ctx, {
           type: 'line',
-          data: { datasets: [{ data: filtered.map(r => ({x: new Date(r.time), y: r.fans})), borderColor: 'var(--accent)', fill: true, backgroundColor: 'var(--accent)20', tension: 0.3, pointRadius: 0 }] },
+          data: { datasets: [{ data: filtered.map(r => ({x: new Date(r.time), y: r.fans})), borderColor: colorAccent, fill: true, backgroundColor: colorAccentFill, tension: 0.3, pointRadius: ctx => ctx.dataIndex % pointStep === 0 ? 3 : 0, pointHoverRadius: ctx => ctx.dataIndex % pointStep === 0 ? 5 : 0 }] },
           options: {
             responsive: true, maintainAspectRatio: false,
             scales: { 
