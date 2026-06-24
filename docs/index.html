@@ -122,7 +122,10 @@
         </div>
       `;
       
+      let selectedPoints = [];
+
       const renderChart = (days) => {
+        selectedPoints = [];
         const filtered = days === 0 ? records : records.filter(r => new Date(r.time) > Date.now() - days * 86400000);
         const ctx = document.getElementById('chart').getContext('2d');
         if (chart) chart.destroy();
@@ -134,14 +137,135 @@
         const colorAccentFill = computedStyle.getPropertyValue('--accent-fill').trim();
         const pointStep = Math.max(1, Math.ceil(filtered.length / 180));
 
+        const formatDuration = ms => {
+          const abs = Math.abs(ms);
+          const days = Math.floor(abs / 86400000);
+          const hours = Math.floor((abs % 86400000) / 3600000);
+          const minutes = Math.floor((abs % 3600000) / 60000);
+          if (days > 0) return `${days}天${hours > 0 ? ` ${hours}小时` : ''}`;
+          if (hours > 0) return `${hours}小时${minutes > 0 ? ` ${minutes}分钟` : ''}`;
+          return `${minutes}分钟`;
+        };
+
+        const drawLabel = (ctx, text, x, y) => {
+          const paddingX = 8;
+          const paddingY = 5;
+          ctx.save();
+          ctx.font = '12px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif';
+          const width = ctx.measureText(text).width + paddingX * 2;
+          const height = 24;
+          const area = chart.chartArea;
+          const left = Math.max(area.left + 4, Math.min(x - width / 2, area.right - width - 4));
+          const top = Math.max(area.top + 4, Math.min(y - height / 2, area.bottom - height - 4));
+          ctx.fillStyle = computedStyle.getPropertyValue('--card-bg').trim();
+          ctx.strokeStyle = colorBorder;
+          ctx.lineWidth = 1;
+          ctx.beginPath();
+          ctx.roundRect(left, top, width, height, 6);
+          ctx.fill();
+          ctx.stroke();
+          ctx.fillStyle = colorDim;
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'middle';
+          ctx.fillText(text, left + width / 2, top + height / 2);
+          ctx.restore();
+        };
+
+        const drawPoint = (ctx, x, y) => {
+          ctx.save();
+          ctx.fillStyle = computedStyle.getPropertyValue('--card-bg').trim();
+          ctx.strokeStyle = colorAccent;
+          ctx.lineWidth = 3;
+          ctx.beginPath();
+          ctx.arc(x, y, 6, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.stroke();
+          ctx.restore();
+        };
+
+        const comparisonPlugin = {
+          id: 'comparisonOverlay',
+          afterDatasetsDraw(chart) {
+            if (selectedPoints.length === 0) return;
+            const { ctx, chartArea, scales } = chart;
+            const points = [...selectedPoints].sort((a, b) => new Date(a.time) - new Date(b.time));
+
+            ctx.save();
+            ctx.strokeStyle = colorAccent;
+            ctx.lineWidth = 1.5;
+            ctx.setLineDash([3, 4]);
+
+            if (points.length === 1) {
+              const p = points[0];
+              const x = scales.x.getPixelForValue(new Date(p.time));
+              const y = scales.y.getPixelForValue(p.fans);
+              ctx.beginPath();
+              ctx.moveTo(x, chartArea.top);
+              ctx.lineTo(x, chartArea.bottom);
+              ctx.moveTo(chartArea.left, y);
+              ctx.lineTo(chartArea.right, y);
+              ctx.stroke();
+              ctx.restore();
+              drawPoint(ctx, x, y);
+              return;
+            }
+
+            const [a, b] = points;
+            const x1 = scales.x.getPixelForValue(new Date(a.time));
+            const y1 = scales.y.getPixelForValue(a.fans);
+            const x2 = scales.x.getPixelForValue(new Date(b.time));
+            const y2 = scales.y.getPixelForValue(b.fans);
+            ctx.setLineDash([8, 5]);
+            ctx.beginPath();
+            ctx.moveTo(x1, y1);
+            ctx.lineTo(x2, y1);
+            ctx.lineTo(x2, y2);
+            ctx.stroke();
+            ctx.restore();
+
+            drawPoint(ctx, x1, y1);
+            drawPoint(ctx, x2, y2);
+            drawLabel(ctx, formatDuration(new Date(b.time) - new Date(a.time)), (x1 + x2) / 2, y1 - 18);
+            const diffFans = b.fans - a.fans;
+            drawLabel(ctx, `${diffFans >= 0 ? '+' : ''}${diffFans.toLocaleString()} 粉丝`, x2 + 48, (y1 + y2) / 2);
+          }
+        };
+
         chart = new Chart(ctx, {
           type: 'line',
-          data: { datasets: [{ data: filtered.map(r => ({x: new Date(r.time), y: r.fans})), borderColor: colorAccent, fill: true, backgroundColor: colorAccentFill, tension: 0.3, pointRadius: ctx => ctx.dataIndex % pointStep === 0 ? 3 : 0, pointHoverRadius: ctx => ctx.dataIndex % pointStep === 0 ? 5 : 0 }] },
+          data: { datasets: [{ data: filtered.map(r => ({x: new Date(r.time), y: r.fans})), borderColor: colorAccent, fill: true, backgroundColor: colorAccentFill, tension: 0.3, pointRadius: ctx => ctx.dataIndex % pointStep === 0 ? 3 : 0, pointHoverRadius: 5, pointHitRadius: 10 }] },
+          plugins: [comparisonPlugin],
           options: {
             responsive: true, maintainAspectRatio: false,
+            onClick: (event) => {
+              const elements = chart.getElementsAtEventForMode(event, 'nearest', { intersect: true }, true);
+              if (elements.length === 0) {
+                selectedPoints = [];
+                chart.update();
+                return;
+              }
+              const point = filtered[elements[0].index];
+              selectedPoints = selectedPoints.length >= 2 ? [point] : [...selectedPoints, point];
+              chart.update();
+            },
             scales: { 
               x: { 
                 type: 'time', 
+                time: {
+                  minUnit: 'hour',
+                  tooltipFormat: 'yyyy-MM-dd HH:mm',
+                  displayFormats: {
+                    millisecond: 'HH:mm:ss.SSS',
+                    second: 'HH:mm:ss',
+                    minute: 'HH:mm',
+                    hour: 'HH:mm',
+                    day: 'MM-dd',
+                    week: 'MM-dd',
+                    month: 'yyyy-MM',
+                    quarter: 'yyyy QQQ',
+                    year: 'yyyy'
+                  }
+                },
                 ticks: { color: colorDim }, 
                 grid: { color: colorBorder },
                 border: { color: colorBorder }
