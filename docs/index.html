@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>B站粉丝追踪</title>
-  <link rel="icon" href="https://www.bilibili.com/favicon.ico">
+  <link rel="icon" href="./favicon.ico">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
   <style>
@@ -16,6 +16,8 @@
       --border: #30363d;
       --accent: #58a6ff;
       --accent-fill: rgba(88,166,255,0.08);
+      --positive: #3fb950;
+      --negative: #f85149;
     }
     @media (prefers-color-scheme: light) {
       :root {
@@ -26,6 +28,8 @@
         --border: #d0d7de;
         --accent: #0969da;
         --accent-fill: rgba(9,105,218,0.08);
+        --positive: #1a7f37;
+        --negative: #cf222e;
       }
     }
     *{margin:0;padding:0;box-sizing:border-box}
@@ -34,13 +38,17 @@
     .card{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:24px;margin-bottom:24px;display:flex;align-items:center;gap:20px}
     .face{width:80px;height:80px;border-radius:50%}
     .info h1{font-size:24px;color:var(--text-main)}
+    .info h1 a{color:inherit;text-decoration:none}
+    .info h1 a:hover{color:var(--accent);text-decoration:underline}
     .info p{color:var(--text-dim);margin-top:4px}
     .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-bottom:24px}
     .stat-box{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:16px;text-align:center}
     .stat-box .value{font-size:22px;font-weight:700;color:var(--text-main)}
+    .stat-box .value.positive{color:var(--positive)}
+    .stat-box .value.negative{color:var(--negative)}
     .stat-box .label{font-size:12px;color:var(--text-dim);margin-top:4px}
     .chart-wrap{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:24px;height:400px;position:relative}
-    .time-range{display:flex;gap:8px;margin-bottom:16px}
+    .time-range{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
     .time-range button{padding:6px 16px;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--text-dim);cursor:pointer}
     .time-range button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
     .input-box{text-align:center;padding:100px 20px}
@@ -97,16 +105,27 @@
 
     let chart = null;
     function render(meta, records) {
+      const latest = records[records.length - 1];
+      const todayStart = new Date();
+      todayStart.setHours(0, 0, 0, 0);
+      const recordsBeforeToday = records.filter(r => new Date(r.time) < todayStart);
+      const recordsToday = records.filter(r => new Date(r.time) >= todayStart);
+      const todayBase = recordsBeforeToday[recordsBeforeToday.length - 1] || recordsToday[0];
+      const todayChange = todayBase ? latest.fans - todayBase.fans : 0;
+      const todayChangeText = `${todayChange >= 0 ? '+' : ''}${todayChange.toLocaleString()}`;
+      const todayChangeClass = todayChange > 0 ? 'positive' : todayChange < 0 ? 'negative' : '';
+
       app.innerHTML = `
         <div class="card">
           <img src="${meta.face}" class="face" referrerpolicy="no-referrer">
           <div class="info">
-            <h1>${meta.name}</h1>
+            <h1><a href="https://space.bilibili.com/${uid}" target="_blank" rel="noopener noreferrer">${meta.name}</a></h1>
             <p>${meta.sign || '暂无签名'}</p>
           </div>
         </div>
         <div class="stats">
-          <div class="stat-box"><div class="value">${records[records.length-1].fans.toLocaleString()}</div><div class="label">当前粉丝</div></div>
+          <div class="stat-box"><div class="value">${latest.fans.toLocaleString()}</div><div class="label">当前粉丝</div></div>
+          <div class="stat-box"><div class="value ${todayChangeClass}">${todayChangeText}</div><div class="label">今日变化</div></div>
           <div class="stat-box"><div class="value">${meta.like_num.toLocaleString()}</div><div class="label">获赞数</div></div>
           <div class="stat-box"><div class="value">${meta.archive_count}</div><div class="label">稿件数</div></div>
         </div>
@@ -115,7 +134,8 @@
             <button data-days="1">1天</button>
             <button data-days="7" class="active">7天</button>
             <button data-days="30">30天</button>
-            <button data-days="180">180天</button>
+            <button data-days="90">90天</button>
+            <button data-days="365">365天</button>
             <button data-days="0">全部</button>
           </div>
           <canvas id="chart"></canvas>
