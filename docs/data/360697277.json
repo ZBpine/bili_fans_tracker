@@ -5,10 +5,10 @@
     "sign": "商务微信：xdc1113909972",
     "level": 6,
     "archive_count": 305,
-    "like_num": 1918851,
-    "following": 63,
+    "like_num": 1919143,
+    "following": 64,
     "official_title": "bilibili 知名游戏UP主",
-    "updated": "2026-07-09T18:07:21.230Z"
+    "updated": "2026-07-10T18:43:42.043Z"
   },
   "records": [
     {
@@ -634,6 +634,10 @@
     {
       "time": "2026-07-10T17:05:52.325Z",
       "fans": 228359
+    },
+    {
+      "time": "2026-07-10T18:43:41.578Z",
+      "fans": 228363
     }
   ]
 }
