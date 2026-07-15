@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/25ca3b7639e6e5ecdb9078d5921efe462223a2a5.jpg",
     "sign": "正经科普频道！每周播2—3次~商务合作v：YEJUNXshi（辛苦备注来意，平台入驻勿扰）",
     "level": 6,
-    "archive_count": 46,
-    "like_num": 978434,
+    "archive_count": 47,
+    "like_num": 981182,
     "following": 810,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-07-14T09:15:51.604Z"
+    "updated": "2026-07-15T09:20:33.474Z"
   },
   "records": [
     {
@@ -434,6 +434,10 @@
     {
       "time": "2026-07-15T06:26:23.201Z",
       "fans": 170750
+    },
+    {
+      "time": "2026-07-15T09:20:32.070Z",
+      "fans": 170800
     }
   ]
 }
