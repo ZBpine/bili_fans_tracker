@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/13eff981de8bb7b857ce818d42166f68d9d569bc.jpg",
     "sign": "商务微信：xdc1113909972",
     "level": 6,
-    "archive_count": 305,
-    "like_num": 1929047,
+    "archive_count": 306,
+    "like_num": 1937419,
     "following": 64,
     "official_title": "bilibili 知名游戏UP主",
-    "updated": "2026-08-14T10:15:06.432Z"
+    "updated": "2026-08-15T10:36:46.930Z"
   },
   "records": [
     {
@@ -2338,6 +2338,10 @@
     {
       "time": "2026-08-15T09:37:19.161Z",
       "fans": 229485
+    },
+    {
+      "time": "2026-08-15T10:36:46.455Z",
+      "fans": 229508
     }
   ]
 }
