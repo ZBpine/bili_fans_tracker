@@ -47,10 +47,45 @@
     .stat-box .value.positive{color:var(--positive)}
     .stat-box .value.negative{color:var(--negative)}
     .stat-box .label{font-size:12px;color:var(--text-dim);margin-top:4px}
-    .chart-wrap{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:24px;height:400px;position:relative}
+    .chart-wrap{background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:24px}
+    .navigator{height:120px;margin:-2px 18px 16px;padding:28px 0 22px;border-top:1px solid var(--border);position:relative}
+    .navigator-chart{height:66px;position:relative}
+    .navigator-handle{position:absolute;width:34px;height:7px;padding:0;border:0;border-radius:99px;background:var(--accent);box-shadow:0 1px 3px rgba(0,0,0,.3);cursor:grab;transform:translateX(-50%);touch-action:none}
+    .navigator-handle:active{cursor:grabbing}
+    .navigator-handle:focus-visible{outline:2px solid var(--text-main);outline-offset:2px}
+    .navigator-window-date,.navigator-boundary-date{position:absolute;color:var(--text-dim);font-size:11px;line-height:1;white-space:nowrap;pointer-events:none}
+    .navigator-full-days{position:absolute;color:var(--accent);font-size:11px;font-weight:600;line-height:1;white-space:nowrap;pointer-events:none;transform:translateX(-50%)}
+    .navigator-window-start{transform:translateX(calc(-100% - 20px))}
+    .navigator-window-end{transform:translateX(20px)}
+    .navigator-boundary-start{left:0;bottom:4px}
+    .navigator-boundary-end{right:0;bottom:4px}
+    .main-chart{height:400px;position:relative}
     .time-range{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
-    .time-range button{padding:6px 16px;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--text-dim);cursor:pointer}
+    .time-range button{height:30px;display:inline-flex;align-items:center;padding:0 16px;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--text-dim);cursor:pointer}
     .time-range button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .custom-days{height:30px;display:flex;align-items:center;gap:4px;padding:0 8px;border:1px solid var(--border);border-radius:6px;color:var(--text-dim);font-size:13px}
+    .custom-days input{width:34px;padding:0;border:0;border-bottom:1px solid var(--border);border-radius:0;background:transparent;color:var(--text-main);font:inherit;text-align:center;outline:none}
+    .custom-days input:focus{border-bottom-color:var(--accent)}
+    .custom-days.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .custom-days.active input{color:#fff;border-bottom-color:rgba(255,255,255,.75)}
+    .video-toggle{display:flex;align-items:center;gap:6px;margin-left:auto;padding:6px 0;color:var(--text-dim);font-size:13px;cursor:pointer;user-select:none}
+    .video-toggle input{accent-color:var(--accent)}
+    .video-markers{position:absolute;inset:0;z-index:2;pointer-events:none}
+    .video-marker-label,.video-marker-hit{position:absolute;pointer-events:auto}
+    .video-marker-label{width:148px;height:28px;padding:0;border:1px solid var(--accent);border-radius:6px;background:var(--card-bg);color:var(--text-main);font-size:12px;box-shadow:0 2px 7px rgba(0,0,0,.2);cursor:pointer}
+    .video-marker-title{display:block;height:26px;padding:0 9px;line-height:26px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:left}
+    .video-marker-hit{width:18px;height:18px;padding:0;border:0;border-radius:50%;background:transparent;cursor:pointer}
+    .video-marker-label,.video-marker-hit{text-decoration:none}
+    .video-marker-label:hover,.video-marker-label:focus,.video-marker-hit:hover,.video-marker-hit:focus{z-index:1000 !important}
+    .video-marker-label:focus-visible,.video-marker-hit:focus-visible{outline:2px solid var(--text-main);outline-offset:2px}
+    .video-detail{position:absolute;top:calc(100% + 8px);left:50%;display:flex;gap:9px;width:280px;padding:9px;border:1px solid var(--border);border-radius:8px;background:var(--card-bg);color:var(--text-main);box-shadow:0 8px 20px rgba(0,0,0,.3);opacity:0;visibility:hidden;transform:translate(-50%,-4px);transition:opacity .14s ease,transform .14s ease;pointer-events:none;text-align:left;z-index:3}
+    .video-marker-label:hover .video-detail,.video-marker-label:focus .video-detail,.video-marker-hit:hover .video-detail,.video-marker-hit:focus .video-detail{opacity:1;visibility:visible;transform:translate(-50%,0)}
+    .video-detail-cover{width:96px;height:54px;flex:none;position:relative}
+    .video-detail-cover img{width:100%;height:100%;display:block;object-fit:cover;border-radius:4px;background:var(--border)}
+    .video-duration{position:absolute;right:3px;bottom:3px;padding:1px 4px;border-radius:2px;background:rgba(0,0,0,.78);color:#fff;font-size:11px;line-height:1.25}
+    .video-detail-copy{min-width:0}
+    .video-detail-title{font-size:13px;font-weight:600;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+    .video-detail-meta{margin-top:5px;color:var(--text-dim);font-size:12px;line-height:1.4;text-align:right}
     .input-box{text-align:center;padding:100px 20px}
     .query-form{display:flex;justify-content:center;align-items:center;gap:8px;margin-top:24px}
     .query-form input{height:36px;width:200px;padding:0 10px;border-radius:6px;border:1px solid var(--border);background:var(--bg-color);color:var(--text-main);line-height:36px}
@@ -83,7 +118,7 @@
           renderError(res.status === 404 ? '没有这个UP主的数据' : '数据加载失败');
           return;
         }
-        const { meta, records } = await res.json();
+        const { meta, records, videos = [] } = await res.json();
         if (!meta || !Array.isArray(records)) {
           renderError('数据格式错误');
           return;
@@ -92,7 +127,7 @@
           renderError('暂无粉丝记录');
           return;
         }
-        render(meta, records);
+        render(meta, records, videos);
       } catch (e) {
         renderError('数据加载失败');
       }
@@ -104,7 +139,8 @@
     }
 
     let chart = null;
-    function render(meta, records) {
+    let overviewChart = null;
+    function render(meta, records, videos) {
       const latest = records[records.length - 1];
       const todayStart = new Date();
       todayStart.setHours(0, 0, 0, 0);
@@ -136,17 +172,281 @@
             <button data-days="30">30天</button>
             <button data-days="90">90天</button>
             <button data-days="365">365天</button>
+            <label class="custom-days" id="customDaysControl">自定义 <input id="customDays" type="number" min="1" step="1" value="3" aria-label="自定义天数"> 天</label>
             <button data-days="0">全部</button>
+            <label class="video-toggle"><input type="checkbox" id="videoToggle"> 视频投稿</label>
           </div>
-          <canvas id="chart"></canvas>
+          <div class="navigator">
+            <div class="navigator-chart"><canvas id="overviewChart"></canvas></div>
+            <button class="navigator-handle" id="navigatorHandle" type="button" aria-label="拖动查看时间范围"></button>
+            <span class="navigator-full-days" id="navigatorFullDays" hidden></span>
+            <span class="navigator-window-date navigator-window-start" id="windowStartDate"></span>
+            <span class="navigator-window-date navigator-window-end" id="windowEndDate"></span>
+            <span class="navigator-boundary-date navigator-boundary-start" id="fullStartDate"></span>
+            <span class="navigator-boundary-date navigator-boundary-end" id="fullEndDate"></span>
+          </div>
+          <div class="main-chart">
+            <canvas id="chart"></canvas>
+            <div class="video-markers" id="videoMarkers"></div>
+          </div>
         </div>
       `;
       
       let selectedPoints = [];
+      let showVideoPosts = false;
+      const markerLayer = document.getElementById('videoMarkers');
+      const navigatorHandle = document.getElementById('navigatorHandle');
+      const navigatorFullDays = document.getElementById('navigatorFullDays');
+      const customDaysInput = document.getElementById('customDays');
+      const customDaysControl = document.getElementById('customDaysControl');
+      const windowStartDate = document.getElementById('windowStartDate');
+      const windowEndDate = document.getElementById('windowEndDate');
+      const fullStartDate = document.getElementById('fullStartDate');
+      const fullEndDate = document.getElementById('fullEndDate');
+      const rangeButtons = [...document.querySelectorAll('#timeRange button')];
+      const preferenceKey = 'bili-fans-tracker:chart-preferences';
+      let selectedDays = 7;
+      try {
+        const saved = JSON.parse(localStorage.getItem(preferenceKey) || '{}');
+        const savedDays = Number(saved.selectedDays);
+        const savedCustomDays = Math.floor(Number(saved.customDays));
+        if (Number.isFinite(savedDays) && savedDays >= 0) selectedDays = savedDays;
+        if (Number.isFinite(savedCustomDays) && savedCustomDays >= 1) customDaysInput.value = String(savedCustomDays);
+        showVideoPosts = saved.showVideoPosts === true;
+      } catch {
+        // Use the default controls when storage is unavailable or malformed.
+      }
+      document.getElementById('videoToggle').checked = showVideoPosts;
+      const fullStartTime = new Date(records[0].time).getTime();
+      const fullEndTime = new Date(records[records.length - 1].time).getTime();
+      const fullSpan = Math.max(0, fullEndTime - fullStartTime);
+      const fullDays = Math.max(1, Math.ceil(fullSpan / 86400000));
+      let rangeStart = Math.max(fullStartTime, fullEndTime - selectedDays * 86400000);
 
-      const renderChart = (days) => {
+      const savePreferences = () => {
+        try {
+          localStorage.setItem(preferenceKey, JSON.stringify({
+            selectedDays,
+            customDays: Math.floor(Number(customDaysInput.value)) || 3,
+            showVideoPosts
+          }));
+        } catch {
+          // The chart remains fully usable when storage is unavailable.
+        }
+      };
+
+      const formatNavigatorDate = (time, includeYear) => {
+        const date = new Date(time);
+        const month = String(date.getMonth() + 1).padStart(2, '0');
+        const day = String(date.getDate()).padStart(2, '0');
+        return includeYear ? `${date.getFullYear()}-${month}-${day}` : `${month}-${day}`;
+      };
+      fullStartDate.textContent = formatNavigatorDate(fullStartTime, true);
+      fullEndDate.textContent = formatNavigatorDate(fullEndTime, true);
+
+      const getActiveRange = () => {
+        const duration = selectedDays === 0 ? fullSpan : Math.min(fullSpan, selectedDays * 86400000);
+        const maxStart = fullEndTime - duration;
+        rangeStart = Math.min(Math.max(rangeStart, fullStartTime), maxStart);
+        return { start: rangeStart, end: rangeStart + duration, maxStart };
+      };
+
+      const setSelectedDays = days => {
+        selectedDays = days;
+        const duration = days === 0 ? fullSpan : Math.min(fullSpan, days * 86400000);
+        rangeStart = fullEndTime - duration;
+      };
+
+      const syncRangeControl = () => {
+        rangeButtons.forEach(button => button.classList.remove('active'));
+        const matchedButton = rangeButtons.find(button => Number(button.dataset.days) === selectedDays);
+        if (matchedButton) {
+          matchedButton.classList.add('active');
+          customDaysControl.classList.remove('active');
+        } else {
+          customDaysControl.classList.add('active');
+        }
+      };
+      syncRangeControl();
+
+      const formatVideoDuration = seconds => {
+        const total = Number(seconds);
+        if (!Number.isFinite(total)) return '时长未知';
+        const hours = Math.floor(total / 3600);
+        const minutes = Math.floor((total % 3600) / 60);
+        const secs = total % 60;
+        return hours > 0
+          ? `${hours}:${String(minutes).padStart(2, '0')}:${String(secs).padStart(2, '0')}`
+          : `${minutes}:${String(secs).padStart(2, '0')}`;
+      };
+
+      const formatVideoDate = seconds => {
+        const date = new Date(Number(seconds) * 1000);
+        if (Number.isNaN(date.getTime())) return '发布时间未知';
+        return new Intl.DateTimeFormat('zh-CN', {
+          year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false
+        }).format(date);
+      };
+
+      const interpolateFans = (points, time) => {
+        for (let i = 1; i < points.length; i += 1) {
+          const leftTime = new Date(points[i - 1].time).getTime();
+          const rightTime = new Date(points[i].time).getTime();
+          if (time <= rightTime) {
+            const ratio = rightTime === leftTime ? 0 : (time - leftTime) / (rightTime - leftTime);
+            return points[i - 1].fans + (points[i].fans - points[i - 1].fans) * ratio;
+          }
+        }
+        return points[points.length - 1].fans;
+      };
+
+      const createVideoDetail = video => {
+        const detail = document.createElement('div');
+        detail.className = 'video-detail';
+        const cover = document.createElement('div');
+        cover.className = 'video-detail-cover';
+        const image = document.createElement('img');
+        image.src = video.pic;
+        image.alt = '';
+        image.referrerPolicy = 'no-referrer';
+        const duration = document.createElement('span');
+        duration.className = 'video-duration';
+        duration.textContent = formatVideoDuration(video.duration);
+        cover.append(image, duration);
+        const copy = document.createElement('div');
+        copy.className = 'video-detail-copy';
+        const title = document.createElement('div');
+        title.className = 'video-detail-title';
+        title.textContent = video.title || '未命名视频';
+        const meta = document.createElement('div');
+        meta.className = 'video-detail-meta';
+        meta.textContent = formatVideoDate(video.pubdate);
+        copy.append(title, meta);
+        detail.append(cover, copy);
+        return detail;
+      };
+
+      const renderVideoMarkers = (chartInstance, state) => {
+        markerLayer.replaceChildren();
+        if (!state.points.length) return;
+        const wrapRect = markerLayer.parentElement.getBoundingClientRect();
+        const canvasRect = chartInstance.canvas.getBoundingClientRect();
+        const leftOffset = canvasRect.left - wrapRect.left;
+        const topOffset = canvasRect.top - wrapRect.top;
+
+        const orderedPoints = [...state.points].sort((a, b) => Number(a.video.pubdate) - Number(b.video.pubdate));
+        for (const [index, point] of orderedPoints.entries()) {
+          const marker = document.createElement('a');
+          marker.className = state.showLabels ? 'video-marker-label' : 'video-marker-hit';
+          marker.href = `https://www.bilibili.com/video/${encodeURIComponent(point.video.bvid)}`;
+          marker.target = '_blank';
+          marker.rel = 'noopener noreferrer';
+          marker.setAttribute('aria-label', `视频投稿：${point.video.title || '未命名视频'}`);
+          if (state.showLabels) {
+            const title = document.createElement('span');
+            title.className = 'video-marker-title';
+            title.textContent = point.video.title || '未命名视频';
+            marker.append(title);
+          }
+          marker.append(createVideoDetail(point.video));
+          marker.style.left = `${leftOffset + point.x}px`;
+          marker.style.top = `${topOffset + (state.showLabels ? state.labelY + (point.labelLane || 0) * 31 : point.y)}px`;
+          marker.style.transform = 'translate(-50%, -50%)';
+          marker.style.zIndex = String(index + 1);
+          markerLayer.append(marker);
+        }
+      };
+
+      const updateNavigator = () => {
+        const activeRange = getActiveRange();
+        if (overviewChart) {
+          overviewChart.$activeRange = activeRange;
+          overviewChart.update('none');
+          const navigatorRect = navigatorHandle.parentElement.getBoundingClientRect();
+          const canvasRect = overviewChart.canvas.getBoundingClientRect();
+          const left = overviewChart.scales.x.getPixelForValue(activeRange.start);
+          const right = overviewChart.scales.x.getPixelForValue(activeRange.end);
+          const canvasLeft = canvasRect.left - navigatorRect.left;
+          const canvasTop = canvasRect.top - navigatorRect.top;
+          const windowTop = canvasTop + overviewChart.chartArea.top;
+          navigatorHandle.style.left = `${canvasLeft + (left + right) / 2}px`;
+          navigatorHandle.style.top = `${windowTop - 18}px`;
+          navigatorFullDays.style.left = `${canvasLeft + (left + right) / 2}px`;
+          navigatorFullDays.style.top = `${windowTop - 20}px`;
+          windowStartDate.style.left = `${canvasLeft + (left + right) / 2}px`;
+          windowStartDate.style.top = `${windowTop - 20}px`;
+          windowEndDate.style.left = `${canvasLeft + (left + right) / 2}px`;
+          windowEndDate.style.top = `${windowTop - 20}px`;
+          windowStartDate.textContent = formatNavigatorDate(activeRange.start, false);
+          windowEndDate.textContent = formatNavigatorDate(activeRange.end, false);
+          const coversFullRange = activeRange.maxStart === fullStartTime;
+          navigatorHandle.hidden = coversFullRange;
+          navigatorFullDays.hidden = !coversFullRange;
+          navigatorFullDays.textContent = `${fullDays}天`;
+        }
+      };
+
+      const renderNavigator = () => {
+        const navigatorStyle = getComputedStyle(document.documentElement);
+        const navigatorAccent = navigatorStyle.getPropertyValue('--accent').trim();
+        const navigatorAccentFill = navigatorStyle.getPropertyValue('--accent-fill').trim();
+        const navigatorDim = navigatorStyle.getPropertyValue('--text-dim').trim();
+        const rangeOverlayPlugin = {
+          id: 'rangeOverlay',
+          afterDatasetsDraw(instance) {
+            const activeRange = instance.$activeRange;
+            if (!activeRange) return;
+            const { ctx, chartArea, scales } = instance;
+            const left = scales.x.getPixelForValue(activeRange.start);
+            const right = scales.x.getPixelForValue(activeRange.end);
+            ctx.save();
+            ctx.fillStyle = navigatorAccentFill;
+            ctx.fillRect(left, chartArea.top, right - left, chartArea.bottom - chartArea.top);
+            ctx.strokeStyle = navigatorAccent;
+            ctx.lineWidth = 1.5;
+            ctx.setLineDash([4, 3]);
+            ctx.strokeRect(left + .75, chartArea.top + .75, Math.max(0, right - left - 1.5), chartArea.bottom - chartArea.top - 1.5);
+            ctx.restore();
+          }
+        };
+        overviewChart = new Chart(document.getElementById('overviewChart').getContext('2d'), {
+          type: 'line',
+          data: {
+            datasets: [{
+              data: records.map(record => ({ x: new Date(record.time), y: record.fans })),
+              borderColor: navigatorAccent,
+              borderWidth: 1.5,
+              pointRadius: 0,
+              fill: true,
+              backgroundColor: navigatorAccentFill,
+              tension: 0.3
+            }]
+          },
+          plugins: [rangeOverlayPlugin],
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            animation: false,
+            events: [],
+            scales: {
+              x: { type: 'time', display: false },
+              y: { display: false }
+            },
+            plugins: { legend: { display: false }, tooltip: { enabled: false } },
+            layout: { padding: { left: 1, right: 1, top: 3, bottom: 3 } },
+            color: navigatorDim
+          }
+        });
+        updateNavigator();
+      };
+
+      const renderChart = () => {
         selectedPoints = [];
-        const filtered = days === 0 ? records : records.filter(r => new Date(r.time) > Date.now() - days * 86400000);
+        const activeRange = getActiveRange();
+        const filtered = records.filter(record => {
+          const time = new Date(record.time).getTime();
+          return time >= activeRange.start && time <= activeRange.end;
+        });
         const ctx = document.getElementById('chart').getContext('2d');
         if (chart) chart.destroy();
 
@@ -155,7 +455,7 @@
         const colorBorder = computedStyle.getPropertyValue('--border').trim();
         const colorAccent = computedStyle.getPropertyValue('--accent').trim();
         const colorAccentFill = computedStyle.getPropertyValue('--accent-fill').trim();
-        const pointStep = Math.max(1, Math.ceil(filtered.length / 180));
+        const pointStep = Math.max(1, Math.ceil(filtered.length / 60));
 
         const formatDuration = ms => {
           const abs = Math.abs(ms);
@@ -251,12 +551,101 @@
           }
         };
 
+        const videoMarkerPlugin = {
+          id: 'videoMarkers',
+          afterDatasetsDraw(chartInstance) {
+            if (filtered.length === 0) {
+              chartInstance.$videoMarkerState = { points: [], showLabels: false };
+              return;
+            }
+            const firstTime = activeRange.start;
+            const lastTime = activeRange.end;
+            const points = videos
+              .filter(video => {
+                const time = Number(video.pubdate) * 1000;
+                return Number.isFinite(time) && time >= firstTime && time <= lastTime;
+              })
+              .map(video => {
+                const time = Number(video.pubdate) * 1000;
+                const fans = interpolateFans(records, time);
+                return {
+                  video,
+                  x: chartInstance.scales.x.getPixelForValue(time),
+                  y: chartInstance.scales.y.getPixelForValue(fans)
+                };
+              });
+            if (showVideoPosts) {
+              const lanes = [[], [], []];
+              // A small overlap keeps the label area compact; only clearly
+              // overlapping labels need a different track.
+              const minimumLabelGap = 112;
+              [...points]
+                .sort((a, b) => a.x - b.x)
+                .forEach(point => {
+                  let laneIndex = lanes.findIndex(lane => lane.every(other => Math.abs(other.x - point.x) >= minimumLabelGap));
+                  if (laneIndex === -1) {
+                    // More than three labels overlap: reuse the lane whose
+                    // closest label is furthest away.
+                    laneIndex = lanes
+                      .map((lane, index) => ({
+                        index,
+                        clearance: Math.min(...lane.map(other => Math.abs(other.x - point.x)))
+                      }))
+                      .sort((a, b) => b.clearance - a.clearance)[0].index;
+                  }
+                  point.labelLane = laneIndex;
+                  lanes[laneIndex].push(point);
+                });
+            }
+            const state = {
+              points,
+              showLabels: showVideoPosts,
+              labelY: chartInstance.chartArea.top - 77
+            };
+            chartInstance.$videoMarkerState = state;
+
+            const { ctx } = chartInstance;
+            ctx.save();
+            ctx.strokeStyle = colorAccent;
+            ctx.fillStyle = colorAccent;
+            ctx.lineWidth = 1.5;
+            for (const point of points) {
+              const labelY = state.labelY + (point.labelLane || 0) * 31;
+              if (state.showLabels && point.y > labelY + 16) {
+                ctx.setLineDash([3, 3]);
+                ctx.beginPath();
+                ctx.moveTo(point.x, labelY + 16);
+                ctx.lineTo(point.x, point.y - 10);
+                ctx.stroke();
+              }
+              ctx.setLineDash([]);
+              // A small flag makes a publishing event visually distinct from
+              // the blue circular markers used for fan samples.
+              ctx.beginPath();
+              ctx.moveTo(point.x, point.y - 9);
+              ctx.lineTo(point.x, point.y + 8);
+              ctx.stroke();
+              ctx.beginPath();
+              ctx.moveTo(point.x, point.y - 9);
+              ctx.lineTo(point.x + 8, point.y - 5);
+              ctx.lineTo(point.x, point.y - 1);
+              ctx.closePath();
+              ctx.fill();
+            }
+            ctx.restore();
+          },
+          afterRender(chartInstance) {
+            renderVideoMarkers(chartInstance, chartInstance.$videoMarkerState || { points: [], showLabels: false });
+          }
+        };
+
         chart = new Chart(ctx, {
           type: 'line',
           data: { datasets: [{ data: filtered.map(r => ({x: new Date(r.time), y: r.fans})), borderColor: colorAccent, fill: true, backgroundColor: colorAccentFill, tension: 0.3, pointRadius: ctx => ctx.dataIndex % pointStep === 0 ? 3 : 0, pointHoverRadius: 5, pointHitRadius: 10 }] },
-          plugins: [comparisonPlugin],
+          plugins: [comparisonPlugin, videoMarkerPlugin],
           options: {
             responsive: true, maintainAspectRatio: false,
+            layout: { padding: { top: showVideoPosts ? 92 : 0 } },
             onClick: (event) => {
               const elements = chart.getElementsAtEventForMode(event, 'nearest', { intersect: true }, true);
               if (elements.length === 0) {
@@ -271,6 +660,8 @@
             scales: { 
               x: { 
                 type: 'time', 
+                min: activeRange.start,
+                max: activeRange.end,
                 time: {
                   minUnit: 'hour',
                   tooltipFormat: 'yyyy-MM-dd HH:mm',
@@ -299,14 +690,59 @@
             plugins: { legend: { display: false } }
           }
         });
+        updateNavigator();
       };
       
-      document.querySelectorAll('#timeRange button').forEach(btn => btn.onclick = function() {
-        document.querySelectorAll('#timeRange button').forEach(b => b.classList.remove('active'));
-        this.classList.add('active');
-        renderChart(parseInt(this.dataset.days));
+      rangeButtons.forEach(btn => btn.onclick = function() {
+        setSelectedDays(Number(this.dataset.days));
+        syncRangeControl();
+        savePreferences();
+        renderChart();
       });
-      renderChart(7);
+
+      const applyCustomDays = () => {
+        const days = Number(customDaysInput.value);
+        if (!Number.isFinite(days) || days <= 0) return;
+        setSelectedDays(Math.floor(days));
+        syncRangeControl();
+        savePreferences();
+        renderChart();
+      };
+      customDaysInput.oninput = applyCustomDays;
+
+      let navigatorDrag = null;
+      navigatorHandle.addEventListener('pointerdown', event => {
+        if (!overviewChart) return;
+        const canvasRect = overviewChart.canvas.getBoundingClientRect();
+        navigatorDrag = {
+          pointerId: event.pointerId,
+          startValue: overviewChart.scales.x.getValueForPixel(event.clientX - canvasRect.left),
+          rangeStart
+        };
+        navigatorHandle.setPointerCapture(event.pointerId);
+        event.preventDefault();
+      });
+      navigatorHandle.addEventListener('pointermove', event => {
+        if (!navigatorDrag || event.pointerId !== navigatorDrag.pointerId || !overviewChart) return;
+        const canvasRect = overviewChart.canvas.getBoundingClientRect();
+        const currentValue = overviewChart.scales.x.getValueForPixel(event.clientX - canvasRect.left);
+        rangeStart = navigatorDrag.rangeStart + currentValue - navigatorDrag.startValue;
+        renderChart();
+      });
+      const endNavigatorDrag = event => {
+        if (!navigatorDrag || event.pointerId !== navigatorDrag.pointerId) return;
+        navigatorHandle.releasePointerCapture(event.pointerId);
+        navigatorDrag = null;
+      };
+      navigatorHandle.addEventListener('pointerup', endNavigatorDrag);
+      navigatorHandle.addEventListener('pointercancel', endNavigatorDrag);
+      document.getElementById('videoToggle').onchange = function() {
+        showVideoPosts = this.checked;
+        savePreferences();
+        renderChart();
+      };
+      renderNavigator();
+      renderChart();
     }
   </script>
 </body>

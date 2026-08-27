@@ -3262,6 +3262,112 @@
     {
       "time": "2026-08-27T09:43:11.245Z",
       "fans": 231711
+    },
+    {
+      "time": "2026-08-27T12:10:36.882Z",
+      "fans": 231721
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117092854600804,
+      "bvid": "BV1d5gN6eEhX",
+      "ctime": 1786695679,
+      "pubdate": 1786712400,
+      "duration": 1249,
+      "pic": "http://i0.hdslb.com/bfs/archive/a7344269c386378f603b1b7769685511d74bdc95.jpg",
+      "title": "疯狂灌水！又臭又长！吐槽248元的GF诈骗之作《轮回之兽》!",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 116640624809371,
+      "bvid": "BV1auVK6BE4r",
+      "ctime": 1779794958,
+      "pubdate": 1779796800,
+      "duration": 595,
+      "pic": "http://i1.hdslb.com/bfs/archive/11cba5cd2481a87da3767f19915bb2cac914b485.jpg",
+      "title": "优雅潜行！全靠忽悠！首发体验杀手公司新作《007初露锋芒》！",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 116401650014149,
+      "bvid": "BV18KQiB1EfF",
+      "ctime": 1776148538,
+      "pubdate": 1776171600,
+      "duration": 960,
+      "pic": "http://i1.hdslb.com/bfs/archive/5aace82500d74868e63da8042d47ff04adfccfa3.jpg",
+      "title": "宝宝游戏！玩睡着了！吐槽藤子的《王者荣耀世界》！",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 116294292607191,
+      "bvid": "BV1vpXpBnETm",
+      "ctime": 1774510502,
+      "pubdate": 1774530000,
+      "duration": 931,
+      "pic": "http://i1.hdslb.com/bfs/archive/7294b2d6754db24ad068097a3b155b80c387f13a.jpg",
+      "title": "首发灾难！玩力竭了！吐槽韩国开放世界新游《红色沙漠》！",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 116226898532349,
+      "bvid": "BV1TBwxzgERr",
+      "ctime": 1773482065,
+      "pubdate": 1773493200,
+      "duration": 780,
+      "pic": "http://i2.hdslb.com/bfs/archive/8f0c0e345b55df7abc4dc3c721e49b15f6a38e20.jpg",
+      "title": "还是传奇！好玩的一！吐槽最新的《杀戮尖塔2》！",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 115949436935682,
+      "bvid": "BV1LMzCB5Ehc",
+      "ctime": 1769248196,
+      "pubdate": 1769259600,
+      "duration": 606,
+      "pic": "http://i0.hdslb.com/bfs/archive/60e2df96653886b65af675f58d1884c6c39a8fbb.jpg",
+      "title": "【终末地】最近都在玩的新二游真的好玩吗？UP刚入坑给你答案！",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 115779165032496,
+      "bvid": "BV1hCBSBDEwo",
+      "ctime": 1766649992,
+      "pubdate": 1766669400,
+      "duration": 1325,
+      "pic": "http://i2.hdslb.com/bfs/archive/b8fd1ce6856d34682baee4114ad40976fbad3b6d.jpg",
+      "title": "烧杀抢掠！为所欲为！吐槽痛失年度的《天国拯救2》！",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 115705999529338,
+      "bvid": "BV1LSm7BfE66",
+      "ctime": 1765533653,
+      "pubdate": 1765533878,
+      "duration": 997,
+      "pic": "http://i1.hdslb.com/bfs/archive/e26c874a5b22279af25441d7f340a51877f621bb.jpg",
+      "title": "左右互博！玩着闹心！吐槽最新的《黑夜君临》DLC！",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 115585421680128,
+      "bvid": "BV1SFyuBJEWV",
+      "ctime": 1763693954,
+      "pubdate": 1763731859,
+      "duration": 1505,
+      "pic": "http://i1.hdslb.com/bfs/archive/fd323ffd1305696e366344ed4b750e36e8a9a87e.jpg",
+      "title": "魂游起源！最老资历！吐槽FS社30年前的第一款游戏《国王密令》！",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
+    },
+    {
+      "aid": 115382954235247,
+      "bvid": "BV1cwWvzGEBm",
+      "ctime": 1760604604,
+      "pubdate": 1760706000,
+      "duration": 612,
+      "pic": "http://i2.hdslb.com/bfs/archive/3ebcb2d654c15ffd3fcd9d9f3986a7f3ccceb14c.jpg",
+      "title": "网易又整活！漫威也干了！体验网易新游《漫威秘法狂潮》",
+      "recorded_at": "2026-08-27T10:26:17.569Z"
     }
   ]
 }

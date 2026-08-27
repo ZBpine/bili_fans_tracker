@@ -3262,6 +3262,112 @@
     {
       "time": "2026-08-27T09:43:11.245Z",
       "fans": 2197887
+    },
+    {
+      "time": "2026-08-27T12:10:36.882Z",
+      "fans": 2197862
+    }
+  ],
+  "videos": [
+    {
+      "aid": 116878106368248,
+      "bvid": "BV1fBM86MEMa",
+      "ctime": 1783419076,
+      "pubdate": 1783419075,
+      "duration": 892,
+      "pic": "http://i2.hdslb.com/bfs/archive/3bd9b4275efd6775e101615285cce865a5f0f6b2.jpg",
+      "title": "【睡前消息1075】最先被非洲移民炸掉的国家 可能是南非",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116855977090584,
+      "bvid": "BV1MAT46rE3R",
+      "ctime": 1783081047,
+      "pubdate": 1783081305,
+      "duration": 1311,
+      "pic": "http://i1.hdslb.com/bfs/archive/4df1511878f9a7a248afc42a5be7f8235593a3ec.jpg",
+      "title": "【睡前消息1073】广西冻肉漂移河南 远洋捕捞vs反向钓鱼",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116838763600587,
+      "bvid": "BV18SKf6vES1",
+      "ctime": 1782818698,
+      "pubdate": 1782818697,
+      "duration": 1445,
+      "pic": "http://i1.hdslb.com/bfs/archive/000d61893f12d90dcfaa04a3ec16edca37e00a28.jpg",
+      "title": "【睡前消息1072】海力士不看学历  南非对中国顺差",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116832673470548,
+      "bvid": "BV1jfKU6UEVH",
+      "ctime": 1782725902,
+      "pubdate": 1782725902,
+      "duration": 1498,
+      "pic": "http://i0.hdslb.com/bfs/archive/ac4014e76d04f2d86e6e4084b32080cecf0a8181.jpg",
+      "title": "认识历史的复杂性【马督工带你读懂民国 答疑丁】",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116827657081160,
+      "bvid": "BV15CTg6uE4U",
+      "ctime": 1782649023,
+      "pubdate": 1782649023,
+      "duration": 1298,
+      "pic": "http://i1.hdslb.com/bfs/archive/6be40018410b7bedc28427016400620bf4a3161b.jpg",
+      "title": "【睡前消息1071】电动汽车交养路费 别讲“4次方”鬼故事",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116816332463579,
+      "bvid": "BV1k97V6sEdY",
+      "ctime": 1782476088,
+      "pubdate": 1782476088,
+      "duration": 1201,
+      "pic": "http://i0.hdslb.com/bfs/archive/41e0acfdb456e0f33127c86d44509a8b9cf6fe98.jpg",
+      "title": "【睡前消息1070】AI替人钓鱿鱼 最合理的下岗",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116799152660026,
+      "bvid": "BV1CCj267Ef6",
+      "ctime": 1782213982,
+      "pubdate": 1782214519,
+      "duration": 1137,
+      "pic": "http://i2.hdslb.com/bfs/archive/94d4297153ce5cd3e7bfb3b4cd2452472718a1e9.jpg",
+      "title": "【睡前消息1069】监督政府 监督学术 都让专业的人来",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116776704679898,
+      "bvid": "BV1vNjB63ELy",
+      "ctime": 1781871480,
+      "pubdate": 1781872112,
+      "duration": 1083,
+      "pic": "http://i2.hdslb.com/bfs/archive/13a43684427c3895e067c4c374e9c6e03b379c0d.jpg",
+      "title": "【睡前消息1068】散户炒美股 试验结束了",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116765698825800,
+      "bvid": "BV1foL96oEUe",
+      "ctime": 1781703476,
+      "pubdate": 1781703475,
+      "duration": 1863,
+      "pic": "http://i1.hdslb.com/bfs/archive/a664af80b2686c17daf02d776c98f60aa9318810.jpg",
+      "title": "【睡前消息1067】欧盟和中国，都要反“地方”保护主义",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
+    },
+    {
+      "aid": 116758937607147,
+      "bvid": "BV1BGjG66Epr",
+      "ctime": 1781600360,
+      "pubdate": 1781604424,
+      "duration": 999,
+      "pic": "http://i2.hdslb.com/bfs/archive/e9979489456b747d8e2bd692996a655034089b5c.jpg",
+      "title": "储能要投资，先过实证关",
+      "recorded_at": "2026-08-27T10:27:08.358Z"
     }
   ]
 }

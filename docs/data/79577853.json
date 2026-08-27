@@ -3262,6 +3262,212 @@
     {
       "time": "2026-08-27T09:43:11.245Z",
       "fans": 4272327
+    },
+    {
+      "time": "2026-08-27T12:10:36.882Z",
+      "fans": 4272396
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117134394918552,
+      "bvid": "BV1M48B6PE7k",
+      "ctime": 1787330241,
+      "pubdate": 1787330241,
+      "duration": 19643,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】鸣潮3.6 2026年08月21日18点场",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 117126794977250,
+      "bvid": "BV1Vxbf6aE9H",
+      "ctime": 1787213588,
+      "pubdate": 1787213588,
+      "duration": 982,
+      "pic": "http://i2.hdslb.com/bfs/archive/687624f1bc6d445ac5c2585fec7e0a6205f6fe8a.jpg",
+      "title": "《黑神话：钟馗》实机终极深扒，游科成为世界第一ARPG开发商的底气！【游戏之外】",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 117125469506949,
+      "bvid": "BV1xjbZ6UEpK",
+      "ctime": 1787193417,
+      "pubdate": 1787193417,
+      "duration": 2125,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】黑神话钟馗！！来了！！ 2026年08月20日09点场",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 117116678182740,
+      "bvid": "BV14N8G6pEAf",
+      "ctime": 1787058995,
+      "pubdate": 1787058994,
+      "duration": 1722,
+      "pic": "http://i1.hdslb.com/bfs/archive/e44561652363a21db477f1130469aa2425ddc7ed.jpg",
+      "title": "商务漂流、擦边二游，现代人为何如此性压抑？【围炉夜话】",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 117114547539175,
+      "bvid": "BV1cqbr6cEaC",
+      "ctime": 1787026967,
+      "pubdate": 1787026967,
+      "duration": 5256,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】看影之刃SOP 2026年08月18日10点场",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 117081144104001,
+      "bvid": "BV171gG64EHq",
+      "ctime": 1786516628,
+      "pubdate": 1786516628,
+      "duration": 620,
+      "pic": "http://i0.hdslb.com/bfs/archive/312d558b74cbdfd09e68c9ef1a06ba3f6036a19f.jpg",
+      "title": "《影之刃零》：甄子丹？就这？【印象】",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 117068879959137,
+      "bvid": "BV1PvuQ6CEwK",
+      "ctime": 1786329953,
+      "pubdate": 1786334400,
+      "duration": 4021,
+      "pic": "http://i0.hdslb.com/bfs/archive/0f5ad9209e293473fd950bd215f9228b7f035d72.jpg",
+      "title": "CF出新作，居然是3A单机？深度对话《穿越火线：潜伏》首席创意官【视频播客EP.64】",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 117054870982708,
+      "bvid": "BV1bNu869En6",
+      "ctime": 1786115727,
+      "pubdate": 1786154400,
+      "duration": 946,
+      "pic": "http://i0.hdslb.com/bfs/archive/166c9af2a808bb3ac025ad108fb532d972ee926a.jpg",
+      "title": "玩家不是没得玩，是已经吃的太撑了",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 117043848484215,
+      "bvid": "BV1v9M16VEmS",
+      "ctime": 1785947601,
+      "pubdate": 1785981600,
+      "duration": 565,
+      "pic": "http://i1.hdslb.com/bfs/archive/eb9bf2b1f739a9011751762e3cf428fbf797e4dc.jpg",
+      "title": "主机巨头想了二十年的梦，鸿蒙换了种方式实现！？",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116959593105141,
+      "bvid": "BV1ouKv6yEfF",
+      "ctime": 1784664157,
+      "pubdate": 1784664156,
+      "duration": 20075,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】鸣潮启动  3.5~ 2026年07月21日21点场",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116958267710795,
+      "bvid": "BV1coK86MEwr",
+      "ctime": 1784641714,
+      "pubdate": 1784642001,
+      "duration": 899,
+      "pic": "http://i2.hdslb.com/bfs/archive/4f4acbda243c99544889d6d89cef832d7faa5d8f.jpg",
+      "title": "现在的国产手游，为何玩什么最后都要抽卡？",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116942228687204,
+      "bvid": "BV1d7KN6oEbT",
+      "ctime": 1784397629,
+      "pubdate": 1784397629,
+      "duration": 13376,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】鸣潮启动  3.4 3.5~ 2026年07月18日21点场",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116861798782369,
+      "bvid": "BV15fMP6ZERS",
+      "ctime": 1783169820,
+      "pubdate": 1783169820,
+      "duration": 1165,
+      "pic": "http://i0.hdslb.com/bfs/archive/f1b4c8e4c50c9b8a5702f315bd9818f0308b01a1.jpg",
+      "title": "全世界的资本家们，勾结起来！他们如何杀死玩家的游戏？【游戏之外】",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116855574437153,
+      "bvid": "BV1BPTt6fEs5",
+      "ctime": 1783074953,
+      "pubdate": 1783078485,
+      "duration": 1269,
+      "pic": "http://i2.hdslb.com/bfs/archive/e81965a05881f859dfebd64bed870182ba0f6bb7.jpg",
+      "title": "二游到底配不配叫3A？这问题本身就很蠢！",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116832472274845,
+      "bvid": "BV1U7KS6iENF",
+      "ctime": 1782722592,
+      "pubdate": 1782722592,
+      "duration": 1986,
+      "pic": "http://i2.hdslb.com/bfs/archive/6c94bb2e7d5c344c925c90d5a36186274b329a1b.jpg",
+      "title": "黑哨、贿选、死人！世界杯到底黑到什么程度？【围炉夜话】",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116759071823320,
+      "bvid": "BV1dij36NE1t",
+      "ctime": 1781602395,
+      "pubdate": 1781602394,
+      "duration": 557,
+      "pic": "http://i1.hdslb.com/bfs/archive/e4e54fd21f029f85aea4fe19008894c33bdd22c8.jpg",
+      "title": "设定最牛逼的科幻游戏？人类逃离地球后，发现一切都太晚了！",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116743334792693,
+      "bvid": "BV1bGJp6wEuq",
+      "ctime": 1781363064,
+      "pubdate": 1781363064,
+      "duration": 14293,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】亚当重锤挑战赛 2026年06月13日18点场",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116733318796377,
+      "bvid": "BV1ADE66KEZK",
+      "ctime": 1781209177,
+      "pubdate": 1781236800,
+      "duration": 4781,
+      "pic": "http://i0.hdslb.com/bfs/archive/b774b69adbddf91f2111d12ce7b5c890acb59601.jpg",
+      "title": "找两位百万UP畅聊《鸣潮》：从全网群嘲到封神联动，它做了些什么？【视频播客EP.54】",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116729158048465,
+      "bvid": "BV1h6EY6fEQz",
+      "ctime": 1781145987,
+      "pubdate": 1781145987,
+      "duration": 1259,
+      "pic": "http://i2.hdslb.com/bfs/archive/f09d4294260b54afd8c8fb3cc1833c73a22a35f5.jpg",
+      "title": "世界杯来了，赌狗也来了。【围炉夜话】",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
+    },
+    {
+      "aid": 116713605564573,
+      "bvid": "BV1GeEg6vEyZ",
+      "ctime": 1780909370,
+      "pubdate": 1780909370,
+      "duration": 12211,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】品鉴鸣潮3.4联动 2026年06月08日13点场",
+      "recorded_at": "2026-08-27T10:28:20.155Z"
     }
   ]
 }
