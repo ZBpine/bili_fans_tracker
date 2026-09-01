@@ -5,10 +5,10 @@
     "sign": "商务微信：xdc1113909972",
     "level": 6,
     "archive_count": 307,
-    "like_num": 1960652,
+    "like_num": 1962303,
     "following": 65,
     "official_title": "bilibili 知名游戏UP主",
-    "updated": "2026-08-31T13:43:08.124Z"
+    "updated": "2026-09-01T10:03:19.400Z"
   },
   "records": [
     {
@@ -3370,9 +3370,23 @@
     {
       "time": "2026-09-01T05:03:28.769Z",
       "fans": 232263
+    },
+    {
+      "time": "2026-09-01T10:03:19.400Z",
+      "fans": 232293
     }
   ],
   "videos": [
+    {
+      "aid": 117182176434754,
+      "bvid": "BV1GE4Q6KECH",
+      "ctime": 1788058323,
+      "pubdate": 1788094800,
+      "duration": 1591,
+      "pic": "http://i0.hdslb.com/bfs/archive/ffc8d9cd020564df852f03f8a139b1ca4bdcbb40.jpg",
+      "title": "谨慎购买！魂味太足！吐槽宫崎英高独占新作《黄昏血族》网测版！",
+      "recorded_at": "2026-09-01T10:03:19.400Z"
+    },
     {
       "aid": 117092854600804,
       "bvid": "BV1d5gN6eEhX",
