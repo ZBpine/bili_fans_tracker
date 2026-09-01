@@ -1,6 +1,7 @@
 const fs = require('fs');
 
 const config = JSON.parse(fs.readFileSync('config.json', 'utf-8'));
+const PROFILE_REFRESH_INTERVAL_MS = 8 * 60 * 60 * 1000;
 
 async function fetchCard(uid) {
   const url = `https://api.bilibili.com/x/web-interface/card?mid=${uid}`;
@@ -16,8 +17,7 @@ async function fetchCard(uid) {
     archive_count: json.data.archive_count,
     like_num: json.data.like_num,
     following: card.attention,
-    official_title: card.Official ? card.Official.title : '',
-    updated: new Date().toISOString()
+    official_title: card.Official ? card.Official.title : ''
   };
 }
 
@@ -90,7 +90,7 @@ function toTrackedVideo(video, recordedAt) {
 }
 
 async function syncVideos(uid, fileData, now) {
-  const videos = Array.isArray(fileData.videos) ? fileData.videos : [];
+  const videos = Array.isArray(fileData.videos) ? [...fileData.videos] : [];
   const knownBvids = new Set(videos.map(video => video.bvid).filter(Boolean));
   const trackingStart = fileData.records[0]
     ? new Date(fileData.records[0].time).getTime()
@@ -136,13 +136,17 @@ async function main() {
       fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
     }
 
-    // 1. 每 24 小时一起刷新用户资料与视频投稿
-    const refreshProfileDue = !fileData.meta || new Date() - new Date(fileData.meta.updated) > 24 * 60 * 60 * 1000;
+    // 1. 每 8 小时一起刷新用户资料与视频投稿
+    const metaUpdatedAt = fileData.meta && new Date(fileData.meta.updated).getTime();
+    const refreshProfileDue = !fileData.meta || !Number.isFinite(metaUpdatedAt) || Date.now() - metaUpdatedAt > PROFILE_REFRESH_INTERVAL_MS;
+    let refreshedMeta = null;
+    let metaSucceeded = false;
+    let videosSucceeded = false;
     if (refreshProfileDue) {
       console.log(`刷新 ${uid} 元数据...`);
       try {
-        fileData.meta = await fetchCard(uid);
-        changed = true;
+        refreshedMeta = await fetchCard(uid);
+        metaSucceeded = true;
       } catch (err) {
         console.error(`FAIL Meta ${uid}: ${err.message}`);
       }
@@ -169,9 +173,18 @@ async function main() {
       try {
         const added = await syncVideos(uid, fileData, now);
         changed = true;
+        videosSucceeded = true;
         console.log(`OK Videos ${uid}: +${added}`);
       } catch (err) {
         console.error(`FAIL Videos ${uid}: ${err.message}`);
+      }
+
+      if (metaSucceeded) {
+        // Keep the old timestamp until both data sources have completed.
+        if (videosSucceeded) refreshedMeta.updated = now;
+        else if (fileData.meta && fileData.meta.updated) refreshedMeta.updated = fileData.meta.updated;
+        fileData.meta = refreshedMeta;
+        changed = true;
       }
     }
 
