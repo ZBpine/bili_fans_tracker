@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/25ca3b7639e6e5ecdb9078d5921efe462223a2a5.jpg",
     "sign": "正经社科频道！每周随机不定期直播~商务合作v：YEJUNXshi（辛苦备注来意，平台入驻勿扰）",
     "level": 6,
-    "archive_count": 50,
-    "like_num": 1307144,
+    "archive_count": 51,
+    "like_num": 1309388,
     "following": 819,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-06T23:50:59.616Z"
+    "updated": "2026-09-07T10:13:55.072Z"
   },
   "records": [
     {
@@ -3118,9 +3118,23 @@
     {
       "time": "2026-09-07T04:35:29.045Z",
       "fans": 228011
+    },
+    {
+      "time": "2026-09-07T10:13:55.072Z",
+      "fans": 228160
     }
   ],
   "videos": [
+    {
+      "aid": 117228464771176,
+      "bvid": "BV1bZbA6wEKo",
+      "ctime": 1788765209,
+      "pubdate": 1788773400,
+      "duration": 740,
+      "pic": "http://i2.hdslb.com/bfs/archive/13d1851f51cde0ca2952fdf9a517a8d584c31383.jpg",
+      "title": "为什么公众人物总是避免不了“颤颤巍巍见自己”？【梗外之音19】",
+      "recorded_at": "2026-09-07T10:13:55.072Z"
+    },
     {
       "aid": 117120805378204,
       "bvid": "BV1pp8E6NES6",
