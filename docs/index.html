@@ -18,6 +18,8 @@
       --accent-fill: rgba(88,166,255,0.08);
       --positive: #3fb950;
       --negative: #f85149;
+      --positive-fill: rgba(63,185,80,0.20);
+      --negative-fill: rgba(248,81,73,0.20);
     }
     @media (prefers-color-scheme: light) {
       :root {
@@ -30,6 +32,8 @@
         --accent-fill: rgba(9,105,218,0.08);
         --positive: #1a7f37;
         --negative: #cf222e;
+        --positive-fill: rgba(26,127,55,0.11);
+        --negative-fill: rgba(207,34,46,0.11);
       }
     }
     *{margin:0;padding:0;box-sizing:border-box}
@@ -68,8 +72,9 @@
     .custom-days input:focus{border-bottom-color:var(--accent)}
     .custom-days.active{background:var(--accent);color:#fff;border-color:var(--accent)}
     .custom-days.active input{color:#fff;border-bottom-color:rgba(255,255,255,.75)}
-    .video-toggle{display:flex;align-items:center;gap:6px;margin-left:auto;padding:6px 0;color:var(--text-dim);font-size:13px;cursor:pointer;user-select:none}
-    .video-toggle input{accent-color:var(--accent)}
+    .chart-toggle{display:flex;align-items:center;gap:6px;padding:6px 0;color:var(--text-dim);font-size:13px;cursor:pointer;user-select:none}
+    .chart-toggle.first{margin-left:auto}
+    .chart-toggle input{accent-color:var(--accent)}
     .video-markers{position:absolute;inset:0;z-index:2;pointer-events:none}
     .video-marker-label,.video-marker-hit{position:absolute;pointer-events:auto}
     .video-marker-label{width:148px;height:28px;padding:0;border:1px solid var(--accent);border-radius:6px;background:var(--card-bg);color:var(--text-main);font-size:12px;box-shadow:0 2px 7px rgba(0,0,0,.2);cursor:pointer}
@@ -174,7 +179,8 @@
             <button data-days="365">365天</button>
             <label class="custom-days" id="customDaysControl">自定义 <input id="customDays" type="number" min="1" step="1" value="3" aria-label="自定义天数"> 天</label>
             <button data-days="0">全部</button>
-            <label class="video-toggle"><input type="checkbox" id="videoToggle"> 视频投稿</label>
+            <label class="chart-toggle first"><input type="checkbox" id="growthRateToggle"> 增长率</label>
+            <label class="chart-toggle"><input type="checkbox" id="videoToggle"> 视频投稿</label>
           </div>
           <div class="navigator">
             <div class="navigator-chart"><canvas id="overviewChart"></canvas></div>
@@ -194,6 +200,7 @@
       
       let selectedPoints = [];
       let showVideoPosts = false;
+      let showGrowthRate = false;
       const markerLayer = document.getElementById('videoMarkers');
       const navigatorHandle = document.getElementById('navigatorHandle');
       const navigatorFullDays = document.getElementById('navigatorFullDays');
@@ -206,17 +213,21 @@
       const rangeButtons = [...document.querySelectorAll('#timeRange button')];
       const preferenceKey = 'bili-fans-tracker:chart-preferences';
       let selectedDays = 7;
+      let rangeMode = 'preset';
       try {
         const saved = JSON.parse(localStorage.getItem(preferenceKey) || '{}');
         const savedDays = Number(saved.selectedDays);
         const savedCustomDays = Math.floor(Number(saved.customDays));
         if (Number.isFinite(savedDays) && savedDays >= 0) selectedDays = savedDays;
         if (Number.isFinite(savedCustomDays) && savedCustomDays >= 1) customDaysInput.value = String(savedCustomDays);
+        rangeMode = saved.rangeMode === 'custom' ? 'custom' : 'preset';
         showVideoPosts = saved.showVideoPosts === true;
+        showGrowthRate = saved.showGrowthRate === true;
       } catch {
         // Use the default controls when storage is unavailable or malformed.
       }
       document.getElementById('videoToggle').checked = showVideoPosts;
+      document.getElementById('growthRateToggle').checked = showGrowthRate;
       const fullStartTime = new Date(records[0].time).getTime();
       const fullEndTime = new Date(records[records.length - 1].time).getTime();
       const fullSpan = Math.max(0, fullEndTime - fullStartTime);
@@ -228,7 +239,9 @@
           localStorage.setItem(preferenceKey, JSON.stringify({
             selectedDays,
             customDays: Math.floor(Number(customDaysInput.value)) || 3,
-            showVideoPosts
+            rangeMode,
+            showVideoPosts,
+            showGrowthRate
           }));
         } catch {
           // The chart remains fully usable when storage is unavailable.
@@ -259,8 +272,10 @@
 
       const syncRangeControl = () => {
         rangeButtons.forEach(button => button.classList.remove('active'));
-        const matchedButton = rangeButtons.find(button => Number(button.dataset.days) === selectedDays);
-        if (matchedButton) {
+        const matchedButton = rangeMode === 'preset'
+          ? rangeButtons.find(button => Number(button.dataset.days) === selectedDays)
+          : null;
+        if (matchedButton && rangeMode === 'preset') {
           matchedButton.classList.add('active');
           customDaysControl.classList.remove('active');
         } else {
@@ -288,16 +303,17 @@
         }).format(date);
       };
 
-      const interpolateFans = (points, time) => {
+      const interpolateValue = (points, time) => {
+        if (time <= new Date(points[0].time).getTime()) return points[0].value;
         for (let i = 1; i < points.length; i += 1) {
           const leftTime = new Date(points[i - 1].time).getTime();
           const rightTime = new Date(points[i].time).getTime();
           if (time <= rightTime) {
             const ratio = rightTime === leftTime ? 0 : (time - leftTime) / (rightTime - leftTime);
-            return points[i - 1].fans + (points[i].fans - points[i - 1].fans) * ratio;
+            return points[i - 1].value + (points[i].value - points[i - 1].value) * ratio;
           }
         }
-        return points[points.length - 1].fans;
+        return points[points.length - 1].value;
       };
 
       const createVideoDetail = video => {
@@ -443,7 +459,15 @@
       const renderChart = () => {
         selectedPoints = [];
         const activeRange = getActiveRange();
-        const filtered = records.filter(record => {
+        const chartRecords = showGrowthRate
+          ? records.slice(1).flatMap((record, index) => {
+              const previous = records[index];
+              const elapsedHours = (new Date(record.time) - new Date(previous.time)) / 3600000;
+              if (!Number.isFinite(elapsedHours) || elapsedHours <= 0) return [];
+              return [{ ...record, value: (record.fans - previous.fans) / elapsedHours }];
+            })
+          : records.map(record => ({ ...record, value: record.fans }));
+        const filtered = chartRecords.filter(record => {
           const time = new Date(record.time).getTime();
           return time >= activeRange.start && time <= activeRange.end;
         });
@@ -455,7 +479,19 @@
         const colorBorder = computedStyle.getPropertyValue('--border').trim();
         const colorAccent = computedStyle.getPropertyValue('--accent').trim();
         const colorAccentFill = computedStyle.getPropertyValue('--accent-fill').trim();
+        const colorPositiveFill = computedStyle.getPropertyValue('--positive-fill').trim();
+        const colorNegativeFill = computedStyle.getPropertyValue('--negative-fill').trim();
         const pointStep = Math.max(1, Math.ceil(filtered.length / 60));
+        const showSamplePoints = activeRange.end - activeRange.start <= 15 * 86400000;
+
+        const formatRate = value => Number(value).toLocaleString('zh-CN', {
+          minimumFractionDigits: 0,
+          maximumFractionDigits: 1
+        });
+
+        const formatChartValue = value => showGrowthRate
+          ? `${formatRate(value)} 粉丝/小时`
+          : `${Math.round(value).toLocaleString()} 粉丝`;
 
         const formatDuration = ms => {
           const abs = Math.abs(ms);
@@ -518,7 +554,7 @@
             if (points.length === 1) {
               const p = points[0];
               const x = scales.x.getPixelForValue(new Date(p.time));
-              const y = scales.y.getPixelForValue(p.fans);
+              const y = scales.y.getPixelForValue(p.value);
               ctx.beginPath();
               ctx.moveTo(x, chartArea.top);
               ctx.lineTo(x, chartArea.bottom);
@@ -532,9 +568,9 @@
 
             const [a, b] = points;
             const x1 = scales.x.getPixelForValue(new Date(a.time));
-            const y1 = scales.y.getPixelForValue(a.fans);
+            const y1 = scales.y.getPixelForValue(a.value);
             const x2 = scales.x.getPixelForValue(new Date(b.time));
-            const y2 = scales.y.getPixelForValue(b.fans);
+            const y2 = scales.y.getPixelForValue(b.value);
             ctx.setLineDash([8, 5]);
             ctx.beginPath();
             ctx.moveTo(x1, y1);
@@ -546,8 +582,11 @@
             drawPoint(ctx, x1, y1);
             drawPoint(ctx, x2, y2);
             drawLabel(ctx, formatDuration(new Date(b.time) - new Date(a.time)), (x1 + x2) / 2, y1 - 18);
-            const diffFans = b.fans - a.fans;
-            drawLabel(ctx, `${diffFans >= 0 ? '+' : ''}${diffFans.toLocaleString()} 粉丝`, x2 + 48, (y1 + y2) / 2);
+            const difference = b.value - a.value;
+            const differenceText = showGrowthRate
+              ? `${difference >= 0 ? '+' : ''}${formatRate(difference)} 粉丝/小时`
+              : `${difference >= 0 ? '+' : ''}${Math.round(difference).toLocaleString()} 粉丝`;
+            drawLabel(ctx, differenceText, x2 + 48, (y1 + y2) / 2);
           }
         };
 
@@ -567,11 +606,11 @@
               })
               .map(video => {
                 const time = Number(video.pubdate) * 1000;
-                const fans = interpolateFans(records, time);
+                const value = interpolateValue(chartRecords, time);
                 return {
                   video,
                   x: chartInstance.scales.x.getPixelForValue(time),
-                  y: chartInstance.scales.y.getPixelForValue(fans)
+                  y: chartInstance.scales.y.getPixelForValue(value)
                 };
               });
             if (showVideoPosts) {
@@ -641,7 +680,18 @@
 
         chart = new Chart(ctx, {
           type: 'line',
-          data: { datasets: [{ data: filtered.map(r => ({x: new Date(r.time), y: r.fans})), borderColor: colorAccent, fill: true, backgroundColor: colorAccentFill, tension: 0.3, pointRadius: ctx => ctx.dataIndex % pointStep === 0 ? 3 : 0, pointHoverRadius: 5, pointHitRadius: 10 }] },
+          data: { datasets: [{
+            data: filtered.map(r => ({ x: new Date(r.time), y: r.value })),
+            borderColor: colorAccent,
+            fill: showGrowthRate
+              ? { target: 'origin', above: colorPositiveFill, below: colorNegativeFill }
+              : true,
+            backgroundColor: colorAccentFill,
+            tension: 0.3,
+            pointRadius: context => showSamplePoints && context.dataIndex % pointStep === 0 ? 3 : 0,
+            pointHoverRadius: 5,
+            pointHitRadius: 10
+          }] },
           plugins: [comparisonPlugin, videoMarkerPlugin],
           options: {
             responsive: true, maintainAspectRatio: false,
@@ -682,18 +732,23 @@
                 border: { color: colorBorder }
               }, 
               y: { 
-                ticks: { color: colorDim, callback: v => v.toLocaleString() }, 
+                title: { display: showGrowthRate, text: '粉丝/小时', color: colorDim },
+                ticks: { color: colorDim, callback: v => showGrowthRate ? formatRate(v) : Math.round(v).toLocaleString() },
                 grid: { color: colorBorder },
                 border: { color: colorBorder }
               } 
             },
-            plugins: { legend: { display: false } }
+            plugins: {
+              legend: { display: false },
+              tooltip: { callbacks: { label: context => formatChartValue(context.parsed.y) } }
+            }
           }
         });
         updateNavigator();
       };
       
       rangeButtons.forEach(btn => btn.onclick = function() {
+        rangeMode = 'preset';
         setSelectedDays(Number(this.dataset.days));
         syncRangeControl();
         savePreferences();
@@ -703,12 +758,19 @@
       const applyCustomDays = () => {
         const days = Number(customDaysInput.value);
         if (!Number.isFinite(days) || days <= 0) return;
-        setSelectedDays(Math.floor(days));
+        const nextDays = Math.floor(days);
+        if (rangeMode === 'custom' && selectedDays === nextDays) return;
+        rangeMode = 'custom';
+        setSelectedDays(nextDays);
         syncRangeControl();
         savePreferences();
         renderChart();
       };
       customDaysInput.oninput = applyCustomDays;
+      customDaysInput.addEventListener('focus', applyCustomDays);
+      customDaysControl.addEventListener('click', event => {
+        if (event.target !== customDaysInput) applyCustomDays();
+      });
 
       let navigatorDrag = null;
       navigatorHandle.addEventListener('pointerdown', event => {
@@ -738,6 +800,11 @@
       navigatorHandle.addEventListener('pointercancel', endNavigatorDrag);
       document.getElementById('videoToggle').onchange = function() {
         showVideoPosts = this.checked;
+        savePreferences();
+        renderChart();
+      };
+      document.getElementById('growthRateToggle').onchange = function() {
+        showGrowthRate = this.checked;
         savePreferences();
         renderChart();
       };
