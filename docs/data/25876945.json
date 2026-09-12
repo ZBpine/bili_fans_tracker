@@ -5,14 +5,121 @@
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
     "archive_count": 629,
-    "like_num": 35194121,
+    "like_num": 35194999,
     "following": 243,
-    "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主"
+    "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
+    "updated": "2026-09-12T05:45:15.968Z"
   },
   "records": [
     {
       "time": "2026-09-12T04:34:02.522Z",
       "fans": 5518970
+    },
+    {
+      "time": "2026-09-12T05:45:15.968Z",
+      "fans": 5519087
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117251365799209,
+      "bvid": "BV1LjYL6WEg4",
+      "ctime": 1789114065,
+      "pubdate": 1789114835,
+      "duration": 1468,
+      "pic": "http://i1.hdslb.com/bfs/archive/1f2b9e80f2b22f9674d41e0a3bc52eeea1105912.jpg",
+      "title": "对话OPPO 陈希：ColorOS 17 流畅到底由什么决定？",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 117235880428856,
+      "bvid": "BV1MBYJ6REHu",
+      "ctime": 1788877986,
+      "pubdate": 1788877986,
+      "duration": 651,
+      "pic": "http://i2.hdslb.com/bfs/archive/14a64b80cc0fa57e8865b6d82284a793c0706515.jpg",
+      "title": "Arm新架构上手体验！手机吃上AI超分插帧？",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 117189457808879,
+      "bvid": "BV1g3th65EG9",
+      "ctime": 1788170159,
+      "pubdate": 1788170734,
+      "duration": 1559,
+      "pic": "http://i0.hdslb.com/bfs/archive/d6c98655ee5a1a6d9a81d13aa806f0e62faa18fa.jpg",
+      "title": "零跑B10上手体验：AR-HUD是怎么诞生的？",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 117155433546970,
+      "bvid": "BV1GEhG6qEa3",
+      "ctime": 1787650542,
+      "pubdate": 1787659200,
+      "duration": 555,
+      "pic": "http://i2.hdslb.com/bfs/archive/fe25db31fe304fbf2ff329dfd8415a4bfed6b145.jpg",
+      "title": "拯救者Y700无极上手体验：超强5G小平板！",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 117149813182185,
+      "bvid": "BV1fhhP6xEMp",
+      "ctime": 1787564586,
+      "pubdate": 1787564943,
+      "duration": 978,
+      "pic": "http://i1.hdslb.com/bfs/archive/b78896f946b651f83cd437d55ccdbb945a1f3531.jpg",
+      "title": "小米玄戒O3芯片前瞻上手：外星科技！",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 117092300884796,
+      "bvid": "BV1mkgw6mEQt",
+      "ctime": 1786686860,
+      "pubdate": 1786687200,
+      "duration": 377,
+      "pic": "http://i0.hdslb.com/bfs/archive/1a1faa4c683d56ea3285b6f0c500e5cd01332976.jpg",
+      "title": "小米澎湃OS4上手体验：变化如何，优化怎样？",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 116981621589924,
+      "bvid": "BV1LR336sEFX",
+      "ctime": 1784999364,
+      "pubdate": 1784999364,
+      "duration": 2327,
+      "pic": "http://i0.hdslb.com/bfs/archive/efdbc15ad33e3dc6a42bb33db356b65dc136a3fd.jpg",
+      "title": "极客湾手机续航大横评：电池锁容？电量缩水？谁在浑水摸鱼？",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 116934964218576,
+      "bvid": "BV1HDNd65EkV",
+      "ctime": 1784286296,
+      "pubdate": 1784347200,
+      "duration": 633,
+      "pic": "http://i0.hdslb.com/bfs/archive/62689da14fee697c710f2cf6a52b75bd06c4dcb5.jpg",
+      "title": "理想马赫M100深度体验：自研AI芯片到底怎么样？",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 116933420649158,
+      "bvid": "BV1pSKE6VEvu",
+      "ctime": 1784262795,
+      "pubdate": 1784278800,
+      "duration": 508,
+      "pic": "http://i0.hdslb.com/bfs/archive/e3482bc04a5960dcc4c93c0547913f31f1b241af.jpg",
+      "title": "Wildcat Lake笔记本上手体验：新架构、新工艺的入门笔记本怎么样？",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
+    },
+    {
+      "aid": 116856094525822,
+      "bvid": "BV1F7T46wEyT",
+      "ctime": 1783082768,
+      "pubdate": 1783083318,
+      "duration": 1541,
+      "pic": "http://i0.hdslb.com/bfs/archive/d5c1b47bfa28091fbe43d909c9a1acc6a384e5d3.jpg",
+      "title": "华为Mate 80 Pro性能分析：进步巨大！",
+      "recorded_at": "2026-09-12T05:45:15.968Z"
     }
   ]
 }
