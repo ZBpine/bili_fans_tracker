@@ -95,6 +95,23 @@
     .query-form{display:flex;justify-content:center;align-items:center;gap:8px;margin-top:24px}
     .query-form input{height:36px;width:200px;padding:0 10px;border-radius:6px;border:1px solid var(--border);background:var(--bg-color);color:var(--text-main);line-height:36px}
     .query-form button{height:36px;width:80px;padding:0 20px;border-radius:6px;border:none;background:var(--accent);color:#fff;cursor:pointer;line-height:36px}
+    .list-root{height:100vh;max-width:none;margin:0;padding:0}
+    .list-layout{height:100%;display:grid;grid-template-columns:290px minmax(0,1fr)}
+    .list-sidebar{min-width:0;padding:24px 14px;border-right:1px solid var(--border);overflow-y:auto}
+    .list-sidebar h1{margin:0 8px 6px;font-size:21px}
+    .list-status{margin:0 8px 16px;color:var(--text-dim);font-size:12px}
+    .up-list{display:grid;gap:8px}
+    .up-entry{display:flex;width:100%;gap:10px;padding:10px;border:1px solid transparent;border-radius:8px;background:transparent;color:var(--text-main);text-align:left;cursor:pointer}
+    .up-entry:hover,.up-entry.active{border-color:var(--border);background:var(--card-bg)}
+    .up-entry.active{border-color:var(--accent)}
+    .up-entry-face{width:42px;height:42px;flex:none;border-radius:50%;background:var(--border);object-fit:cover}
+    .up-entry-info{min-width:0;align-self:center}
+    .up-entry-name{overflow:hidden;font-size:14px;font-weight:600;text-overflow:ellipsis;white-space:nowrap}
+    .up-entry-fans{margin-top:3px;color:var(--text-dim);font-size:12px}
+    .list-detail{min-width:0;overflow:auto;padding:24px}
+    .list-detail-app{max-width:960px;margin:0 auto}
+    .list-placeholder{display:grid;height:100%;place-items:center;color:var(--text-dim)}
+    @media (max-width:700px){body:has(.list-root){overflow:auto}.list-root{height:auto;min-height:100vh}.list-layout{height:auto;min-height:100vh;display:block}.list-sidebar{max-height:42vh;border-right:0;border-bottom:1px solid var(--border)}.list-detail{padding:16px}.list-detail-app{width:100%}}
   </style>
 </head>
 <body>
@@ -102,18 +119,27 @@
   <script>
     const urlParams = new URLSearchParams(window.location.search);
     const uid = urlParams.get('uid');
+    const hashValue = decodeURIComponent(window.location.hash.replace(/^#/, ''));
+    const selectedUid = /^\d+$/.test(hashValue) ? hashValue : null;
     const app = document.getElementById('app');
 
-    if (!uid) {
-      app.innerHTML = `<div class="input-box">
-        <h1>追踪B站UP主粉丝数</h1>
-        <div class="query-form">
-          <input type="text" id="uidInput" placeholder="请输入 uid">
-          <button onclick="window.location.href='?uid=' + document.getElementById('uidInput').value">查看</button>
-        </div>
-      </div>`;
+    if (uid === 'list') {
+      loadListPage(selectedUid);
+    } else if (!uid) {
+      showInput();
     } else {
       fetchData();
+    }
+
+    function showInput(target = app) {
+      target.className = 'container';
+      target.innerHTML = `<div class="input-box">
+          <h1>追踪B站UP主粉丝数</h1>
+          <div class="query-form">
+            <input type="text" id="uidInput" placeholder="请输入 uid">
+            <button onclick="window.location.href='?uid=' + encodeURIComponent(document.getElementById('uidInput').value.trim())">查看</button>
+          </div>
+        </div>`;
     }
 
     async function fetchData() {
@@ -138,14 +164,92 @@
       }
     }
 
-    function renderError(message) {
-      app.innerHTML = '<div class="input-box"><h1 id="errorTitle"></h1></div>';
-      document.getElementById('errorTitle').textContent = message;
+    function renderError(message, target = app) {
+      target.className = 'container';
+      target.innerHTML = '<div class="input-box"><h1 id="errorTitle"></h1></div>';
+      target.querySelector('#errorTitle').textContent = message;
+    }
+
+    async function loadListPage(selectedUid = null) {
+      app.className = 'list-root';
+      app.innerHTML = `<div class="list-layout">
+        <aside class="list-sidebar">
+          <h1>已追踪的 UP 主</h1>
+          <p class="list-status" id="listStatus">正在读取数据…</p>
+          <div class="up-list" id="upList"></div>
+        </aside>
+        <section class="list-detail">
+          <div class="list-detail-app" id="listDetail"><div class="list-placeholder">正在读取数据…</div></div>
+        </section>
+      </div>`;
+
+      const list = app.querySelector('#upList');
+      const status = app.querySelector('#listStatus');
+      const detail = app.querySelector('#listDetail');
+      const configUrl = 'https://raw.githubusercontent.com/ZBpine/bili_fans_tracker/main/config.json';
+
+      try {
+        const configRes = await fetch(configUrl, { cache: 'no-store' });
+        if (!configRes.ok) throw new Error('config');
+        const config = await configRes.json();
+        const uids = Array.isArray(config.uids) ? config.uids.map(String) : [];
+        if (uids.length === 0) throw new Error('empty');
+
+        const results = await Promise.allSettled(uids.map(async listedUid => {
+          const res = await fetch(`./data/${encodeURIComponent(listedUid)}.json`, { cache: 'no-store' });
+          if (!res.ok) throw new Error(String(res.status));
+          const data = await res.json();
+          if (!data.meta || !Array.isArray(data.records) || data.records.length === 0) throw new Error('invalid');
+          return { uid: listedUid, meta: data.meta, records: data.records, videos: data.videos || [] };
+        }));
+        const loaded = results.filter(result => result.status === 'fulfilled').map(result => result.value);
+        const failedCount = results.length - loaded.length;
+        if (loaded.length === 0) throw new Error('empty');
+
+        status.textContent = failedCount ? `已加载 ${loaded.length} 个，${failedCount} 个失败` : `共 ${loaded.length} 个 UP 主`;
+        let suppressHashUpdate = true;
+        loaded.forEach(up => {
+          const entry = document.createElement('button');
+          entry.type = 'button';
+          entry.className = 'up-entry';
+          entry.dataset.uid = up.uid;
+          const face = document.createElement('img');
+          face.className = 'up-entry-face';
+          face.src = up.meta.face || '';
+          face.alt = '';
+          face.referrerPolicy = 'no-referrer';
+          const info = document.createElement('div');
+          info.className = 'up-entry-info';
+          const name = document.createElement('div');
+          name.className = 'up-entry-name';
+          name.textContent = up.meta.name || up.uid;
+          const fans = document.createElement('div');
+          fans.className = 'up-entry-fans';
+          fans.textContent = `${up.records[up.records.length - 1].fans.toLocaleString('zh-CN')} 粉丝`;
+          info.append(name, fans);
+          entry.append(face, info);
+          entry.addEventListener('click', () => {
+            list.querySelectorAll('.up-entry.active').forEach(active => active.classList.remove('active'));
+            entry.classList.add('active');
+            render(up.meta, up.records, up.videos, detail, up.uid);
+            if (!suppressHashUpdate) {
+            history.replaceState(null, '', `?uid=list#${encodeURIComponent(up.uid)}`);
+            }
+          });
+          list.appendChild(entry);
+        });
+        const initial = loaded.find(up => up.uid === selectedUid) || loaded[0];
+        list.querySelector(`[data-uid="${CSS.escape(initial.uid)}"]`).click();
+        suppressHashUpdate = false;
+      } catch (e) {
+        status.textContent = '数据读取失败';
+        detail.innerHTML = '<div class="list-placeholder">无法读取 UP 主列表</div>';
+      }
     }
 
     let chart = null;
     let overviewChart = null;
-    function render(meta, records, videos) {
+    function render(meta, records, videos, target = app, targetUid = uid) {
       const latest = records[records.length - 1];
       const todayStart = new Date();
       todayStart.setHours(0, 0, 0, 0);
@@ -156,11 +260,11 @@
       const todayChangeText = `${todayChange >= 0 ? '+' : ''}${todayChange.toLocaleString()}`;
       const todayChangeClass = todayChange > 0 ? 'positive' : todayChange < 0 ? 'negative' : '';
 
-      app.innerHTML = `
+      target.innerHTML = `
         <div class="card">
           <img src="${meta.face}" class="face" referrerpolicy="no-referrer">
           <div class="info">
-            <h1><a href="https://space.bilibili.com/${uid}" target="_blank" rel="noopener noreferrer">${meta.name}</a></h1>
+            <h1><a href="https://space.bilibili.com/${targetUid}" target="_blank" rel="noopener noreferrer">${meta.name}</a></h1>
             <p>${meta.sign || '暂无签名'}</p>
           </div>
         </div>
