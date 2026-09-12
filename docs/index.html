@@ -100,6 +100,8 @@
     .list-sidebar{min-width:0;padding:24px 14px;border-right:1px solid var(--border);overflow-y:auto}
     .list-sidebar h1{margin:0 8px 6px;font-size:21px}
     .list-status{margin:0 8px 16px;color:var(--text-dim);font-size:12px}
+    .list-sort{display:flex;align-items:center;gap:8px;margin:0 8px 14px;color:var(--text-dim);font-size:12px}
+    .list-sort select{height:30px;min-width:0;flex:1;padding:0 8px;border:1px solid var(--border);border-radius:6px;background:var(--card-bg);color:var(--text-main);font:inherit;cursor:pointer}
     .up-list{display:grid;gap:8px}
     .up-entry{display:flex;width:100%;gap:10px;padding:10px;border:1px solid transparent;border-radius:8px;background:transparent;color:var(--text-main);text-align:left;cursor:pointer}
     .up-entry:hover,.up-entry.active{border-color:var(--border);background:var(--card-bg)}
@@ -176,6 +178,13 @@
         <aside class="list-sidebar">
           <h1>已追踪的 UP 主</h1>
           <p class="list-status" id="listStatus">正在读取数据…</p>
+          <label class="list-sort">排序
+            <select id="listSort">
+              <option value="loaded">加载顺序</option>
+              <option value="joined">追踪顺序</option>
+              <option value="fans">粉丝数量</option>
+            </select>
+          </label>
           <div class="up-list" id="upList"></div>
         </aside>
         <section class="list-detail">
@@ -186,6 +195,7 @@
       const list = app.querySelector('#upList');
       const status = app.querySelector('#listStatus');
       const detail = app.querySelector('#listDetail');
+      const sortSelect = app.querySelector('#listSort');
       const configUrl = 'https://raw.githubusercontent.com/ZBpine/bili_fans_tracker/main/config.json';
 
       try {
@@ -199,6 +209,20 @@
         let completedCount = 0;
         let failedCount = 0;
         let hasSelection = false;
+        let sortMode = 'loaded';
+        let loadOrder = 0;
+        const sortEntries = () => {
+          const compare = sortMode === 'joined'
+            ? (a, b) => a.joinOrder - b.joinOrder
+            : sortMode === 'fans'
+              ? (a, b) => b.fans - a.fans || a.joinOrder - b.joinOrder
+              : (a, b) => a.loadOrder - b.loadOrder;
+          loaded.sort(compare).forEach(up => list.appendChild(up.entry));
+        };
+        sortSelect.addEventListener('change', () => {
+          sortMode = sortSelect.value;
+          sortEntries();
+        });
         const updateStatus = () => {
           if (completedCount < uids.length) {
             status.textContent = `正在加载 ${completedCount}/${uids.length}，已显示 ${loaded.length} 个`;
@@ -240,7 +264,11 @@
           });
           list.appendChild(entry);
           up.entry = entry;
+          up.fans = Number(up.records[up.records.length - 1].fans) || 0;
+          up.loadOrder = loadOrder++;
+          up.joinOrder = uids.indexOf(up.uid);
           loaded.push(up);
+          sortEntries();
           if (!hasSelection && (!selectedUid || up.uid === selectedUid)) {
             hasSelection = true;
             selectUp(up, false);
