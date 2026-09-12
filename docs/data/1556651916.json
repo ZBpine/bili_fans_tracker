@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 602,
-    "like_num": 9011904,
+    "archive_count": 603,
+    "like_num": 9015567,
     "following": 43,
     "official_title": "",
-    "updated": "2026-09-12T10:41:43.930Z"
+    "updated": "2026-09-12T19:18:02.665Z"
   },
   "records": [
     {
@@ -22,9 +22,23 @@
     {
       "time": "2026-09-12T17:07:09.458Z",
       "fans": 733241
+    },
+    {
+      "time": "2026-09-12T19:18:02.665Z",
+      "fans": 733250
     }
   ],
   "videos": [
+    {
+      "aid": 117258227617016,
+      "bvid": "BV1FEYd65EL2",
+      "ctime": 1789219093,
+      "pubdate": 1789219093,
+      "duration": 970,
+      "pic": "http://i0.hdslb.com/bfs/archive/535d6890c9d8cf9fb00faf465e03f0448a7a6589.jpg",
+      "title": "【参考信息第649期】前人欠债凭啥我还；全球青少年学业下降",
+      "recorded_at": "2026-09-12T19:18:02.665Z"
+    },
     {
       "aid": 117246684825183,
       "bvid": "BV1jCYu66EKj",
