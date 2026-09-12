@@ -195,20 +195,27 @@
         const uids = Array.isArray(config.uids) ? config.uids.map(String) : [];
         if (uids.length === 0) throw new Error('empty');
 
-        const results = await Promise.allSettled(uids.map(async listedUid => {
-          const res = await fetch(`./data/${encodeURIComponent(listedUid)}.json`, { cache: 'no-store' });
-          if (!res.ok) throw new Error(String(res.status));
-          const data = await res.json();
-          if (!data.meta || !Array.isArray(data.records) || data.records.length === 0) throw new Error('invalid');
-          return { uid: listedUid, meta: data.meta, records: data.records, videos: data.videos || [] };
-        }));
-        const loaded = results.filter(result => result.status === 'fulfilled').map(result => result.value);
-        const failedCount = results.length - loaded.length;
-        if (loaded.length === 0) throw new Error('empty');
-
-        status.textContent = failedCount ? `已加载 ${loaded.length} 个，${failedCount} 个失败` : `共 ${loaded.length} 个 UP 主`;
-        let suppressHashUpdate = true;
-        loaded.forEach(up => {
+        const loaded = [];
+        let completedCount = 0;
+        let failedCount = 0;
+        let hasSelection = false;
+        const updateStatus = () => {
+          if (completedCount < uids.length) {
+            status.textContent = `正在加载 ${completedCount}/${uids.length}，已显示 ${loaded.length} 个`;
+          } else if (loaded.length) {
+            status.textContent = failedCount ? `已加载 ${loaded.length} 个，${failedCount} 个失败` : `共 ${loaded.length} 个 UP 主`;
+          } else {
+            status.textContent = '数据读取失败';
+            detail.innerHTML = '<div class="list-placeholder">无法读取 UP 主数据</div>';
+          }
+        };
+        const selectUp = (up, updateHash) => {
+          list.querySelectorAll('.up-entry.active').forEach(active => active.classList.remove('active'));
+          up.entry.classList.add('active');
+          render(up.meta, up.records, up.videos, detail, up.uid);
+          if (updateHash) history.replaceState(null, '', `?uid=list#${encodeURIComponent(up.uid)}`);
+        };
+        const appendUp = up => {
           const entry = document.createElement('button');
           entry.type = 'button';
           entry.className = 'up-entry';
@@ -229,18 +236,36 @@
           info.append(name, fans);
           entry.append(face, info);
           entry.addEventListener('click', () => {
-            list.querySelectorAll('.up-entry.active').forEach(active => active.classList.remove('active'));
-            entry.classList.add('active');
-            render(up.meta, up.records, up.videos, detail, up.uid);
-            if (!suppressHashUpdate) {
-            history.replaceState(null, '', `?uid=list#${encodeURIComponent(up.uid)}`);
-            }
+            selectUp(up, true);
           });
           list.appendChild(entry);
+          up.entry = entry;
+          loaded.push(up);
+          if (!hasSelection && (!selectedUid || up.uid === selectedUid)) {
+            hasSelection = true;
+            selectUp(up, false);
+          }
+        };
+        const loadOne = async listedUid => {
+          const res = await fetch(`./data/${encodeURIComponent(listedUid)}.json`, { cache: 'no-store' });
+          if (!res.ok) throw new Error(String(res.status));
+          const data = await res.json();
+          if (!data.meta || !Array.isArray(data.records) || data.records.length === 0) throw new Error('invalid');
+          return { uid: listedUid, meta: data.meta, records: data.records, videos: data.videos || [] };
+        };
+        updateStatus();
+        uids.forEach(listedUid => {
+          loadOne(listedUid).then(appendUp).catch(() => {
+            failedCount += 1;
+          }).finally(() => {
+            completedCount += 1;
+            if (completedCount === uids.length && !hasSelection && loaded.length) {
+              hasSelection = true;
+              selectUp(loaded[0], false);
+            }
+            updateStatus();
+          });
         });
-        const initial = loaded.find(up => up.uid === selectedUid) || loaded[0];
-        list.querySelector(`[data-uid="${CSS.escape(initial.uid)}"]`).click();
-        suppressHashUpdate = false;
       } catch (e) {
         status.textContent = '数据读取失败';
         detail.innerHTML = '<div class="list-placeholder">无法读取 UP 主列表</div>';
