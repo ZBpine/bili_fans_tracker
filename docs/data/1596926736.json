@@ -5,9 +5,10 @@
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
     "archive_count": 176,
-    "like_num": 3859946,
+    "like_num": 3860303,
     "following": 200,
-    "official_title": "bilibili 知名UP主"
+    "official_title": "bilibili 知名UP主",
+    "updated": "2026-09-12T14:05:35.269Z"
   },
   "records": [
     {
@@ -21,6 +22,112 @@
     {
       "time": "2026-09-12T10:41:43.930Z",
       "fans": 1000758
+    },
+    {
+      "time": "2026-09-12T14:05:35.269Z",
+      "fans": 1000731
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117213835036535,
+      "bvid": "BV1zDtz6UEPP",
+      "ctime": 1788541412,
+      "pubdate": 1788577200,
+      "duration": 1352,
+      "pic": "http://i0.hdslb.com/bfs/archive/21b1d9e9312e9af7585d01030a972853781ba41e.jpg",
+      "title": "【伯爵】人类奴役同类能有多努力？一期讲清世界奴隶制历史",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 117176539482763,
+      "bvid": "BV1Za4C6sEL4",
+      "ctime": 1787972621,
+      "pubdate": 1787972621,
+      "duration": 1148,
+      "pic": "http://i2.hdslb.com/bfs/archive/8331d5cd7b05decdc56eaeda5527abb87f984431.jpg",
+      "title": "【伯爵】中国北方民族史上最大伪科学概念，“通古斯”是怎么一回事？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 117094649694431,
+      "bvid": "BV1H6gN62ELE",
+      "ctime": 1786723022,
+      "pubdate": 1786762800,
+      "duration": 1427,
+      "pic": "http://i0.hdslb.com/bfs/archive/0727e9139fda5115a58d6f37f0e2a51a149cca86.jpg",
+      "title": "【伯爵】现代希腊是古希腊文明的延续吗？百年前的希腊人为何自称罗马人？一期讲清希腊民族形成史",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 117055474960929,
+      "bvid": "BV1m6uN6XEa9",
+      "ctime": 1786124943,
+      "pubdate": 1786158000,
+      "duration": 1716,
+      "pic": "http://i0.hdslb.com/bfs/archive/18aad304bcf548afa530c8a3f06a6a13c1736f1e.jpg",
+      "title": "【伯爵】非洲小苏联？用民族划分全国省份的埃塞俄比亚，曾经发生了什么？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 117025292747221,
+      "bvid": "BV16w3R6SEwh",
+      "ctime": 1785664595,
+      "pubdate": 1785665416,
+      "duration": 1657,
+      "pic": "http://i1.hdslb.com/bfs/archive/711dcc2d24595eb8a5a77a7466990fd8c23bd900.jpg",
+      "title": "【伯爵】受害者还是霸凌者？一期讲清阿根廷殖民史",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116933991139071,
+      "bvid": "BV1UkKn6dEVp",
+      "ctime": 1784271467,
+      "pubdate": 1784282400,
+      "duration": 1009,
+      "pic": "http://i0.hdslb.com/bfs/archive/d702c012aaf41e1d0bdd4027007f1c15b4837f3c.jpg",
+      "title": "【伯爵】偏安的诱惑？历史上的南方王朝为何总是走向割据自保？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116900470261938,
+      "bvid": "BV1S7Nw6TE3A",
+      "ctime": 1783760006,
+      "pubdate": 1783764000,
+      "duration": 1356,
+      "pic": "http://i1.hdslb.com/bfs/archive/2d43e57f7bc27d806b2e6edc4eeed8d491d62203.jpg",
+      "title": "【伯爵】按方言划分全国省份，会发生什么事？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116865573587918,
+      "bvid": "BV1RAMu66EDa",
+      "ctime": 1783227433,
+      "pubdate": 1783245600,
+      "duration": 830,
+      "pic": "http://i1.hdslb.com/bfs/archive/417a3e57ddc3ceebb3fc01e2f8a9dddba2b295f9.jpg",
+      "title": "【伯爵】皖北，一颗帝国弃子，如何牵起天下治乱？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116792559143876,
+      "bvid": "BV18F7P66ET8",
+      "ctime": 1782113341,
+      "pubdate": 1782122400,
+      "duration": 1075,
+      "pic": "http://i0.hdslb.com/bfs/archive/01c97045f63495bb9ffb9c1b5f3845c215ef2da1.jpg",
+      "title": "【伯爵】“元清是不是中国”问题的关键是什么？谈谈世界历史上的“异族”身份",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116759373939036,
+      "bvid": "BV164j36GEue",
+      "ctime": 1781606748,
+      "pubdate": 1781607168,
+      "duration": 1162,
+      "pic": "http://i0.hdslb.com/bfs/archive/42827725e4c43d4cbdce6a938d9bcca7861dbbd8.jpg",
+      "title": "【伯爵】从鲜卑消逝到满族发明，锡伯族如何串起中国北方民族往事？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
     }
   ]
 }

@@ -5,14 +5,111 @@
     "sign": "一位喜欢钻研的人工智能博士生，日常思索和科普\n小号@漫谈人文，商务请联系manshishangwu，并说明来意",
     "level": 6,
     "archive_count": 148,
-    "like_num": 5916653,
+    "like_num": 5917527,
     "following": 311,
-    "official_title": "bilibili 知名科普UP主"
+    "official_title": "bilibili 知名科普UP主",
+    "updated": "2026-09-12T14:05:35.269Z"
   },
   "records": [
     {
       "time": "2026-09-12T10:41:43.930Z",
       "fans": 1465836
+    },
+    {
+      "time": "2026-09-12T14:05:35.269Z",
+      "fans": 1465947
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117246181710490,
+      "bvid": "BV1gfYu6hELJ",
+      "ctime": 1789035160,
+      "pubdate": 1789035160,
+      "duration": 35,
+      "pic": "http://i2.hdslb.com/bfs/archive/bf564055b8e31747490e715b59963907255767d6.jpg",
+      "title": "【漫士预告】NS方程：AI找出的爆破反例可视化",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 117166825281470,
+      "bvid": "BV1iz4R6EEFk",
+      "ctime": 1787824355,
+      "pubdate": 1787824355,
+      "duration": 2711,
+      "pic": "http://i1.hdslb.com/bfs/archive/907e8d5d5ed36bca9269b23e9cc7d462a2130a0e.jpg",
+      "title": "【漫士】相变的哲学：为什么量变会突然产生质变？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 117042489333882,
+      "bvid": "BV1urMy6aECe",
+      "ctime": 1785927171,
+      "pubdate": 1785927171,
+      "duration": 1408,
+      "pic": "http://i2.hdslb.com/bfs/archive/0e2d808c9aa5a710878894a7c4d2c03570c8f1d4.jpg",
+      "title": "【漫士】针带π！用期望破解蒲丰投针背后隐藏的圆",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116992577116000,
+      "bvid": "BV1pH3c6TEQT",
+      "ctime": 1785165307,
+      "pubdate": 1785165307,
+      "duration": 2441,
+      "pic": "http://i0.hdslb.com/bfs/archive/5bf7d32a932a5379eacfc4928792b97844746387.jpg",
+      "title": "【漫士】时间为什么不能倒流？如何从数学证明熵增？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116973920918944,
+      "bvid": "BV1regY6sEVx",
+      "ctime": 1784880668,
+      "pubdate": 1784880668,
+      "duration": 2172,
+      "pic": "http://i1.hdslb.com/bfs/archive/0c1e48b87453aa2a044632d1ac018501bea97d26.jpg",
+      "title": "【漫士】所以，到底什么是三维挂谷猜想？难在哪？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116968367591497,
+      "bvid": "BV1zagQ6BErQ",
+      "ctime": 1784795828,
+      "pubdate": 1784795828,
+      "duration": 6344,
+      "pic": "http://i2.hdslb.com/bfs/archive/8e76216d32e7ba52a34e7ba20c10af76ca168e4c.jpg",
+      "title": "中国数学家真的要拿菲尔兹奖了？ | 2026菲尔兹奖终极盘点",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116946104227705,
+      "bvid": "BV1onKz6XEhv",
+      "ctime": 1784456117,
+      "pubdate": 1784456117,
+      "duration": 123,
+      "pic": "http://i0.hdslb.com/bfs/archive/201848ccdf0e5c7d3ed61a133965f8f8318cab41.jpg",
+      "title": "【漫士】预告片：王虹与三维挂谷猜想",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116855004008957,
+      "bvid": "BV1QeTs6rEB1",
+      "ctime": 1783066220,
+      "pubdate": 1783066220,
+      "duration": 798,
+      "pic": "http://i2.hdslb.com/bfs/archive/78f3acc2e5ff5874f91de275f3a3cc937337dcfa.jpg",
+      "title": "【漫士】赌球背后的数学，看完你还想赌吗？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
+    },
+    {
+      "aid": 116826851773745,
+      "bvid": "BV136TM6YEUM",
+      "ctime": 1782636466,
+      "pubdate": 1782641400,
+      "duration": 4956,
+      "pic": "http://i2.hdslb.com/bfs/archive/dbc10a9b48b4c59bcf98314277d20f4ce8d1abc8.jpg",
+      "title": "AI专业高薪神话，还能撑多久？ 普通人报 AI，真的能吃到这波红利吗？",
+      "recorded_at": "2026-09-12T14:05:35.269Z"
     }
   ]
 }
