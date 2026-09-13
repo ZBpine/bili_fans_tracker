@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/7b6da1042c09ff15a53d586e0a2ab618cbfa9f75.jpg",
     "sign": "商务合作加VX:Louzhang-pxtx 没得恰饭就不更新",
     "level": 6,
-    "archive_count": 389,
-    "like_num": 14743167,
+    "archive_count": 390,
+    "like_num": 14747324,
     "following": 278,
     "official_title": "",
-    "updated": "2026-09-13T11:46:59.696Z"
+    "updated": "2026-09-13T22:22:58.923Z"
   },
   "records": [
     {
@@ -50,9 +50,23 @@
     {
       "time": "2026-09-13T19:26:38.513Z",
       "fans": 1171778
+    },
+    {
+      "time": "2026-09-13T22:22:58.923Z",
+      "fans": 1171776
     }
   ],
   "videos": [
+    {
+      "aid": 117264435252266,
+      "bvid": "BV1JmYB6hE18",
+      "ctime": 1789313579,
+      "pubdate": 1789313579,
+      "duration": 1566,
+      "pic": "http://i1.hdslb.com/bfs/archive/1725d3dcf4ad20d4e18b95b5232fa62f829543e5.jpg",
+      "title": "读上期毒蛇上手相关视频评论",
+      "recorded_at": "2026-09-13T22:22:58.923Z"
+    },
     {
       "aid": 117250560362633,
       "bvid": "BV1f8Yj6aEEE",
