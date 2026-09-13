@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 630,
-    "like_num": 35201959,
+    "archive_count": 631,
+    "like_num": 35247447,
     "following": 243,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-09-12T22:14:31.702Z"
+    "updated": "2026-09-13T11:46:59.696Z"
   },
   "records": [
     {
@@ -46,9 +46,23 @@
     {
       "time": "2026-09-13T06:06:16.483Z",
       "fans": 5520857
+    },
+    {
+      "time": "2026-09-13T11:46:59.696Z",
+      "fans": 5522174
     }
   ],
   "videos": [
+    {
+      "aid": 117262690288962,
+      "bvid": "BV1HEYv6XETo",
+      "ctime": 1789286832,
+      "pubdate": 1789287033,
+      "duration": 864,
+      "pic": "http://i1.hdslb.com/bfs/archive/cbbd98fa54124a27ac811c4ba9210de35ce1526c.jpg",
+      "title": "麒麟9050 Pro能效实测！华为Mate XT2性能有多强？",
+      "recorded_at": "2026-09-13T11:46:59.696Z"
+    },
     {
       "aid": 117256969259142,
       "bvid": "BV1e4Y96FEaJ",
