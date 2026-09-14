@@ -739,10 +739,8 @@
             drawPoint(ctx, x1, y1);
             drawPoint(ctx, x2, y2);
             drawLabel(ctx, formatDuration(new Date(b.time) - new Date(a.time)), (x1 + x2) / 2, y1 - 18);
-            const difference = b.value - a.value;
-            const differenceText = showGrowthRate
-              ? `${difference >= 0 ? '+' : ''}${formatRate(difference)} 粉丝/小时`
-              : `${difference >= 0 ? '+' : ''}${Math.round(difference).toLocaleString()} 粉丝`;
+            const difference = showGrowthRate ? b.fans - a.fans : b.value - a.value;
+            const differenceText = `${difference >= 0 ? '+' : ''}${Math.round(difference).toLocaleString()} 粉丝`;
             drawLabel(ctx, differenceText, x2 + 48, (y1 + y2) / 2);
           }
         };
