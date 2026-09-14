@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 603,
-    "like_num": 9021620,
+    "archive_count": 604,
+    "like_num": 9026721,
     "following": 43,
     "official_title": "",
-    "updated": "2026-09-14T06:14:36.104Z"
+    "updated": "2026-09-14T19:19:47.680Z"
   },
   "records": [
     {
@@ -66,9 +66,23 @@
     {
       "time": "2026-09-14T13:59:40.904Z",
       "fans": 733771
+    },
+    {
+      "time": "2026-09-14T19:19:47.680Z",
+      "fans": 733783
     }
   ],
   "videos": [
+    {
+      "aid": 117269384399593,
+      "bvid": "BV12yYy6dEQg",
+      "ctime": 1789389229,
+      "pubdate": 1789390200,
+      "duration": 1130,
+      "pic": "http://i0.hdslb.com/bfs/archive/02f39f874baf8bb6185a3ec035614f4706c98352.jpg",
+      "title": "【参考信息第650期】AI截胡人类成果；K型分化用错地方？",
+      "recorded_at": "2026-09-14T19:19:47.680Z"
+    },
     {
       "aid": 117258227617016,
       "bvid": "BV1FEYd65EL2",
