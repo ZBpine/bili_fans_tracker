@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "name": "Token就是词元",
+    "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
+    "sign": "AI有意思",
+    "level": 5,
+    "archive_count": 55,
+    "like_num": 95449,
+    "following": 20,
+    "official_title": "",
+    "updated": "2026-09-14T19:19:47.680Z"
+  },
+  "records": [
+    {
+      "time": "2026-09-14T06:14:36.104Z",
+      "fans": 27947
+    },
+    {
+      "time": "2026-09-14T13:59:40.904Z",
+      "fans": 28295
+    },
+    {
+      "time": "2026-09-14T19:19:47.680Z",
+      "fans": 28501
+    },
+    {
+      "time": "2026-09-14T23:06:34.507Z",
+      "fans": 28521
+    },
+    {
+      "time": "2026-09-15T01:25:57.025Z",
+      "fans": 28588
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117256667405655,
+      "bvid": "BV1eCYD6QEqS",
+      "ctime": 1789194859,
+      "pubdate": 1789194859,
+      "duration": 934,
+      "pic": "http://i0.hdslb.com/bfs/archive/0a871cdd19de1cfb0fa260ff78f7e5a20e8128e8.jpg",
+      "title": "四家Flash大乱斗，挑战屎山代码｜屎山论剑",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117245913077913,
+      "bvid": "BV1YTYT64EKK",
+      "ctime": 1789030898,
+      "pubdate": 1789030898,
+      "duration": 879,
+      "pic": "http://i0.hdslb.com/bfs/archive/84776ba2f050f4ebdc157dea5b297c31e951ed7f.jpg",
+      "title": "看GPT6，继续照亮屎山｜A组第一轮",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117234588587650,
+      "bvid": "BV1R2b56uEK7",
+      "ctime": 1788858160,
+      "pubdate": 1788858159,
+      "duration": 1058,
+      "pic": "http://i2.hdslb.com/bfs/archive/7b76a5a5f2a03b24df50ca1c18363c52381a3a10.jpg",
+      "title": "来屎山之巅，看GPT6和Fable5.1神仙打架｜屎山论剑",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117211687686586,
+      "bvid": "BV1dvti6AE7o",
+      "ctime": 1788508648,
+      "pubdate": 1788508648,
+      "duration": 991,
+      "pic": "http://i2.hdslb.com/bfs/archive/82396f1c454dea88e7a8816e4657b07414630fac.jpg",
+      "title": "中美AI一哥，屎山巅峰对决｜D组第一轮",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117199658292415,
+      "bvid": "BV1URt76iEVm",
+      "ctime": 1788325212,
+      "pubdate": 1788325211,
+      "duration": 911,
+      "pic": "http://i0.hdslb.com/bfs/archive/ecfa9c18fe57c900941c881610a8d88c52bddc47.jpg",
+      "title": "中年K3大战青年Grok4.6｜C组第一轮",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117183434726992,
+      "bvid": "BV1mu4X6cEkD",
+      "ctime": 1788077468,
+      "pubdate": 1788077468,
+      "duration": 1305,
+      "pic": "http://i0.hdslb.com/bfs/archive/3d82bff41ef5ec878166c82261e0f01b6fa0092a.jpg",
+      "title": "谁是模型斩杀线，来看屎山大论剑｜屎山论剑",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117172210834984,
+      "bvid": "BV1STtP6wET8",
+      "ctime": 1787906134,
+      "pubdate": 1787906134,
+      "duration": 907,
+      "pic": "http://i2.hdslb.com/bfs/archive/72b3af3250cffd4089b7c4e843d1fb9eae6b2105.jpg",
+      "title": "解决BUG最强的AI是谁呢，来屎山挑战赛一见分晓｜B组第一轮",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117155701988322,
+      "bvid": "BV1x9h369EgD",
+      "ctime": 1787654399,
+      "pubdate": 1787654399,
+      "duration": 838,
+      "pic": "http://i0.hdslb.com/bfs/archive/3cc439c22ae2bb6968d4711fd85426bf63bb8ce2.jpg",
+      "title": "小扎的MuseSpark1.2踢馆祖传屎山代码｜祖传BUG挑战赛",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117136928280908,
+      "bvid": "BV1hX8C6DEmt",
+      "ctime": 1787367787,
+      "pubdate": 1787367786,
+      "duration": 874,
+      "pic": "http://i1.hdslb.com/bfs/archive/37940dae6f81209c0ee8945858c9f90373b4c3d4.jpg",
+      "title": "看Qwen3.8 27B这四两，拨Opus4.6这千斤 | 屎山考核",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
+    {
+      "aid": 117105152236302,
+      "bvid": "BV1HzbX6tEvR",
+      "ctime": 1786883169,
+      "pubdate": 1786883169,
+      "duration": 1491,
+      "pic": "http://i1.hdslb.com/bfs/archive/62c009cec381df25dcec429a7b8b2c7b20b380bc.jpg",
+      "title": "开源AI闭源AI决战屎山之巅｜屎山论剑",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    }
+  ]
+}

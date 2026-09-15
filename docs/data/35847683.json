@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/ae439693d6fd79a55b1b5f935ed6474ae6fba35b.jpg",
     "sign": "纪录片导演，极限旅行家，国家一级登山运动员，自由潜运动员，滑翔伞飞行员，水下摄影师，B站知名孩子王",
     "level": 6,
-    "archive_count": 679,
-    "like_num": 17209550,
+    "archive_count": 680,
+    "like_num": 17230103,
     "following": 683,
     "official_title": "2023年度弹幕人气、知名UP主、直播高能主播",
-    "updated": "2026-09-13T19:26:38.513Z"
+    "updated": "2026-09-14T19:19:47.680Z"
   },
   "records": [
     {
@@ -58,9 +58,39 @@
     {
       "time": "2026-09-14T01:01:28.648Z",
       "fans": 3041333
+    },
+    {
+      "time": "2026-09-14T06:14:36.104Z",
+      "fans": 3041545
+    },
+    {
+      "time": "2026-09-14T13:59:40.904Z",
+      "fans": 3044284
+    },
+    {
+      "time": "2026-09-14T19:19:47.680Z",
+      "fans": 3045488
+    },
+    {
+      "time": "2026-09-14T23:06:34.507Z",
+      "fans": 3045666
+    },
+    {
+      "time": "2026-09-15T01:25:57.025Z",
+      "fans": 3045960
     }
   ],
   "videos": [
+    {
+      "aid": 117267220142613,
+      "bvid": "BV1h3Yr6QEoY",
+      "ctime": 1789356302,
+      "pubdate": 1789356302,
+      "duration": 2028,
+      "pic": "http://i0.hdslb.com/bfs/archive/2cda7fcb2e9c33f13b0098678b2a443fe2596345.jpg",
+      "title": "峰哥亡命越南，河内一天逛吃vlog",
+      "recorded_at": "2026-09-14T06:14:36.104Z"
+    },
     {
       "aid": 117211956123828,
       "bvid": "BV1a4tz6KE3N",
