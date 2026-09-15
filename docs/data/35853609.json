@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/7b6da1042c09ff15a53d586e0a2ab618cbfa9f75.jpg",
     "sign": "商务合作加VX:Louzhang-pxtx 没得恰饭就不更新",
     "level": 6,
-    "archive_count": 390,
-    "like_num": 14755192,
+    "archive_count": 391,
+    "like_num": 14763837,
     "following": 278,
     "official_title": "",
-    "updated": "2026-09-15T07:41:18.494Z"
+    "updated": "2026-09-15T18:10:14.665Z"
   },
   "records": [
     {
@@ -86,9 +86,23 @@
     {
       "time": "2026-09-15T13:30:26.808Z",
       "fans": 1171722
+    },
+    {
+      "time": "2026-09-15T18:10:14.665Z",
+      "fans": 1171729
     }
   ],
   "videos": [
+    {
+      "aid": 117275038321414,
+      "bvid": "BV1n6eJ6jEoT",
+      "ctime": 1789475325,
+      "pubdate": 1789475325,
+      "duration": 470,
+      "pic": "http://i0.hdslb.com/bfs/archive/7dddb7be307c9e958e085248dbc914d7c046d0fe.jpg",
+      "title": "潜水教练射杀烹食极危物种玳瑁，真是丢人丢到国外了",
+      "recorded_at": "2026-09-15T18:10:14.665Z"
+    },
     {
       "aid": 117264435252266,
       "bvid": "BV1JmYB6hE18",

@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 183,
-    "like_num": 21671535,
+    "archive_count": 184,
+    "like_num": 21678321,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-15T07:41:18.494Z"
+    "updated": "2026-09-15T18:10:14.665Z"
   },
   "records": [
     {
@@ -94,9 +94,23 @@
     {
       "time": "2026-09-15T13:30:26.808Z",
       "fans": 2339077
+    },
+    {
+      "time": "2026-09-15T18:10:14.665Z",
+      "fans": 2339107
     }
   ],
   "videos": [
+    {
+      "aid": 117272773398261,
+      "bvid": "BV1Fjej6KEwg",
+      "ctime": 1789441139,
+      "pubdate": 1789466400,
+      "duration": 320,
+      "pic": "http://i0.hdslb.com/bfs/archive/5910765b9b680fd3cbf8d6c6c18336db557d6bb6.jpg",
+      "title": "研一学生如何用豆包工作适应开学？",
+      "recorded_at": "2026-09-15T18:10:14.665Z"
+    },
     {
       "aid": 117250979923447,
       "bvid": "BV12jYj6GEKb",

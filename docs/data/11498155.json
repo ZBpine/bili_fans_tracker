@@ -5,10 +5,10 @@
     "sign": "就随便扯扯吧 商务v：ansenyao3\nYaoLan",
     "level": 6,
     "archive_count": 327,
-    "like_num": 16598489,
+    "like_num": 16601296,
     "following": 61,
     "official_title": "科普UP主 安森垚",
-    "updated": "2026-09-14T23:06:34.507Z"
+    "updated": "2026-09-15T18:10:14.665Z"
   },
   "records": [
     {
@@ -94,9 +94,23 @@
     {
       "time": "2026-09-15T13:30:26.808Z",
       "fans": 1856312
+    },
+    {
+      "time": "2026-09-15T18:10:14.665Z",
+      "fans": 1856295
     }
   ],
   "videos": [
+    {
+      "aid": 117274585340095,
+      "bvid": "BV1ften6VEBK",
+      "ctime": 1789468497,
+      "pubdate": 1789468497,
+      "duration": 300,
+      "pic": "http://i2.hdslb.com/bfs/archive/50614a2cdbdcbaf63eec3109f9fbd8f99a21aa1d.jpg",
+      "title": "联合国建议更换的世界地图是啥？你看的地图“保真”么？",
+      "recorded_at": "2026-09-15T18:10:14.665Z"
+    },
     {
       "aid": 117127247827414,
       "bvid": "BV1Jc8w6LEMk",
