@@ -334,7 +334,7 @@
             <button data-days="30">30天</button>
             <button data-days="90">90天</button>
             <button data-days="365">365天</button>
-            <label class="custom-days" id="customDaysControl">自定义 <input id="customDays" type="number" min="1" step="1" value="3" aria-label="自定义天数"> 天</label>
+            <label class="custom-days" id="customDaysControl"><input id="customDays" type="number" min="1" step="1" value="3" aria-label="自定义天数"> 天</label>
             <button data-days="0">全部</button>
             <label class="chart-toggle first"><input type="checkbox" id="growthRateToggle"> 增长率</label>
             <label class="chart-toggle"><input type="checkbox" id="videoToggle"> 视频投稿</label>
@@ -639,7 +639,7 @@
         const colorPositiveFill = computedStyle.getPropertyValue('--positive-fill').trim();
         const colorNegativeFill = computedStyle.getPropertyValue('--negative-fill').trim();
         const pointStep = Math.max(1, Math.ceil(filtered.length / 60));
-        const showSamplePoints = activeRange.end - activeRange.start <= 15 * 86400000;
+        const showSamplePoints = activeRange.end - activeRange.start <= 14 * 86400000;
 
         const formatRate = value => Number(value).toLocaleString('zh-CN', {
           minimumFractionDigits: 0,
