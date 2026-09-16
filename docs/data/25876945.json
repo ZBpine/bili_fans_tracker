@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 631,
-    "like_num": 35293153,
+    "archive_count": 633,
+    "like_num": 35337263,
     "following": 243,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-09-14T19:19:47.680Z"
+    "updated": "2026-09-16T05:58:58.355Z"
   },
   "records": [
     {
@@ -86,9 +86,57 @@
     {
       "time": "2026-09-15T01:25:57.025Z",
       "fans": 5528013
+    },
+    {
+      "time": "2026-09-15T07:41:18.494Z",
+      "fans": 5528457
+    },
+    {
+      "time": "2026-09-15T13:30:26.808Z",
+      "fans": 5528976
+    },
+    {
+      "time": "2026-09-15T18:10:14.665Z",
+      "fans": 5529513
+    },
+    {
+      "time": "2026-09-15T21:20:17.225Z",
+      "fans": 5529594
+    },
+    {
+      "time": "2026-09-16T00:16:24.616Z",
+      "fans": 5529707
+    },
+    {
+      "time": "2026-09-16T05:58:58.355Z",
+      "fans": 5530214
+    },
+    {
+      "time": "2026-09-16T11:27:39.242Z",
+      "fans": 5530738
     }
   ],
   "videos": [
+    {
+      "aid": 117278829971296,
+      "bvid": "BV14ReF6NEWN",
+      "ctime": 1789533204,
+      "pubdate": 1789533671,
+      "duration": 259,
+      "pic": "http://i2.hdslb.com/bfs/archive/64c7b9b33bcb9cdc0bf1faddc44426d1ea91febb.jpg",
+      "title": "Find X10 Pro Max上手体验：续航优秀的影像旗舰",
+      "recorded_at": "2026-09-16T05:58:58.355Z"
+    },
+    {
+      "aid": 117274652511363,
+      "bvid": "BV1aoeJ6vEoz",
+      "ctime": 1789469442,
+      "pubdate": 1789474276,
+      "duration": 440,
+      "pic": "http://i1.hdslb.com/bfs/archive/6aafba09a0cd5c1d03633e640c0fa132d81688d3.jpg",
+      "title": "天玑9600 Pro前瞻上手：2nm旗舰手机能效如何？",
+      "recorded_at": "2026-09-15T18:10:14.665Z"
+    },
     {
       "aid": 117262690288962,
       "bvid": "BV1HEYv6XETo",

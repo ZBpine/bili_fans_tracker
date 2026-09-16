@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 176,
-    "like_num": 3863237,
+    "archive_count": 177,
+    "like_num": 3869883,
     "following": 200,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-14T13:59:40.904Z"
+    "updated": "2026-09-16T05:58:58.355Z"
   },
   "records": [
     {
@@ -86,9 +86,47 @@
     {
       "time": "2026-09-15T01:25:57.025Z",
       "fans": 1000303
+    },
+    {
+      "time": "2026-09-15T07:41:18.494Z",
+      "fans": 1000320
+    },
+    {
+      "time": "2026-09-15T13:30:26.808Z",
+      "fans": 1000337
+    },
+    {
+      "time": "2026-09-15T18:10:14.665Z",
+      "fans": 1000358
+    },
+    {
+      "time": "2026-09-15T21:20:17.225Z",
+      "fans": 1000354
+    },
+    {
+      "time": "2026-09-16T00:16:24.616Z",
+      "fans": 1000356
+    },
+    {
+      "time": "2026-09-16T05:58:58.355Z",
+      "fans": 1000406
+    },
+    {
+      "time": "2026-09-16T11:27:39.242Z",
+      "fans": 1000433
     }
   ],
   "videos": [
+    {
+      "aid": 117269820671558,
+      "bvid": "BV1JVe568Eiy",
+      "ctime": 1789395710,
+      "pubdate": 1789466400,
+      "duration": 1093,
+      "pic": "http://i0.hdslb.com/bfs/archive/6754c71a08c4b719fed286f8ff1d09d3c02555af.jpg",
+      "title": "【伯爵】吃饭就是政治！古代皇帝的后厨，隐藏着哪些帝国运行法则？",
+      "recorded_at": "2026-09-15T18:10:14.665Z"
+    },
     {
       "aid": 117213835036535,
       "bvid": "BV1zDtz6UEPP",
