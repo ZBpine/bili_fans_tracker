@@ -1,7 +1,34 @@
 const fs = require('fs');
 
 const config = JSON.parse(fs.readFileSync('config.json', 'utf-8'));
-const PROFILE_REFRESH_INTERVAL_MS = 8 * 60 * 60 * 1000;
+const HOUR_MS = 60 * 60 * 1000;
+const DAY_MS = 24 * HOUR_MS;
+
+function getVideoRefreshIntervalMs(videos, nowMs = Date.now()) {
+  const pubdates = (Array.isArray(videos) ? videos : [])
+    .map(video => Number(video.pubdate) * 1000)
+    .filter(timestamp => Number.isFinite(timestamp) && timestamp > 0)
+    .sort((a, b) => b - a)
+    .slice(0, 10);
+  const intervals = [];
+
+  for (let index = 0; index < pubdates.length - 1; index += 1) {
+    const interval = pubdates[index] - pubdates[index + 1];
+    if (interval > 0) intervals.push(interval);
+  }
+
+  if (pubdates.length > 0) {
+    const sinceLatest = nowMs - pubdates[0];
+    if (sinceLatest > 3 * DAY_MS) intervals.push(sinceLatest);
+  }
+
+  if (intervals.length === 0) return 8 * HOUR_MS;
+  const average = intervals.reduce((sum, interval) => sum + interval, 0) / intervals.length;
+  if (average <= 3 * DAY_MS) return 8 * HOUR_MS;
+  if (average <= 7 * DAY_MS) return 16 * HOUR_MS;
+  if (average < 30 * DAY_MS) return 24 * HOUR_MS;
+  return 72 * HOUR_MS;
+}
 
 async function fetchCard(uid) {
   const url = `https://api.bilibili.com/x/web-interface/card?mid=${uid}`;
@@ -125,6 +152,7 @@ async function syncVideos(uid, fileData, now) {
 
 async function main() {
   const now = new Date().toISOString();
+  const nowMs = new Date(now).getTime();
   if (!fs.existsSync('docs/data')) fs.mkdirSync('docs/data', { recursive: true });
 
   for (const uid of config.uids) {
@@ -136,14 +164,15 @@ async function main() {
       fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
     }
 
-    // 1. 每 8 小时一起刷新用户资料与视频投稿
+    // 1. 根据最近投稿频率，一起刷新用户资料与视频投稿
+    const refreshIntervalMs = getVideoRefreshIntervalMs(fileData.videos, nowMs);
     const metaUpdatedAt = fileData.meta && new Date(fileData.meta.updated).getTime();
-    const refreshProfileDue = !fileData.meta || !Number.isFinite(metaUpdatedAt) || Date.now() - metaUpdatedAt > PROFILE_REFRESH_INTERVAL_MS;
+    const refreshProfileDue = !fileData.meta || !Number.isFinite(metaUpdatedAt) || nowMs - metaUpdatedAt >= refreshIntervalMs;
     let refreshedMeta = null;
     let metaSucceeded = false;
     let videosSucceeded = false;
     if (refreshProfileDue) {
-      console.log(`刷新 ${uid} 元数据...`);
+      console.log(`刷新 ${uid} 元数据（同步间隔 ${refreshIntervalMs / HOUR_MS}h）...`);
       try {
         refreshedMeta = await fetchCard(uid);
         metaSucceeded = true;
@@ -153,7 +182,7 @@ async function main() {
 
     }
 
-    // 2. 采集粉丝数
+    // 2. 每小时采集粉丝数
     try {
       const fans = await fetchFans(uid);
       const last = fileData.records[fileData.records.length - 1];
@@ -168,6 +197,7 @@ async function main() {
       console.error(`FAIL Fans ${uid}: ${err.message}`);
     }
 
+    // 3. 与用户资料使用同一个刷新周期
     if (refreshProfileDue) {
       console.log(`同步 ${uid} 视频投稿...`);
       try {
@@ -178,14 +208,14 @@ async function main() {
       } catch (err) {
         console.error(`FAIL Videos ${uid}: ${err.message}`);
       }
+    }
 
-      if (metaSucceeded) {
-        // Keep the old timestamp until both data sources have completed.
-        if (videosSucceeded) refreshedMeta.updated = now;
-        else if (fileData.meta && fileData.meta.updated) refreshedMeta.updated = fileData.meta.updated;
-        fileData.meta = refreshedMeta;
-        changed = true;
-      }
+    if (refreshProfileDue && metaSucceeded) {
+      // 两项都成功后才推进时间；任一失败都会在下一小时重试。
+      if (videosSucceeded) refreshedMeta.updated = now;
+      else if (fileData.meta && fileData.meta.updated) refreshedMeta.updated = fileData.meta.updated;
+      fileData.meta = refreshedMeta;
+      changed = true;
     }
 
     if (changed) fs.writeFileSync(filePath, JSON.stringify(fileData, null, 2));
