@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "name": "失踪棱镜",
+    "face": "https://i2.hdslb.com/bfs/face/c3f5d1cb27a4242630391e900bef3aab1614edd0.jpg",
+    "sign": "为推迟世界末日而写作",
+    "level": 6,
+    "archive_count": 6,
+    "like_num": 212198,
+    "following": 93,
+    "official_title": "",
+    "updated": "2026-09-16T16:50:46.517Z"
+  },
+  "records": [
+    {
+      "time": "2026-09-16T16:50:46.517Z",
+      "fans": 109634
+    }
+  ],
+  "videos": [
+    {
+      "aid": 113861931833754,
+      "bvid": "BV1KfwxejExL",
+      "ctime": 1737395487,
+      "pubdate": 1737395487,
+      "duration": 2292,
+      "pic": "http://i2.hdslb.com/bfs/archive/177eff15d00aeaf4cd5789ee750b78367dec9dfd.jpg",
+      "title": "蓝天、国旗与总统——全球化的最后一张照片",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 1202351222,
+      "bvid": "BV1Df421Z7Zk",
+      "ctime": 1711761446,
+      "pubdate": 1711761446,
+      "duration": 4256,
+      "pic": "http://i1.hdslb.com/bfs/archive/98a5b0ac276dc39a546915d90635b69d8a9df425.jpg",
+      "title": "智利的奇迹与转型：从社会主义到威权资本主义",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 912218195,
+      "bvid": "BV1SM4y1Y7ZZ",
+      "ctime": 1686517046,
+      "pubdate": 1686531600,
+      "duration": 2496,
+      "pic": "http://i1.hdslb.com/bfs/archive/ab85f1ea247030e48d3d4567679f0a9eb25de067.jpg",
+      "title": "亚洲金融危机——大洗牌中的亚洲与中国",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 783026317,
+      "bvid": "BV1Z14y1o7jh",
+      "ctime": 1682857858,
+      "pubdate": 1682859525,
+      "duration": 1820,
+      "pic": "http://i0.hdslb.com/bfs/archive/03ec63e0e3c824e4e4ad249c549ab724b4a42335.jpg",
+      "title": "如何终结一场经济危机——大萧条，70s滞胀，08金融危机对比研究",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 226076577,
+      "bvid": "BV1pb411Z7Sw",
+      "ctime": 1678931987,
+      "pubdate": 1678931986,
+      "duration": 1425,
+      "pic": "http://i2.hdslb.com/bfs/archive/a167bc07e5df6eda6de6738a18b75c4c392cabce.jpg",
+      "title": "儒者的新衣——以尊孔/批孔为名的思想斗争史",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 865228543,
+      "bvid": "BV1F54y137F1",
+      "ctime": 1677500430,
+      "pubdate": 1677500430,
+      "duration": 1169,
+      "pic": "http://i2.hdslb.com/bfs/archive/557a55a450678e6861a824f958aef88a9f258421.jpg",
+      "title": "谁是中国的主人？（上）",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    }
+  ]
+}

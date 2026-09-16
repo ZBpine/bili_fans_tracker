@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "name": "稚晖君",
+    "face": "https://i2.hdslb.com/bfs/face/cb9ef82714507e6bda707dac216da94c97d70037.jpg",
+    "sign": "保持热爱，奔赴星海。",
+    "level": 6,
+    "archive_count": 61,
+    "like_num": 5573002,
+    "following": 263,
+    "official_title": "bilibili 2021百大UP主、知名科技UP主",
+    "updated": "2026-09-16T16:50:46.517Z"
+  },
+  "records": [
+    {
+      "time": "2026-09-16T16:50:46.517Z",
+      "fans": 2836580
+    }
+  ],
+  "videos": [
+    {
+      "aid": 116882300472696,
+      "bvid": "BV11VMq6qEFA",
+      "ctime": 1783482584,
+      "pubdate": 1783482583,
+      "duration": 104,
+      "pic": "http://i1.hdslb.com/bfs/archive/92f928f716ca243f439260a1ea687878c45cba80.jpg",
+      "title": "「灵犀X2」会说话你就多说点！",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 116062683140047,
+      "bvid": "BV1SAcjzEEfC",
+      "ctime": 1770976309,
+      "pubdate": 1770976309,
+      "duration": 73,
+      "pic": "http://i0.hdslb.com/bfs/archive/f11f49ddb7299097b0b70e70db1f9759dfdf0684.jpg",
+      "title": "绝世高手，马上下山！",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115812635574956,
+      "bvid": "BV1LjiKBYEce",
+      "ctime": 1767160815,
+      "pubdate": 1767165480,
+      "duration": 473,
+      "pic": "http://i0.hdslb.com/bfs/archive/4f6cc24d57892d55e0c72a71601ab54b2ed5b7a5.jpg",
+      "title": "全球首个个人机器人，由你定义！",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115450180602429,
+      "bvid": "BV1QtyzBkEXZ",
+      "ctime": 1761630146,
+      "pubdate": 1761630145,
+      "duration": 146,
+      "pic": "http://i0.hdslb.com/bfs/archive/bb80b006187340f7308209f3077c857402b206e3.jpg",
+      "title": "【灵犀X2】有灵创学得就是快，当机器人开始跳机械舞～",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115427766175459,
+      "bvid": "BV1dhsJzFESF",
+      "ctime": 1761288356,
+      "pubdate": 1761288356,
+      "duration": 354,
+      "pic": "http://i1.hdslb.com/bfs/archive/701e59c10d35513a0b78d45707e7729bbd5a1557.jpg",
+      "title": "【灵创平台】不用写代码，也能训练机器人？全球首个0代码创作平台来了！",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115280864937366,
+      "bvid": "BV1ELnRzWEaW",
+      "ctime": 1759046585,
+      "pubdate": 1759046585,
+      "duration": 59,
+      "pic": "http://i0.hdslb.com/bfs/archive/6464c5b07de50f5d5e30a63fb2894c3c63bd670f.jpg",
+      "title": "【开发日记】灵犀现学现卖，又是被X2可爱到的一天～",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115224946410651,
+      "bvid": "BV1eMpizAEcg",
+      "ctime": 1758193378,
+      "pubdate": 1758193378,
+      "duration": 87,
+      "pic": "http://i0.hdslb.com/bfs/archive/a016eacd74b6de7fb03fe671b4901056c96d3c15.jpg",
+      "title": "【灵犀X2】它快要学会人类的一切动作了...（好努力一机器人）",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115100711193630,
+      "bvid": "BV1u2e1zEEPf",
+      "ctime": 1756297851,
+      "pubdate": 1756297851,
+      "duration": 76,
+      "pic": "http://i0.hdslb.com/bfs/archive/60f369858b55a38fc4fb21efc40ec408291533e4.jpg",
+      "title": "拆解未来，灵犀X2-W原型机渲染细节",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115066955369505,
+      "bvid": "BV1w2Y9z4EWb",
+      "ctime": 1755782948,
+      "pubdate": 1755782948,
+      "duration": 262,
+      "pic": "http://i1.hdslb.com/bfs/archive/65989a6dcceca9cdf0cd16a717f070204ac13b4c.jpg",
+      "title": "【硬核】新灵犀将以轮臂形态出击，X2-W作业智能机器人",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "name": "解诂",
+    "face": "https://i1.hdslb.com/bfs/face/f62287c23847d37991ebeeb99d87ea8dad05d594.jpg",
+    "sign": "我宁愿因了解得过多而久久迷茫，也不愿因无知而洋洋自得",
+    "level": 6,
+    "archive_count": 47,
+    "like_num": 192923,
+    "following": 24,
+    "official_title": "",
+    "updated": "2026-09-16T16:50:46.517Z"
+  },
+  "records": [
+    {
+      "time": "2026-09-16T16:50:46.517Z",
+      "fans": 99445
+    }
+  ],
+  "videos": [
+    {
+      "aid": 116075870035366,
+      "bvid": "BV1tFZABAEUX",
+      "ctime": 1771177750,
+      "pubdate": 1771214400,
+      "duration": 497,
+      "pic": "http://i2.hdslb.com/bfs/archive/a026afdf874b113fc8def82095728b9f186f378e.jpg",
+      "title": "B站除夕拜年视频及2026更新企划 祝大家新年快乐！",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115985977775725,
+      "bvid": "BV1BU66BVEHr",
+      "ctime": 1769805778,
+      "pubdate": 1769819400,
+      "duration": 1808,
+      "pic": "http://i0.hdslb.com/bfs/archive/579866376c1b6f87ef982d13d9203e6f9c9bb7fb.jpg",
+      "title": "北京键政游记：丰富与稀缺同时成立的首都",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115874560218304,
+      "bvid": "BV1Mh69BAEyB",
+      "ctime": 1768105745,
+      "pubdate": 1768105745,
+      "duration": 21,
+      "pic": "http://i1.hdslb.com/bfs/archive/d80d411bcecd56bfba81c50aac7e21f5465c235b.jpg",
+      "title": "登天安门城楼",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 115505981693887,
+      "bvid": "BV1wb2TB6Eid",
+      "ctime": 1762482410,
+      "pubdate": 1762561800,
+      "duration": 1481,
+      "pic": "http://i1.hdslb.com/bfs/archive/a9d50d259906fa2ad9e12b67613e44e5692c5683.jpg",
+      "title": "键政访谈：朴正熙吧丨国际主义与民族主义之争丨王朴左右之争丨唯我独左？",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    }
+  ]
+}

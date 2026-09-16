@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "name": "MHYYYY",
+    "face": "https://i2.hdslb.com/bfs/face/f7e24cfec824e0aaf67fdd62c960c13026768f70.jpg",
+    "sign": "私信太多很难回复，请尽量公开评论。",
+    "level": 6,
+    "archive_count": 184,
+    "like_num": 2242099,
+    "following": 351,
+    "official_title": "",
+    "updated": "2026-09-16T16:50:46.517Z"
+  },
+  "records": [
+    {
+      "time": "2026-09-16T16:50:46.517Z",
+      "fans": 434071
+    }
+  ],
+  "videos": [
+    {
+      "aid": 1056474027,
+      "bvid": "BV1en4y1f7gF",
+      "ctime": 1721938846,
+      "pubdate": 1721938846,
+      "duration": 24855,
+      "pic": "http://i1.hdslb.com/bfs/archive/debbc361f10833458f7988c215aa8cba35be0bd2.jpg",
+      "title": "【直播回放】星一直铁 2024年07月25日14点场",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 1006268070,
+      "bvid": "BV1Zx4y1x7Ua",
+      "ctime": 1721656647,
+      "pubdate": 1721700000,
+      "duration": 1114,
+      "pic": "http://i0.hdslb.com/bfs/archive/1f10e9c851a6a57d591095266060b35ab149bac9.jpg",
+      "title": "“本土自由派”概述",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 1306429175,
+      "bvid": "BV1jM4m117dj",
+      "ctime": 1721542613,
+      "pubdate": 1721552400,
+      "duration": 1071,
+      "pic": "http://i2.hdslb.com/bfs/archive/c99ca111ff2ea0882ca796c0686e62943387be1e.jpg",
+      "title": "原神洗白争议-政治正确还是文化挪用？",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 1256084025,
+      "bvid": "BV1ZJ4m1T7Qz",
+      "ctime": 1720782519,
+      "pubdate": 1720836000,
+      "duration": 1790,
+      "pic": "http://i0.hdslb.com/bfs/archive/81fa2eec8e43f131f4e68db86f34bcde0d84d159.jpg",
+      "title": "键政人物志-罗翔",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    },
+    {
+      "aid": 1156182757,
+      "bvid": "BV15Z421T7pE",
+      "ctime": 1720415838,
+      "pubdate": 1720429200,
+      "duration": 952,
+      "pic": "http://i0.hdslb.com/bfs/archive/5f8e6f181e9a173a1f9f5f7a21498d0b4102354d.jpg",
+      "title": "8小时工作制 是社会主义与资本主义的共同追求",
+      "recorded_at": "2026-09-16T16:50:46.517Z"
+    }
+  ]
+}
