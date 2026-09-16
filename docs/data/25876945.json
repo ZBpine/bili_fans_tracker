@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 633,
-    "like_num": 35337263,
+    "archive_count": 634,
+    "like_num": 35442059,
     "following": 243,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-09-16T05:58:58.355Z"
+    "updated": "2026-09-16T22:55:32.653Z"
   },
   "records": [
     {
@@ -122,9 +122,23 @@
     {
       "time": "2026-09-16T20:05:25.960Z",
       "fans": 5533970
+    },
+    {
+      "time": "2026-09-16T22:55:32.653Z",
+      "fans": 5534218
     }
   ],
   "videos": [
+    {
+      "aid": 117280843238188,
+      "bvid": "BV1oZeA6fERD",
+      "ctime": 1789564390,
+      "pubdate": 1789564390,
+      "duration": 1612,
+      "pic": "http://i2.hdslb.com/bfs/archive/9e4d6b111a030888fc36a2b874f1b1bb0d4a0966.jpg",
+      "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
     {
       "aid": 117278829971296,
       "bvid": "BV14ReF6NEWN",

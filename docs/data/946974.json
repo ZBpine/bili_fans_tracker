@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/c1733474892caa45952b2c09a89323157df7129a.jpg",
     "sign": "无限进步！｜商务合作请联系邮箱：bd@ysjf.com（邮件中麻烦备注公司、咨询内容）｜店铺名：影视飓风",
     "level": 6,
-    "archive_count": 942,
-    "like_num": 125391870,
+    "archive_count": 943,
+    "like_num": 125628750,
     "following": 686,
     "official_title": "2025百大UP主、2023年度最高人气奖UP主、课堂优质讲师",
-    "updated": "2026-09-16T05:58:58.355Z"
+    "updated": "2026-09-16T22:55:32.653Z"
   },
   "records": [
     {
@@ -122,9 +122,23 @@
     {
       "time": "2026-09-16T20:05:25.960Z",
       "fans": 17571365
+    },
+    {
+      "time": "2026-09-16T22:55:32.653Z",
+      "fans": 17581666
     }
   ],
   "videos": [
+    {
+      "aid": 117280105045764,
+      "bvid": "BV1cSec6tEux",
+      "ctime": 1789552908,
+      "pubdate": 1789560000,
+      "duration": 1632,
+      "pic": "http://i1.hdslb.com/bfs/archive/aec12235afcae7c12ed1eb3684c103ed407434bf.jpg",
+      "title": "折叠还是直板？iPhone 18 Pro&Duo深度视频",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
     {
       "aid": 117268411455280,
       "bvid": "BV17PYC6KEXu",

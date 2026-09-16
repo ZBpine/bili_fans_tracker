@@ -5,9 +5,10 @@
     "sign": "分享科学的快乐和美！\n小号:毕导\n商务联系：s1012295607",
     "level": 6,
     "archive_count": 167,
-    "like_num": 20448162,
+    "like_num": 20448372,
     "following": 57,
-    "official_title": "bilibili 知名科普UP主"
+    "official_title": "bilibili 知名科普UP主",
+    "updated": "2026-09-16T22:55:32.653Z"
   },
   "records": [
     {
@@ -17,6 +18,112 @@
     {
       "time": "2026-09-16T20:05:25.960Z",
       "fans": 2515372
+    },
+    {
+      "time": "2026-09-16T22:55:32.653Z",
+      "fans": 2515390
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117272588916518,
+      "bvid": "BV1VYej6sEeU",
+      "ctime": 1789437847,
+      "pubdate": 1789444800,
+      "duration": 216,
+      "pic": "http://i2.hdslb.com/bfs/archive/945f8690c9e3b24e82818ef30d147b7773521737.jpg",
+      "title": "人会越变越矮？我不到180的原因找到了",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117240460680644,
+      "bvid": "BV1ezYx6EEqA",
+      "ctime": 1788947800,
+      "pubdate": 1789009200,
+      "duration": 165,
+      "pic": "http://i2.hdslb.com/bfs/archive/e37eaf02085dc2e7d0a9ab66835d987b17f0e626.jpg",
+      "title": "世界上一半的人每天看见这个现象，却不知道为什么",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117134479007686,
+      "bvid": "BV1VE8B66EFD",
+      "ctime": 1787330776,
+      "pubdate": 1787369400,
+      "duration": 218,
+      "pic": "http://i1.hdslb.com/bfs/archive/85feb1c99fe13220c2ca8c56bdcac4ac01fe4dbd.jpg",
+      "title": "为啥海拔越高，气温越低？物理老师和地理老师打起来了！",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117086210822333,
+      "bvid": "BV1P8gH6bEwE",
+      "ctime": 1786594148,
+      "pubdate": 1786594298,
+      "duration": 367,
+      "pic": "http://i2.hdslb.com/bfs/archive/e2f6c605b0805ca5b0f6b372bea43f8335ce7f2f.jpg",
+      "title": "你天天盯着看的东西，竟然这么神奇？！",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117075859480560,
+      "bvid": "BV1Kruq63E9J",
+      "ctime": 1786436294,
+      "pubdate": 1786438800,
+      "duration": 189,
+      "pic": "http://i1.hdslb.com/bfs/archive/711262a0b0af504cfec9c069912f56d85a0fddd2.jpg",
+      "title": "摇可乐会喷的真正原因，你可能错了十几年",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117053595846872,
+      "bvid": "BV1Ygub6hESJ",
+      "ctime": 1786096617,
+      "pubdate": 1786185000,
+      "duration": 169,
+      "pic": "http://i1.hdslb.com/bfs/archive/6ae191dde7248ee6abb6ec96f55de81105f05bd7.jpg",
+      "title": "接龙挑战|这串数字，竟是生命最好的答案？！",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 116967042324360,
+      "bvid": "BV1d7gD6FE1J",
+      "ctime": 1784775689,
+      "pubdate": 1784775689,
+      "duration": 190,
+      "pic": "http://i2.hdslb.com/bfs/archive/fb3f4fe6c39000ac5bc8f92732b0385903c1bca3.jpg",
+      "title": "刚买的李子丢进水里，直接长出了一层透明壳？？",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 116923085888400,
+      "bvid": "BV1RaNq6CE1a",
+      "ctime": 1784105152,
+      "pubdate": 1784170800,
+      "duration": 224,
+      "pic": "http://i0.hdslb.com/bfs/archive/140825c3961e84dae9644987619e87d769043c87.jpg",
+      "title": "不要眨眼！黄色的蜂蜜倒进碗里，竟然变绿了？？",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 116883189669465,
+      "bvid": "BV1xXMv6AEn5",
+      "ctime": 1783496025,
+      "pubdate": 1783650600,
+      "duration": 246,
+      "pic": "http://i1.hdslb.com/bfs/archive/eadbd2565f60022585b73e8785b9cf4bd120d5e6.jpg",
+      "title": "探秘万吨榨菜工厂！2块钱一包的榨菜，是怎么炼成的？",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 116887988082510,
+      "bvid": "BV1HDM76rEE8",
+      "ctime": 1783569330,
+      "pubdate": 1783569330,
+      "duration": 1014,
+      "pic": "http://i1.hdslb.com/bfs/archive/faaea2ce9fc204088694836e77937065fe057945.jpg",
+      "title": "【毕导】什么时候拿百大？今年高考能拿几分？800w粉丝读评论！",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
     }
   ]
 }

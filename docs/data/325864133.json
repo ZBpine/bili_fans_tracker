@@ -5,9 +5,10 @@
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
     "archive_count": 78,
-    "like_num": 1079082,
+    "like_num": 1079088,
     "following": 144,
-    "official_title": "bilibili 知名科普UP主"
+    "official_title": "bilibili 知名科普UP主",
+    "updated": "2026-09-16T22:55:32.653Z"
   },
   "records": [
     {
@@ -17,6 +18,112 @@
     {
       "time": "2026-09-16T20:05:25.960Z",
       "fans": 456723
+    },
+    {
+      "time": "2026-09-16T22:55:32.653Z",
+      "fans": 456729
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117255996311393,
+      "bvid": "BV1QuYX6XEZ4",
+      "ctime": 1789184799,
+      "pubdate": 1789184799,
+      "duration": 665,
+      "pic": "http://i2.hdslb.com/bfs/archive/fa2c83d6ec962f0ebd30edfe9ffd0eeb8a26c5fb.jpg",
+      "title": "【闪客】Computer Use 是什么？它真的有在看你的屏幕吗？可能和你想的不太一样...",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117223549111822,
+      "bvid": "BV136bH64ER6",
+      "ctime": 1788689587,
+      "pubdate": 1788689587,
+      "duration": 532,
+      "pic": "http://i0.hdslb.com/bfs/archive/bdefb1f940aa0735a949d92381c70b051da01491.jpg",
+      "title": "【闪客】如何判断文字是不是 AI 生成的？深入模型水印的秘密",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117212543322963,
+      "bvid": "BV1oYtB6GEnP",
+      "ctime": 1788521709,
+      "pubdate": 1788521709,
+      "duration": 492,
+      "pic": "http://i1.hdslb.com/bfs/archive/1ce3f80eb77608d0ee3800ddc4ab8c4d6b4f6d5c.jpg",
+      "title": "【闪客】GPT-6 Astra 信息背面，真的提升这么大吗？这里有点说法",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117189709531668,
+      "bvid": "BV1z9t86dEc2",
+      "ctime": 1788173289,
+      "pubdate": 1788173289,
+      "duration": 364,
+      "pic": "http://i1.hdslb.com/bfs/archive/7acc32e700a97a9c6a5e49ee21503ecc4494bfff.jpg",
+      "title": "【闪客】什么是大模型斩杀线？这居然是我大学经济学课的内容！",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117184089032562,
+      "bvid": "BV1UFtp6UEn2",
+      "ctime": 1788087604,
+      "pubdate": 1788089557,
+      "duration": 506,
+      "pic": "http://i2.hdslb.com/bfs/archive/6a308ad58e8fe45604dba9601db9ce0630958ebe.jpg",
+      "title": "固态硬盘 SSD 是如何影响 AI 计算的？",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117178267402810,
+      "bvid": "BV15z4C6SEHT",
+      "ctime": 1787998656,
+      "pubdate": 1787998656,
+      "duration": 3504,
+      "pic": "http://i1.hdslb.com/bfs/archive/c4b80dd1e84a2028c8e4c571fb35e6e5ef0875ab.jpg",
+      "title": "【闪客】一小时从 Transformer 到大模型！",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 117003197090023,
+      "bvid": "BV1sv316KEih",
+      "ctime": 1785327425,
+      "pubdate": 1785327425,
+      "duration": 1171,
+      "pic": "http://i1.hdslb.com/bfs/archive/0098136bb3f6b12fd3bb6b7c2ea78e0ac1c06b99.jpg",
+      "title": "【一飞冲天】AI 给我的最大帮助其实是... 很多人的方向都错了",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 116939728946985,
+      "bvid": "BV1yLKw6aE9p",
+      "ctime": 1784358795,
+      "pubdate": 1784358795,
+      "duration": 561,
+      "pic": "http://i2.hdslb.com/bfs/archive/ff9cef97bf146be95431d86dfa496e95c959d919.jpg",
+      "title": "【闪客】大大大模型哪大了？深入解读超大模型 Kimi K3 背后的技术",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 116901241948328,
+      "bvid": "BV1KcNc6FEqA",
+      "ctime": 1783771633,
+      "pubdate": 1783771633,
+      "duration": 344,
+      "pic": "http://i1.hdslb.com/bfs/archive/5d63d1d2e9edac1a41cd7365deb2a4fffeebadb1.jpg",
+      "title": "【闪客】GPT5.6 是什么水平？我花了 1036 元帮你测了下！效果直观，就是有点费钱！",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
+    },
+    {
+      "aid": 116878055900700,
+      "bvid": "BV1LkM86vEEW",
+      "ctime": 1783417696,
+      "pubdate": 1783417695,
+      "duration": 642,
+      "pic": "http://i1.hdslb.com/bfs/archive/9b6d7db96cd6e0551e50ef9afb961805b581b722.jpg",
+      "title": "【闪客】大模型的分数是咋测出来的？深入拆解 Benchmark 背后的秘密",
+      "recorded_at": "2026-09-16T22:55:32.653Z"
     }
   ]
 }
