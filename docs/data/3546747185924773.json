@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 5,
-    "archive_count": 56,
-    "like_num": 97577,
+    "archive_count": 57,
+    "like_num": 97913,
     "following": 20,
     "official_title": "",
-    "updated": "2026-09-15T18:10:14.665Z"
+    "updated": "2026-09-16T05:58:58.355Z"
   },
   "records": [
     {
@@ -50,9 +50,23 @@
     {
       "time": "2026-09-16T00:16:24.616Z",
       "fans": 29353
+    },
+    {
+      "time": "2026-09-16T05:58:58.355Z",
+      "fans": 29531
     }
   ],
   "videos": [
+    {
+      "aid": 117275071876099,
+      "bvid": "BV1ECeJ65EZS",
+      "ctime": 1789475601,
+      "pubdate": 1789529400,
+      "duration": 143,
+      "pic": "http://i0.hdslb.com/bfs/archive/1f5566009f02ddf9d96af99e0449f489ffd73bb5.jpg",
+      "title": "欢 迎 来 到 A G I 时 代",
+      "recorded_at": "2026-09-16T05:58:58.355Z"
+    },
     {
       "aid": 117274350460781,
       "bvid": "BV1AEen6nE9w",
