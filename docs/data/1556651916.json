@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 604,
-    "like_num": 9034180,
+    "archive_count": 605,
+    "like_num": 9036931,
     "following": 43,
     "official_title": "",
-    "updated": "2026-09-17T01:22:53.791Z"
+    "updated": "2026-09-17T13:24:37.153Z"
   },
   "records": [
     {
@@ -126,9 +126,23 @@
     {
       "time": "2026-09-17T07:35:51.940Z",
       "fans": 734023
+    },
+    {
+      "time": "2026-09-17T13:24:37.153Z",
+      "fans": 734031
     }
   ],
   "videos": [
+    {
+      "aid": 117286379784819,
+      "bvid": "BV1EGeG6pEAw",
+      "ctime": 1789648411,
+      "pubdate": 1789648411,
+      "duration": 1004,
+      "pic": "http://i1.hdslb.com/bfs/archive/eee839441f802ffc5e3b4aa9dad9ea121500553c.jpg",
+      "title": "【参考信息第651期】管家偷副省长家茅台；并非“北大严选”",
+      "recorded_at": "2026-09-17T13:24:37.153Z"
+    },
     {
       "aid": 117269384399593,
       "bvid": "BV12yYy6dEQg",

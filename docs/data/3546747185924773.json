@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 5,
-    "archive_count": 57,
-    "like_num": 98681,
+    "archive_count": 58,
+    "like_num": 99821,
     "following": 20,
     "official_title": "",
-    "updated": "2026-09-16T20:05:25.960Z"
+    "updated": "2026-09-17T13:24:37.153Z"
   },
   "records": [
     {
@@ -78,9 +78,23 @@
     {
       "time": "2026-09-17T07:35:51.940Z",
       "fans": 30039
+    },
+    {
+      "time": "2026-09-17T13:24:37.153Z",
+      "fans": 30219
     }
   ],
   "videos": [
+    {
+      "aid": 117285490531956,
+      "bvid": "BV1R7eg6gEnJ",
+      "ctime": 1789634774,
+      "pubdate": 1789634773,
+      "duration": 878,
+      "pic": "http://i2.hdslb.com/bfs/archive/7e2a3fa55efa49304564a07f6c4269e498005172.jpg",
+      "title": "屎山留给DeepSeek的时间不多了｜B组第二轮",
+      "recorded_at": "2026-09-17T13:24:37.153Z"
+    },
     {
       "aid": 117275071876099,
       "bvid": "BV1ECeJ65EZS",
