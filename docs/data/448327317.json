@@ -5,10 +5,10 @@
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
     "archive_count": 22,
-    "like_num": 1140140,
+    "like_num": 1140211,
     "following": 67,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-16T22:55:32.653Z"
+    "updated": "2026-09-17T21:22:28.537Z"
   },
   "records": [
     {
@@ -110,6 +110,10 @@
     {
       "time": "2026-09-17T18:10:54.898Z",
       "fans": 233524
+    },
+    {
+      "time": "2026-09-17T21:22:28.537Z",
+      "fans": 233526
     }
   ],
   "videos": [
@@ -212,6 +216,16 @@
       "pic": "http://i2.hdslb.com/bfs/archive/af9be3ff58bd92327e3ae2e527d3afd60f4053f7.jpg",
       "title": "为什么社会主义必须民主？",
       "recorded_at": "2026-09-13T06:06:16.483Z"
+    },
+    {
+      "aid": 117037271616215,
+      "bvid": "BV1JQuA6qEfp",
+      "ctime": 1785847533,
+      "pubdate": 1785847533,
+      "duration": 896,
+      "pic": "http://i0.hdslb.com/bfs/archive/bab61982fdde14c9d9633da713fd8bde95ffc188.jpg",
+      "title": "沙俄和苏联对中国有多好？（已删减）",
+      "recorded_at": "2026-09-17T21:22:28.537Z"
     }
   ]
 }
