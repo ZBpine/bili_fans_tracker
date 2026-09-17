@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 184,
-    "like_num": 21684944,
+    "archive_count": 185,
+    "like_num": 21701467,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-16T22:55:32.653Z"
+    "updated": "2026-09-17T18:10:54.898Z"
   },
   "records": [
     {
@@ -138,9 +138,23 @@
     {
       "time": "2026-09-17T13:24:37.153Z",
       "fans": 2339413
+    },
+    {
+      "time": "2026-09-17T18:10:54.898Z",
+      "fans": 2339481
     }
   ],
   "videos": [
+    {
+      "aid": 117268478494003,
+      "bvid": "BV13YYk64EpS",
+      "ctime": 1789375391,
+      "pubdate": 1789634400,
+      "duration": 169,
+      "pic": "http://i2.hdslb.com/bfs/archive/a3b8f2d22f00843c20a2bb4ee1ef7f2cdf901b7d.jpg",
+      "title": "保卫院士声誉，曝光院士身边造假人！",
+      "recorded_at": "2026-09-17T18:10:54.898Z"
+    },
     {
       "aid": 117272773398261,
       "bvid": "BV1Fjej6KEwg",
