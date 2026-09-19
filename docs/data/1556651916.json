@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 605,
-    "like_num": 9046008,
+    "archive_count": 606,
+    "like_num": 9049337,
     "following": 43,
     "official_title": "",
-    "updated": "2026-09-19T05:50:24.914Z"
+    "updated": "2026-09-19T14:22:50.063Z"
   },
   "records": [
     {
@@ -174,9 +174,23 @@
     {
       "time": "2026-09-19T10:54:23.096Z",
       "fans": 734371
+    },
+    {
+      "time": "2026-09-19T14:22:50.063Z",
+      "fans": 734377
     }
   ],
   "videos": [
+    {
+      "aid": 117297553343302,
+      "bvid": "BV1hvet6QE9V",
+      "ctime": 1789818998,
+      "pubdate": 1789820066,
+      "duration": 1035,
+      "pic": "http://i2.hdslb.com/bfs/archive/85985581340fd8f6dcde2870b1477998d0db007f.jpg",
+      "title": "【参考信息第652期】宣扬“23年不回家”；为何信“只批三天假”？",
+      "recorded_at": "2026-09-19T14:22:50.063Z"
+    },
     {
       "aid": 117286379784819,
       "bvid": "BV1EGeG6pEAw",
