@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 368,
-    "like_num": 22200451,
+    "archive_count": 369,
+    "like_num": 22215910,
     "following": 648,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-19T00:18:08.193Z"
+    "updated": "2026-09-19T17:59:08.302Z"
   },
   "records": [
     {
@@ -82,9 +82,23 @@
     {
       "time": "2026-09-19T14:22:50.063Z",
       "fans": 2083432
+    },
+    {
+      "time": "2026-09-19T17:59:08.302Z",
+      "fans": 2083519
     }
   ],
   "videos": [
+    {
+      "aid": 117297150695519,
+      "bvid": "BV1wqeb6gEaz",
+      "ctime": 1789813383,
+      "pubdate": 1789815900,
+      "duration": 740,
+      "pic": "http://i0.hdslb.com/bfs/archive/c8b0ac23a24f795197b7f8de3e3ab5a5c0601177.jpg",
+      "title": "国家卫健委：要引导抵制“不良婚育观”",
+      "recorded_at": "2026-09-19T17:59:08.302Z"
+    },
     {
       "aid": 117275256493786,
       "bvid": "BV1x7ep6fESB",
