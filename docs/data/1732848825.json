@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 185,
-    "like_num": 21718612,
+    "archive_count": 186,
+    "like_num": 21727097,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-19T05:50:24.914Z"
+    "updated": "2026-09-19T23:00:24.079Z"
   },
   "records": [
     {
@@ -194,9 +194,23 @@
     {
       "time": "2026-09-19T20:36:51.184Z",
       "fans": 2339904
+    },
+    {
+      "time": "2026-09-19T23:00:24.079Z",
+      "fans": 2339902
     }
   ],
   "videos": [
+    {
+      "aid": 117297201021377,
+      "bvid": "BV1LMeb6FEqp",
+      "ctime": 1789813441,
+      "pubdate": 1789817338,
+      "duration": 6451,
+      "pic": "http://i2.hdslb.com/bfs/archive/af5e7fb6b4e2b871e7ab62a696dbee9390992c43.jpg",
+      "title": "保健品行业“烂”透了?",
+      "recorded_at": "2026-09-19T23:00:24.079Z"
+    },
     {
       "aid": 117268478494003,
       "bvid": "BV13YYk64EpS",
