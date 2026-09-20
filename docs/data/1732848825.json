@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 186,
-    "like_num": 21727097,
+    "archive_count": 187,
+    "like_num": 21738593,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-19T23:00:24.079Z"
+    "updated": "2026-09-20T16:01:48.341Z"
   },
   "records": [
     {
@@ -210,9 +210,23 @@
     {
       "time": "2026-09-20T11:27:20.609Z",
       "fans": 2339843
+    },
+    {
+      "time": "2026-09-20T16:01:48.341Z",
+      "fans": 2339812
     }
   ],
   "videos": [
+    {
+      "aid": 117285792517065,
+      "bvid": "BV1Pdeu6xEh5",
+      "ctime": 1789639600,
+      "pubdate": 1789900200,
+      "duration": 162,
+      "pic": "http://i0.hdslb.com/bfs/archive/08a3d18d7333f956bf551308fef6312dd4e575f9.jpg",
+      "title": "拿鲁迅劝人学医？拿耿同学劝人读研？文科博主也要有逻辑！",
+      "recorded_at": "2026-09-20T16:01:48.341Z"
+    },
     {
       "aid": 117297201021377,
       "bvid": "BV1LMeb6FEqp",

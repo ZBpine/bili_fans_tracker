@@ -5,10 +5,10 @@
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
     "archive_count": 369,
-    "like_num": 22235641,
-    "following": 648,
+    "like_num": 22248585,
+    "following": 649,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-19T17:59:08.302Z"
+    "updated": "2026-09-20T16:01:48.341Z"
   },
   "records": [
     {
@@ -106,9 +106,23 @@
     {
       "time": "2026-09-20T11:27:20.609Z",
       "fans": 2084742
+    },
+    {
+      "time": "2026-09-20T16:01:48.341Z",
+      "fans": 2085200
     }
   ],
   "videos": [
+    {
+      "aid": 117303123451792,
+      "bvid": "BV1tyez6LEhy",
+      "ctime": 1789907105,
+      "pubdate": 1789915391,
+      "duration": 719,
+      "pic": "http://i2.hdslb.com/bfs/archive/53b1398d039e8cfee6546a194b8d60fd9dffae9d.jpg",
+      "title": "断子绝孙！孙子鉴定非亲生 法院：已对鉴定机构训诫",
+      "recorded_at": "2026-09-20T16:01:48.341Z"
+    },
     {
       "aid": 117297150695519,
       "bvid": "BV1wqeb6gEaz",
