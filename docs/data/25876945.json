@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 634,
-    "like_num": 35573179,
+    "archive_count": 635,
+    "like_num": 35587377,
     "following": 243,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-09-21T14:04:50.754Z"
+    "updated": "2026-09-21T23:15:14.340Z"
   },
   "records": [
     {
@@ -238,9 +238,23 @@
     {
       "time": "2026-09-21T19:24:47.737Z",
       "fans": 5554789
+    },
+    {
+      "time": "2026-09-21T23:15:14.340Z",
+      "fans": 5554876
     }
   ],
   "videos": [
+    {
+      "aid": 117309800713310,
+      "bvid": "BV1JQhz6fE1x",
+      "ctime": 1790005867,
+      "pubdate": 1790005867,
+      "duration": 795,
+      "pic": "http://i2.hdslb.com/bfs/archive/3a9b42122d661e2dc6b47057f8949954692b9970.jpg",
+      "title": "Mac mini M6性能测试：核心更多了，性能强多少？",
+      "recorded_at": "2026-09-21T23:15:14.340Z"
+    },
     {
       "aid": 117280843238188,
       "bvid": "BV1oZeA6fERD",
