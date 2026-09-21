@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 22,
-    "like_num": 1143889,
+    "archive_count": 23,
+    "like_num": 1147331,
     "following": 69,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-21T00:14:12.019Z"
+    "updated": "2026-09-21T19:24:47.737Z"
   },
   "records": [
     {
@@ -202,9 +202,23 @@
     {
       "time": "2026-09-21T14:04:50.754Z",
       "fans": 233839
+    },
+    {
+      "time": "2026-09-21T19:24:47.737Z",
+      "fans": 233857
     }
   ],
   "videos": [
+    {
+      "aid": 117307300905741,
+      "bvid": "BV1Pjhe6EEGh",
+      "ctime": 1789967679,
+      "pubdate": 1789967679,
+      "duration": 718,
+      "pic": "http://i0.hdslb.com/bfs/archive/265693e2f2d7fcca538740ed3ea62c8cf5dab500.jpg",
+      "title": "小农思维的工贼最可恨！地主思维的资本家最可怕！",
+      "recorded_at": "2026-09-21T19:24:47.737Z"
+    },
     {
       "aid": 117257791343536,
       "bvid": "BV1g3YX6HEoR",

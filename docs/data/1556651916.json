@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 606,
-    "like_num": 9056863,
+    "archive_count": 607,
+    "like_num": 9060859,
     "following": 43,
     "official_title": "",
-    "updated": "2026-09-21T06:17:46.801Z"
+    "updated": "2026-09-21T19:24:47.737Z"
   },
   "records": [
     {
@@ -226,9 +226,23 @@
     {
       "time": "2026-09-21T14:04:50.754Z",
       "fans": 734707
+    },
+    {
+      "time": "2026-09-21T19:24:47.737Z",
+      "fans": 734688
     }
   ],
   "videos": [
+    {
+      "aid": 117309297394485,
+      "bvid": "BV1hthq6qE4w",
+      "ctime": 1789998179,
+      "pubdate": 1789998467,
+      "duration": 1089,
+      "pic": "http://i2.hdslb.com/bfs/archive/bfc177fa07f00b8180872ddcb4fa97c3d4aadede.jpg",
+      "title": "【参考信息第653期】生而不养，判给保姆；无手机课堂&小时租机",
+      "recorded_at": "2026-09-21T19:24:47.737Z"
+    },
     {
       "aid": 117297553343302,
       "bvid": "BV1hvet6QE9V",
