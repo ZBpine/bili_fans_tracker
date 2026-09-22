@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 187,
-    "like_num": 21751919,
+    "archive_count": 188,
+    "like_num": 21763262,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-21T14:04:50.754Z"
+    "updated": "2026-09-22T09:55:02.841Z"
   },
   "records": [
     {
@@ -246,9 +246,23 @@
     {
       "time": "2026-09-22T04:50:28.113Z",
       "fans": 2339721
+    },
+    {
+      "time": "2026-09-22T09:55:02.841Z",
+      "fans": 2339695
     }
   ],
   "videos": [
+    {
+      "aid": 117296563555569,
+      "bvid": "BV1YMe46HEME",
+      "ctime": 1789803879,
+      "pubdate": 1790065800,
+      "duration": 247,
+      "pic": "http://i0.hdslb.com/bfs/archive/e8dd77dea102baf3c16805399618c1d972b81ed5.jpg",
+      "title": "斯坦福大学造出“人脑小鼠”！小鼠脑皮层92%是人源细胞！",
+      "recorded_at": "2026-09-22T09:55:02.841Z"
+    },
     {
       "aid": 117285792517065,
       "bvid": "BV1Pdeu6xEh5",

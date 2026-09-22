@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 78,
-    "like_num": 1081110,
+    "archive_count": 79,
+    "like_num": 1084479,
     "following": 146,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-09-21T06:17:46.801Z"
+    "updated": "2026-09-22T09:55:02.841Z"
   },
   "records": [
     {
@@ -142,9 +142,23 @@
     {
       "time": "2026-09-22T04:50:28.113Z",
       "fans": 458809
+    },
+    {
+      "time": "2026-09-22T09:55:02.841Z",
+      "fans": 459051
     }
   ],
   "videos": [
+    {
+      "aid": 117308542421550,
+      "bvid": "BV1oqhB6JExo",
+      "ctime": 1789986623,
+      "pubdate": 1789986623,
+      "duration": 403,
+      "pic": "http://i2.hdslb.com/bfs/archive/bc52154b0b20045c75321170a2ad0262a4a60fe2.jpg",
+      "title": "【闪客】你管这破玩意叫 Jev？",
+      "recorded_at": "2026-09-22T09:55:02.841Z"
+    },
     {
       "aid": 117255996311393,
       "bvid": "BV1QuYX6XEZ4",
