@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/ec34c6f6de3b28bada6a62fcdce14f5f438c9cdb.jpg",
     "sign": "和你一起感受科学的快乐和美！！也欢迎关注一个UP叫毕的二阶导。B站商务联系: s1012295607",
     "level": 6,
-    "archive_count": 174,
-    "like_num": 38180192,
+    "archive_count": 175,
+    "like_num": 38284129,
     "following": 561,
     "official_title": "bilibili 2020百大UP主、知名科普UP主",
-    "updated": "2026-09-19T17:59:08.302Z"
+    "updated": "2026-09-22T18:51:37.888Z"
   },
   "records": [
     {
@@ -150,9 +150,23 @@
     {
       "time": "2026-09-22T14:50:15.048Z",
       "fans": 8349627
+    },
+    {
+      "time": "2026-09-22T18:51:37.888Z",
+      "fans": 8350866
     }
   ],
   "videos": [
+    {
+      "aid": 117312552178956,
+      "bvid": "BV1VVhk6pEiR",
+      "ctime": 1790047687,
+      "pubdate": 1790047687,
+      "duration": 903,
+      "pic": "http://i2.hdslb.com/bfs/archive/bec8a99e1e614bf0860d85bc8100adc0b637a679.jpg",
+      "title": "【毕导】这个X你肯定见过，但它其实根本不存在",
+      "recorded_at": "2026-09-22T18:51:37.888Z"
+    },
     {
       "aid": 117085925547423,
       "bvid": "BV1MYgE6fE7v",
