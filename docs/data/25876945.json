@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 635,
-    "like_num": 35610392,
+    "archive_count": 636,
+    "like_num": 35656019,
     "following": 243,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-09-22T18:51:37.888Z"
+    "updated": "2026-09-23T11:30:17.686Z"
   },
   "records": [
     {
@@ -270,9 +270,23 @@
     {
       "time": "2026-09-23T05:56:36.496Z",
       "fans": 5558309
+    },
+    {
+      "time": "2026-09-23T11:30:17.686Z",
+      "fans": 5558964
     }
   ],
   "videos": [
+    {
+      "aid": 117316092233496,
+      "bvid": "BV17uhW6VE2R",
+      "ctime": 1790101693,
+      "pubdate": 1790112600,
+      "duration": 651,
+      "pic": "http://i2.hdslb.com/bfs/archive/c9ef7c9b942f0fc657639fc0b42e7fc3febff5ac.jpg",
+      "title": "骁龙8 Elite Extreme Gen6前瞻上手：高通新旗舰手机来啦！",
+      "recorded_at": "2026-09-23T11:30:17.686Z"
+    },
     {
       "aid": 117309800713310,
       "bvid": "BV1JQhz6fE1x",

@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 79,
-    "like_num": 1084479,
+    "archive_count": 81,
+    "like_num": 1087641,
     "following": 146,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-09-22T09:55:02.841Z"
+    "updated": "2026-09-23T11:30:17.686Z"
   },
   "records": [
     {
@@ -166,9 +166,33 @@
     {
       "time": "2026-09-23T05:56:36.496Z",
       "fans": 459567
+    },
+    {
+      "time": "2026-09-23T11:30:17.686Z",
+      "fans": 459705
     }
   ],
   "videos": [
+    {
+      "aid": 117319900596765,
+      "bvid": "BV1ZLht69E7b",
+      "ctime": 1790159845,
+      "pubdate": 1790159845,
+      "duration": 507,
+      "pic": "http://i2.hdslb.com/bfs/archive/0ffcbec1c3a3efecce6e04320f59b4d0fd2d73e4.jpg",
+      "title": "【闪客】这些 Jev 的案例都是骗人的！揭秘 Jev 玩我的世界效果骗局",
+      "recorded_at": "2026-09-23T11:30:17.686Z"
+    },
+    {
+      "aid": 117314196409222,
+      "bvid": "BV1G3hJ6xE2A",
+      "ctime": 1790073002,
+      "pubdate": 1790073002,
+      "duration": 258,
+      "pic": "http://i0.hdslb.com/bfs/archive/0088fb50e041991f66dfd74ac12fbf04d94e0d9d.jpg",
+      "title": "阶跃新模型 Step 5 Preview 怎么样？旗舰模型一起拉来测测",
+      "recorded_at": "2026-09-23T11:30:17.686Z"
+    },
     {
       "aid": 117308542421550,
       "bvid": "BV1oqhB6JExo",
