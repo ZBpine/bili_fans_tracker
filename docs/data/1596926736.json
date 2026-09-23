@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 177,
-    "like_num": 3882650,
+    "archive_count": 178,
+    "like_num": 3888351,
     "following": 200,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-22T22:05:45.007Z"
+    "updated": "2026-09-23T23:39:32.250Z"
   },
   "records": [
     {
@@ -282,9 +282,23 @@
     {
       "time": "2026-09-23T20:19:09.315Z",
       "fans": 1000935
+    },
+    {
+      "time": "2026-09-23T23:39:32.250Z",
+      "fans": 1000915
     }
   ],
   "videos": [
+    {
+      "aid": 117315370749419,
+      "bvid": "BV1Ffhn6GEYF",
+      "ctime": 1790091119,
+      "pubdate": 1790134323,
+      "duration": 1624,
+      "pic": "http://i2.hdslb.com/bfs/archive/76154478ea13dcf1418c0cfd06bdd127d4bbdd14.jpg",
+      "title": "【伯爵】护照超市、洗钱天堂……“海盗王国”加勒比是怎么变成今天这样的？一期视频带你扫盲加勒比地区",
+      "recorded_at": "2026-09-23T23:39:32.250Z"
+    },
     {
       "aid": 117269820671558,
       "bvid": "BV1JVe568Eiy",
