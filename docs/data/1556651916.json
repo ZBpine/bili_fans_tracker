@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 607,
-    "like_num": 9067778,
+    "archive_count": 608,
+    "like_num": 9072598,
     "following": 43,
     "official_title": "",
-    "updated": "2026-09-23T11:30:17.686Z"
+    "updated": "2026-09-23T20:19:09.315Z"
   },
   "records": [
     {
@@ -270,9 +270,23 @@
     {
       "time": "2026-09-23T16:53:51.011Z",
       "fans": 734737
+    },
+    {
+      "time": "2026-09-23T20:19:09.315Z",
+      "fans": 734738
     }
   ],
   "videos": [
+    {
+      "aid": 117320202586450,
+      "bvid": "BV15kh467EFx",
+      "ctime": 1790164499,
+      "pubdate": 1790164498,
+      "duration": 1046,
+      "pic": "http://i1.hdslb.com/bfs/archive/bce3a38352d2d1dafd5308b064a750ed8cc1c9a4.jpg",
+      "title": "【参考信息第654期】再查“不想生不敢生”；车企“去宁德化”？",
+      "recorded_at": "2026-09-23T20:19:09.315Z"
+    },
     {
       "aid": 117309297394485,
       "bvid": "BV1hthq6qE4w",
