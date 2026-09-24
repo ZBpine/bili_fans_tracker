@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 81,
-    "like_num": 1093398,
+    "archive_count": 82,
+    "like_num": 1096924,
     "following": 146,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-09-24T04:44:57.927Z"
+    "updated": "2026-09-24T22:21:30.623Z"
   },
   "records": [
     {
@@ -198,9 +198,23 @@
     {
       "time": "2026-09-24T19:07:01.768Z",
       "fans": 461419
+    },
+    {
+      "time": "2026-09-24T22:21:30.623Z",
+      "fans": 461447
     }
   ],
   "videos": [
+    {
+      "aid": 117325403524814,
+      "bvid": "BV1iFaA6QERo",
+      "ctime": 1790244544,
+      "pubdate": 1790249830,
+      "duration": 312,
+      "pic": "http://i2.hdslb.com/bfs/archive/fba9ba832fbb61230e0bcab071a6198cbd31099b.jpg",
+      "title": "一直说安全安全，Agent 安全到底是个啥？带你看看细节",
+      "recorded_at": "2026-09-24T22:21:30.623Z"
+    },
     {
       "aid": 117319900596765,
       "bvid": "BV1ZLht69E7b",
