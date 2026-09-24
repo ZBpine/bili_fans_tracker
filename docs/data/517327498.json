@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
     "sign": "工作邮箱：xfluoxiang@hotmail.com",
     "level": 6,
-    "archive_count": 501,
-    "like_num": 100341960,
+    "archive_count": 502,
+    "like_num": 100370004,
     "following": 19,
     "official_title": "2025百大UP主、中国政法大学教授、2020年度最高人气UP主",
-    "updated": "2026-09-23T23:39:32.250Z"
+    "updated": "2026-09-24T19:07:01.768Z"
   },
   "records": [
     {
@@ -194,9 +194,23 @@
     {
       "time": "2026-09-24T15:02:43.738Z",
       "fans": 32177844
+    },
+    {
+      "time": "2026-09-24T19:07:01.768Z",
+      "fans": 32178047
     }
   ],
   "videos": [
+    {
+      "aid": 117320370362521,
+      "bvid": "BV1dsh86xEfZ",
+      "ctime": 1790167068,
+      "pubdate": 1790218800,
+      "duration": 345,
+      "pic": "http://i0.hdslb.com/bfs/archive/4e0fba75e74239214100c250aa7a6efa398f2313.jpg",
+      "title": "【罗翔】张三在海外犯罪坐牢，我国刑法还能管他吗？",
+      "recorded_at": "2026-09-24T19:07:01.768Z"
+    },
     {
       "aid": 117277605304002,
       "bvid": "BV1FLex6ZEaA",
