@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 5,
-    "archive_count": 59,
-    "like_num": 111584,
+    "archive_count": 60,
+    "like_num": 114446,
     "following": 20,
     "official_title": "",
-    "updated": "2026-09-24T04:44:57.927Z"
+    "updated": "2026-09-24T15:02:43.738Z"
   },
   "records": [
     {
@@ -238,9 +238,23 @@
     {
       "time": "2026-09-24T09:57:34.841Z",
       "fans": 32418
+    },
+    {
+      "time": "2026-09-24T15:02:43.738Z",
+      "fans": 32612
     }
   ],
   "videos": [
+    {
+      "aid": 117325520967118,
+      "bvid": "BV1a5aA6GEGe",
+      "ctime": 1790245633,
+      "pubdate": 1790245633,
+      "duration": 958,
+      "pic": "http://i2.hdslb.com/bfs/archive/de11bee970d01646644edac177c7d89ee61b2fa6.jpg",
+      "title": "Opus5.5对战GPT6 Sol｜AI御三家，屎山大乱斗｜屎山论剑",
+      "recorded_at": "2026-09-24T15:02:43.738Z"
+    },
     {
       "aid": 117313391038765,
       "bvid": "BV19Mh76UEtj",

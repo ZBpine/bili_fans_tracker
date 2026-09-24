@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/ae439693d6fd79a55b1b5f935ed6474ae6fba35b.jpg",
     "sign": "纪录片导演，极限旅行家，国家一级登山运动员，自由潜运动员，滑翔伞飞行员，水下摄影师，B站知名孩子王",
     "level": 6,
-    "archive_count": 680,
-    "like_num": 17279629,
-    "following": 686,
+    "archive_count": 681,
+    "like_num": 17344492,
+    "following": 691,
     "official_title": "2023年度弹幕人气、知名UP主、直播高能主播",
-    "updated": "2026-09-23T11:30:17.686Z"
+    "updated": "2026-09-24T15:02:43.738Z"
   },
   "records": [
     {
@@ -286,9 +286,23 @@
     {
       "time": "2026-09-24T09:57:34.841Z",
       "fans": 3072849
+    },
+    {
+      "time": "2026-09-24T15:02:43.738Z",
+      "fans": 3074957
     }
   ],
   "videos": [
+    {
+      "aid": 117320252988075,
+      "bvid": "BV15bh869EbY",
+      "ctime": 1790165544,
+      "pubdate": 1790165676,
+      "duration": 599,
+      "pic": "http://i0.hdslb.com/bfs/archive/ae53d898e19bdccaa230b939b69b7d956a68ce9c.jpg",
+      "title": "8月份疯狂回血111万，峰哥是如何成功自救的？",
+      "recorded_at": "2026-09-24T15:02:43.738Z"
+    },
     {
       "aid": 117267220142613,
       "bvid": "BV1h3Yr6QEoY",
