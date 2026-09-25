@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/ae439693d6fd79a55b1b5f935ed6474ae6fba35b.jpg",
     "sign": "纪录片导演，极限旅行家，国家一级登山运动员，自由潜运动员，滑翔伞飞行员，水下摄影师，B站知名孩子王",
     "level": 6,
-    "archive_count": 681,
-    "like_num": 17344492,
-    "following": 691,
+    "archive_count": 682,
+    "like_num": 17402441,
+    "following": 692,
     "official_title": "2023年度弹幕人气、知名UP主、直播高能主播",
-    "updated": "2026-09-24T15:02:43.738Z"
+    "updated": "2026-09-25T18:33:44.364Z"
   },
   "records": [
     {
@@ -310,9 +310,23 @@
     {
       "time": "2026-09-25T13:43:26.337Z",
       "fans": 3079984
+    },
+    {
+      "time": "2026-09-25T18:33:44.364Z",
+      "fans": 3082297
     }
   ],
   "videos": [
+    {
+      "aid": 117329413280941,
+      "bvid": "BV1Lfau6iEYQ",
+      "ctime": 1790305684,
+      "pubdate": 1790305684,
+      "duration": 1591,
+      "pic": "http://i1.hdslb.com/bfs/archive/04c4d8f49689269f0f95319464d020dcb5242a0f.jpg",
+      "title": "峰哥亡命越南，胡志明一日吃逛vlog",
+      "recorded_at": "2026-09-25T18:33:44.364Z"
+    },
     {
       "aid": 117320252988075,
       "bvid": "BV15bh869EbY",
