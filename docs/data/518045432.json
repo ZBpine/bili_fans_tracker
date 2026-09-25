@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/4438aab07b6f3c360d4c46e9f345ec987e93a1b7.jpg",
     "sign": "11万粉视频11.11更新，商务:675519014（同VX,备注）",
     "level": 6,
-    "archive_count": 229,
-    "like_num": 1354230,
-    "following": 703,
+    "archive_count": 230,
+    "like_num": 1356276,
+    "following": 702,
     "official_title": "优质游戏鉴赏家",
-    "updated": "2026-09-24T09:57:34.841Z"
+    "updated": "2026-09-25T07:44:20.283Z"
   },
   "records": [
     {
@@ -302,9 +302,23 @@
     {
       "time": "2026-09-25T01:27:39.144Z",
       "fans": 138270
+    },
+    {
+      "time": "2026-09-25T07:44:20.283Z",
+      "fans": 138310
     }
   ],
   "videos": [
+    {
+      "aid": 117324749409118,
+      "bvid": "BV1FEaP68EuJ",
+      "ctime": 1790234085,
+      "pubdate": 1790258400,
+      "duration": 919,
+      "pic": "http://i0.hdslb.com/bfs/archive/d503c8d40731629be3eaa1b062777f2e553b6534.jpg",
+      "title": "【IKGN】他狠狠的控制，我很怕！——控制：共振",
+      "recorded_at": "2026-09-25T07:44:20.283Z"
+    },
     {
       "aid": 117286144837802,
       "bvid": "BV1y6eG6AEta",
