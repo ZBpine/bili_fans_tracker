@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 371,
-    "like_num": 22392869,
+    "archive_count": 372,
+    "like_num": 22408706,
     "following": 650,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-26T01:30:48.256Z"
+    "updated": "2026-09-26T19:49:28.856Z"
   },
   "records": [
     {
@@ -238,9 +238,23 @@
     {
       "time": "2026-09-26T17:07:33.440Z",
       "fans": 2092095
+    },
+    {
+      "time": "2026-09-26T19:49:28.856Z",
+      "fans": 2092125
     }
   ],
   "videos": [
+    {
+      "aid": 117336174497806,
+      "bvid": "BV1bwhX66EAa",
+      "ctime": 1790412447,
+      "pubdate": 1790417700,
+      "duration": 775,
+      "pic": "http://i1.hdslb.com/bfs/archive/1e8684d89cfb7fadd56889520cb906fd53bfc5bc.jpg",
+      "title": "李老板全网封禁，开屏广告背大锅",
+      "recorded_at": "2026-09-26T19:49:28.856Z"
+    },
     {
       "aid": 117326225676309,
       "bvid": "BV1wdaP6PEZp",
