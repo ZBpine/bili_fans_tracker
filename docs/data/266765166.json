@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/726060100f7b80f3ab17889aa9fb8f380a53b9da.jpg",
     "sign": "一位喜欢钻研的人工智能博士生，日常思索和科普\n小号@漫谈人文，商务请联系manshishangwu，并说明来意",
     "level": 6,
-    "archive_count": 148,
-    "like_num": 5939358,
-    "following": 313,
+    "archive_count": 150,
+    "like_num": 5982560,
+    "following": 314,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-09-26T01:30:48.256Z"
+    "updated": "2026-09-27T08:05:28.780Z"
   },
   "records": [
     {
@@ -346,9 +346,33 @@
     {
       "time": "2026-09-27T01:24:27.272Z",
       "fans": 1474127
+    },
+    {
+      "time": "2026-09-27T08:05:28.780Z",
+      "fans": 1476172
     }
   ],
   "videos": [
+    {
+      "aid": 117341375436529,
+      "bvid": "BV1tuab6rEAY",
+      "ctime": 1790487669,
+      "pubdate": 1790487669,
+      "duration": 1309,
+      "pic": "http://i0.hdslb.com/bfs/archive/1e7912a97eaa6af894d32644bd97c8a57d03e811.jpg",
+      "title": "【漫士】二进制里隐藏的分形：到底什么是分数维度？",
+      "recorded_at": "2026-09-27T08:05:28.780Z"
+    },
+    {
+      "aid": 117335100756434,
+      "bvid": "BV1jWhD6mEwH",
+      "ctime": 1790391846,
+      "pubdate": 1790391846,
+      "duration": 2460,
+      "pic": "http://i0.hdslb.com/bfs/archive/8ac5a7148b894ac3146029369a63402a09f57a29.jpg",
+      "title": "【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？",
+      "recorded_at": "2026-09-27T08:05:28.780Z"
+    },
     {
       "aid": 117246181710490,
       "bvid": "BV1gfYu6hELJ",

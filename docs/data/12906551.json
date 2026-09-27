@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/25ca3b7639e6e5ecdb9078d5921efe462223a2a5.jpg",
     "sign": "正经社科频道！每周随机不定期直播~商务合作v：YEJUNXshi（辛苦备注来意，平台入驻勿扰）",
     "level": 6,
-    "archive_count": 51,
-    "like_num": 1438083,
-    "following": 823,
+    "archive_count": 52,
+    "like_num": 1461069,
+    "following": 825,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-26T01:30:48.256Z"
+    "updated": "2026-09-27T08:05:28.780Z"
   },
   "records": [
     {
@@ -3574,9 +3574,23 @@
     {
       "time": "2026-09-27T01:24:27.272Z",
       "fans": 256861
+    },
+    {
+      "time": "2026-09-27T08:05:28.780Z",
+      "fans": 258040
     }
   ],
   "videos": [
+    {
+      "aid": 117335788687798,
+      "bvid": "BV1jMh96xErR",
+      "ctime": 1790402336,
+      "pubdate": 1790402902,
+      "duration": 954,
+      "pic": "http://i2.hdslb.com/bfs/archive/d9c363fbbaada3a70f6d610e8383624e54bc7239.jpg",
+      "title": "为什么高考越来越像一场“战争”？战争后遗症是什么？【梗外之音20】",
+      "recorded_at": "2026-09-27T08:05:28.780Z"
+    },
     {
       "aid": 117228464771176,
       "bvid": "BV1bZbA6wEKo",
