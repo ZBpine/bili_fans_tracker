@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/c1733474892caa45952b2c09a89323157df7129a.jpg",
     "sign": "无限进步！｜商务合作请联系邮箱：bd@ysjf.com（邮件中麻烦备注公司、咨询内容）｜店铺名：影视飓风",
     "level": 6,
-    "archive_count": 945,
-    "like_num": 127551730,
+    "archive_count": 946,
+    "like_num": 127642202,
     "following": 686,
     "official_title": "2025百大UP主、2023年度最高人气奖UP主、课堂优质讲师",
-    "updated": "2026-09-28T00:42:27.799Z"
+    "updated": "2026-09-28T21:57:38.913Z"
   },
   "records": [
     {
@@ -382,9 +382,23 @@
     {
       "time": "2026-09-28T15:23:40.692Z",
       "fans": 18446469
+    },
+    {
+      "time": "2026-09-28T21:57:38.913Z",
+      "fans": 18449161
     }
   ],
   "videos": [
+    {
+      "aid": 117347549515800,
+      "bvid": "BV1hGaG6vEX2",
+      "ctime": 1790581662,
+      "pubdate": 1790586000,
+      "duration": 583,
+      "pic": "http://i1.hdslb.com/bfs/archive/49f2db255bf0a2c640da5582e26080f4ee43fa5e.jpg",
+      "title": "三个两亿像素？OPPO Find X10 Pro Max上手",
+      "recorded_at": "2026-09-28T21:57:38.913Z"
+    },
     {
       "aid": 117337885774958,
       "bvid": "BV1Ebho6BE2J",
