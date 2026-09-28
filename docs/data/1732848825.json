@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 190,
-    "like_num": 21859896,
+    "archive_count": 191,
+    "like_num": 21871741,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-27T22:07:18.405Z"
+    "updated": "2026-09-28T06:49:51.961Z"
   },
   "records": [
     {
@@ -374,9 +374,23 @@
     {
       "time": "2026-09-28T00:42:27.799Z",
       "fans": 2341580
+    },
+    {
+      "time": "2026-09-28T06:49:51.961Z",
+      "fans": 2341669
     }
   ],
   "videos": [
+    {
+      "aid": 117329413277625,
+      "bvid": "BV15fau6iEeM",
+      "ctime": 1790305328,
+      "pubdate": 1790564400,
+      "duration": 276,
+      "pic": "http://i1.hdslb.com/bfs/archive/8db4516c9d4ca91f26f0beddbe1f3af4f9f74854.jpg",
+      "title": "东北烦人的蚜虫，也可能是造物主的炫技之作！",
+      "recorded_at": "2026-09-28T06:49:51.961Z"
+    },
     {
       "aid": 117319799999161,
       "bvid": "BV1tRh46uEmQ",
