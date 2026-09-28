@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/8991695154e980e8986b35a78e44bf52c8173b06.jpg",
     "sign": "商务合作vx：LowenAt｜生活给我开了很多玩笑，但我都绷住了。",
     "level": 6,
-    "archive_count": 117,
-    "like_num": 29282550,
+    "archive_count": 118,
+    "like_num": 29319342,
     "following": 520,
     "official_title": "",
-    "updated": "2026-09-27T13:55:23.737Z"
+    "updated": "2026-09-28T15:23:40.692Z"
   },
   "records": [
     {
@@ -274,9 +274,23 @@
     {
       "time": "2026-09-28T06:49:51.961Z",
       "fans": 2109039
+    },
+    {
+      "time": "2026-09-28T15:23:40.692Z",
+      "fans": 2109815
     }
   ],
   "videos": [
+    {
+      "aid": 117341291681546,
+      "bvid": "BV1jXat6WEwR",
+      "ctime": 1790486191,
+      "pubdate": 1790567700,
+      "duration": 166,
+      "pic": "http://i0.hdslb.com/bfs/archive/0f4400c1e63851ab8fdfad2b2b8df8075b3031f5.jpg",
+      "title": "你管这叫只会一点点？？？",
+      "recorded_at": "2026-09-28T15:23:40.692Z"
+    },
     {
       "aid": 117115621283792,
       "bvid": "BV1vx8g6cE3V",

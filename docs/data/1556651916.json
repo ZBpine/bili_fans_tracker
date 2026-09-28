@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 608,
-    "like_num": 9081770,
+    "archive_count": 609,
+    "like_num": 9086277,
     "following": 43,
     "official_title": "",
-    "updated": "2026-09-28T06:49:51.961Z"
+    "updated": "2026-09-28T15:23:40.692Z"
   },
   "records": [
     {
@@ -370,9 +370,23 @@
     {
       "time": "2026-09-28T06:49:51.961Z",
       "fans": 734953
+    },
+    {
+      "time": "2026-09-28T15:23:40.692Z",
+      "fans": 734863
     }
   ],
   "videos": [
+    {
+      "aid": 117348673521908,
+      "bvid": "BV1W2aV6cECW",
+      "ctime": 1790599222,
+      "pubdate": 1790599809,
+      "duration": 1094,
+      "pic": "http://i0.hdslb.com/bfs/archive/e99a35ee6b840a54c6250091a69d2ea72ae700a9.jpg",
+      "title": "【参考信息第655期】大开智时代；争论“投资于谁”",
+      "recorded_at": "2026-09-28T15:23:40.692Z"
+    },
     {
       "aid": 117320202586450,
       "bvid": "BV15kh467EFx",
