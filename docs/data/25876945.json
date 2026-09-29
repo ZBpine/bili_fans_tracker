@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 637,
-    "like_num": 35754002,
+    "archive_count": 638,
+    "like_num": 35782586,
     "following": 243,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-09-29T01:54:23.675Z"
+    "updated": "2026-09-29T15:47:20.702Z"
   },
   "records": [
     {
@@ -394,9 +394,23 @@
     {
       "time": "2026-09-29T08:25:27.780Z",
       "fans": 5570046
+    },
+    {
+      "time": "2026-09-29T15:47:20.702Z",
+      "fans": 5570519
     }
   ],
   "videos": [
+    {
+      "aid": 117353606022815,
+      "bvid": "BV1pKap6JEAz",
+      "ctime": 1790674388,
+      "pubdate": 1790674868,
+      "duration": 732,
+      "pic": "http://i1.hdslb.com/bfs/archive/fffd2e7e322b0ef54a5993e796fa076a96d02d59.jpg",
+      "title": "鸣潮优化性能啦！居然流畅了这么多？！",
+      "recorded_at": "2026-09-29T15:47:20.702Z"
+    },
     {
       "aid": 117320169098254,
       "bvid": "BV1bQh463EU6",

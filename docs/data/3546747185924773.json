@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 5,
-    "archive_count": 60,
-    "like_num": 118296,
+    "archive_count": 61,
+    "like_num": 120307,
     "following": 20,
     "official_title": "",
-    "updated": "2026-09-29T01:54:23.675Z"
+    "updated": "2026-09-29T15:47:20.702Z"
   },
   "records": [
     {
@@ -338,9 +338,23 @@
     {
       "time": "2026-09-29T08:25:27.780Z",
       "fans": 34026
+    },
+    {
+      "time": "2026-09-29T15:47:20.702Z",
+      "fans": 34220
     }
   ],
   "videos": [
+    {
+      "aid": 117353639581018,
+      "bvid": "BV1Huap67E2i",
+      "ctime": 1790674739,
+      "pubdate": 1790674739,
+      "duration": 1227,
+      "pic": "http://i1.hdslb.com/bfs/archive/9f032952e9b32419a60db0b2bfa58dff70662472.jpg",
+      "title": "六家Flash模型大乱斗｜屎山论剑03",
+      "recorded_at": "2026-09-29T15:47:20.702Z"
+    },
     {
       "aid": 117325520967118,
       "bvid": "BV1a5aA6GEGe",
