@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/25ca3b7639e6e5ecdb9078d5921efe462223a2a5.jpg",
     "sign": "正经社科频道！每周随机不定期直播~商务合作v：YEJUNXshi（辛苦备注来意，平台入驻勿扰）",
     "level": 6,
-    "archive_count": 52,
-    "like_num": 1477216,
+    "archive_count": 53,
+    "like_num": 1490099,
     "following": 826,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-29T15:47:20.702Z"
+    "updated": "2026-09-30T19:16:15.592Z"
   },
   "records": [
     {
@@ -3634,9 +3634,23 @@
     {
       "time": "2026-09-30T13:39:12.109Z",
       "fans": 261430
+    },
+    {
+      "time": "2026-09-30T19:16:15.592Z",
+      "fans": 261796
     }
   ],
   "videos": [
+    {
+      "aid": 117353555824757,
+      "bvid": "BV1wgap6mELS",
+      "ctime": 1790673427,
+      "pubdate": 1790758993,
+      "duration": 643,
+      "pic": "http://i1.hdslb.com/bfs/archive/262aa2f7c9ce9f429b0b18a02703c81efdd628ff.jpg",
+      "title": "为何黄色袋鼠爆火全网？袋鼠背后的骑手群体是怎样的？【哈基社会学之袋鼠】",
+      "recorded_at": "2026-09-30T19:16:15.592Z"
+    },
     {
       "aid": 117335788687798,
       "bvid": "BV1jMh96xErR",
