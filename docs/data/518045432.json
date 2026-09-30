@@ -5,10 +5,10 @@
     "sign": "11万粉视频11.11更新，商务:675519014（同VX,备注）",
     "level": 6,
     "archive_count": 232,
-    "like_num": 1363723,
+    "like_num": 1364555,
     "following": 703,
     "official_title": "优质游戏鉴赏家",
-    "updated": "2026-09-29T08:25:27.780Z"
+    "updated": "2026-09-30T13:39:12.109Z"
   },
   "records": [
     {
@@ -402,9 +402,23 @@
     {
       "time": "2026-09-30T06:40:14.270Z",
       "fans": 138908
+    },
+    {
+      "time": "2026-09-30T13:39:12.109Z",
+      "fans": 138937
     }
   ],
   "videos": [
+    {
+      "aid": 117352297401100,
+      "bvid": "BV1hza76HESo",
+      "ctime": 1790654186,
+      "pubdate": 1790672400,
+      "duration": 480,
+      "pic": "http://i2.hdslb.com/bfs/archive/a92b1bb471e812298ca5a94fb181947a7f5703a8.jpg",
+      "title": "【TaIkGN】他的体量，我很怕——火焰纹章：万缕千丝Fire Emblem: Fortune's Weave",
+      "recorded_at": "2026-09-30T13:39:12.109Z"
+    },
     {
       "aid": 117348707076040,
       "bvid": "BV1rGaV6WEAV",

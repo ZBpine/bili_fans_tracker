@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 82,
-    "like_num": 1103349,
-    "following": 148,
+    "archive_count": 83,
+    "like_num": 1103886,
+    "following": 150,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-09-29T20:44:16.963Z"
+    "updated": "2026-09-30T13:39:12.109Z"
   },
   "records": [
     {
@@ -306,9 +306,23 @@
     {
       "time": "2026-09-30T06:40:14.270Z",
       "fans": 463479
+    },
+    {
+      "time": "2026-09-30T13:39:12.109Z",
+      "fans": 463526
     }
   ],
   "videos": [
+    {
+      "aid": 117358521747255,
+      "bvid": "BV12jad6DEfK",
+      "ctime": 1790749104,
+      "pubdate": 1790749104,
+      "duration": 1041,
+      "pic": "http://i1.hdslb.com/bfs/archive/0344041b7bde719b13dc34810da2e5f1e7767b83.jpg",
+      "title": "【一飞冲天】这可能是 AI 时代最重要的技能！如何有效去除信息噪音？不被核弹炸死",
+      "recorded_at": "2026-09-30T13:39:12.109Z"
+    },
     {
       "aid": 117325403524814,
       "bvid": "BV1iFaA6QERo",

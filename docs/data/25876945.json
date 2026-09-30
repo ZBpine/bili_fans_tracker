@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 638,
-    "like_num": 35788773,
+    "archive_count": 639,
+    "like_num": 35816620,
     "following": 243,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-09-30T00:24:21.315Z"
+    "updated": "2026-09-30T13:39:12.109Z"
   },
   "records": [
     {
@@ -410,9 +410,23 @@
     {
       "time": "2026-09-30T06:40:14.270Z",
       "fans": 5571465
+    },
+    {
+      "time": "2026-09-30T13:39:12.109Z",
+      "fans": 5572130
     }
   ],
   "videos": [
+    {
+      "aid": 117359394160944,
+      "bvid": "BV1DVaZ6hEYT",
+      "ctime": 1790762576,
+      "pubdate": 1790763014,
+      "duration": 519,
+      "pic": "http://i1.hdslb.com/bfs/archive/683e529fc32f245a40bc5c3f1b0bf13d1be91221.jpg",
+      "title": "荣耀Magic9 Pro Max上手体验：阿莱加持下，表现如何？",
+      "recorded_at": "2026-09-30T13:39:12.109Z"
+    },
     {
       "aid": 117353606022815,
       "bvid": "BV1pKap6JEAz",
