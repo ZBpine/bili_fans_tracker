@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/6d7c9ef4e2d3147528c5d161f51bf5d604568de1.jpg",
     "sign": "分享科学的快乐和美！\n小号:毕导\n商务联系：s1012295607",
     "level": 6,
-    "archive_count": 167,
-    "like_num": 20515145,
+    "archive_count": 168,
+    "like_num": 20620061,
     "following": 57,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-09-29T01:54:23.675Z"
+    "updated": "2026-09-30T06:40:14.270Z"
   },
   "records": [
     {
@@ -302,9 +302,23 @@
     {
       "time": "2026-09-30T00:24:21.315Z",
       "fans": 2530716
+    },
+    {
+      "time": "2026-09-30T06:40:14.270Z",
+      "fans": 2532129
     }
   ],
   "videos": [
+    {
+      "aid": 117348992291321,
+      "bvid": "BV1R2aG63EBP",
+      "ctime": 1790603935,
+      "pubdate": 1790652600,
+      "duration": 236,
+      "pic": "http://i1.hdslb.com/bfs/archive/873bf6bade1a9796feba8d5be57a7be354f6dba7.jpg",
+      "title": "这个量筒里到底有几毫升水？别笑，你也答不上来！",
+      "recorded_at": "2026-09-30T06:40:14.270Z"
+    },
     {
       "aid": 117272588916518,
       "bvid": "BV1VYej6sEeU",

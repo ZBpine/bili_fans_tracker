@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 372,
-    "like_num": 22436556,
+    "archive_count": 373,
+    "like_num": 22474926,
     "following": 651,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-09-29T08:25:27.780Z"
+    "updated": "2026-09-30T06:40:14.270Z"
   },
   "records": [
     {
@@ -302,9 +302,23 @@
     {
       "time": "2026-09-30T00:24:21.315Z",
       "fans": 2094307
+    },
+    {
+      "time": "2026-09-30T06:40:14.270Z",
+      "fans": 2094956
     }
   ],
   "videos": [
+    {
+      "aid": 117353522207461,
+      "bvid": "BV1FtaJ6BEsd",
+      "ctime": 1790673237,
+      "pubdate": 1790680200,
+      "duration": 652,
+      "pic": "http://i2.hdslb.com/bfs/archive/0bba5610ca6255d0ea6b8df37e166ba1e8841cbe.jpg",
+      "title": "官媒点名批判《原神》《异环》，擦边涉黄正在成为反游狗哨",
+      "recorded_at": "2026-09-30T06:40:14.270Z"
+    },
     {
       "aid": 117336174497806,
       "bvid": "BV1bwhX66EAa",
