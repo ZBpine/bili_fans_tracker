@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 61,
-    "like_num": 121919,
+    "archive_count": 62,
+    "like_num": 123354,
     "following": 20,
     "official_title": "",
-    "updated": "2026-10-01T05:46:55.669Z"
+    "updated": "2026-10-01T18:51:21.579Z"
   },
   "records": [
     {
@@ -374,9 +374,23 @@
     {
       "time": "2026-10-01T13:07:32.128Z",
       "fans": 34852
+    },
+    {
+      "time": "2026-10-01T18:51:21.579Z",
+      "fans": 34973
     }
   ],
   "videos": [
+    {
+      "aid": 117366138672543,
+      "bvid": "BV178a66oEvq",
+      "ctime": 1790865769,
+      "pubdate": 1790865769,
+      "duration": 1372,
+      "pic": "http://i2.hdslb.com/bfs/archive/455cee4a29d23253080c9677a286b5824e162f30.jpg",
+      "title": "国模一哥迎来至暗时刻｜C组D组第二轮",
+      "recorded_at": "2026-10-01T18:51:21.579Z"
+    },
     {
       "aid": 117353639581018,
       "bvid": "BV1Huap67E2i",
