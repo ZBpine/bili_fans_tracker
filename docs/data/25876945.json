@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 639,
-    "like_num": 35870043,
+    "archive_count": 640,
+    "like_num": 35922878,
     "following": 243,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-10-01T23:10:01.821Z"
+    "updated": "2026-10-02T09:41:45.141Z"
   },
   "records": [
     {
@@ -442,9 +442,23 @@
     {
       "time": "2026-10-02T02:15:01.494Z",
       "fans": 5575419
+    },
+    {
+      "time": "2026-10-02T09:41:45.141Z",
+      "fans": 5577050
     }
   ],
   "videos": [
+    {
+      "aid": 117370098027243,
+      "bvid": "BV1heam6TExz",
+      "ctime": 1790926128,
+      "pubdate": 1790927217,
+      "duration": 1019,
+      "pic": "http://i1.hdslb.com/bfs/archive/c4edddb5b234c262d4a69ed30e09a2a402c1f089.jpg",
+      "title": "逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？",
+      "recorded_at": "2026-10-02T09:41:45.141Z"
+    },
     {
       "aid": 117365131968927,
       "bvid": "BV1fHaB6WEh1",
