@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "name": "亿点点不一样",
+    "face": "https://i1.hdslb.com/bfs/face/9a2c23800387d9c871f3b5dd3620dc1c3c50d2f9.jpg",
+    "sign": "我们不是科普，我们与你一起发现",
+    "level": 6,
+    "archive_count": 98,
+    "like_num": 34098539,
+    "following": 60,
+    "official_title": "bilibili 知名UP主",
+    "updated": "2026-10-02T21:18:32.455Z"
+  },
+  "records": [
+    {
+      "time": "2026-10-02T21:18:32.455Z",
+      "fans": 6698175
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117295808517496,
+      "bvid": "BV1BWet6FEWk",
+      "ctime": 1789792277,
+      "pubdate": 1789808400,
+      "duration": 859,
+      "pic": "http://i2.hdslb.com/bfs/archive/707ad996c555d4fd5f18c7a4d399dc623de47584.jpg",
+      "title": "我们拍到了大翅鲸！",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 117251315339338,
+      "bvid": "BV1enYL6SEtU",
+      "ctime": 1789113417,
+      "pubdate": 1789182000,
+      "duration": 702,
+      "pic": "http://i2.hdslb.com/bfs/archive/87ee888ccd1844413d0eaf8d2c5a9f59d41439c7.jpg",
+      "title": "高糖VS戒糖14天！真的差别很大吗？",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 117007240466905,
+      "bvid": "BV1KJ3x61E2M",
+      "ctime": 1785389181,
+      "pubdate": 1785402000,
+      "duration": 878,
+      "pic": "http://i2.hdslb.com/bfs/archive/bcc643e1b87abb1a394053533c320d8359a05bf1.jpg",
+      "title": "天气“失控”时，我们拍到了这些…",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 116967847501312,
+      "bvid": "BV1DAgS6SEqa",
+      "ctime": 1784787927,
+      "pubdate": 1784797200,
+      "duration": 726,
+      "pic": "http://i0.hdslb.com/bfs/archive/9b30f061536f0a97338ef1335529f04bf092787a.jpg",
+      "title": "连续21天十点睡六点起，我真的会变健康吗？",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 116809772568770,
+      "bvid": "BV1Rc7h69EiT",
+      "ctime": 1782375959,
+      "pubdate": 1782378000,
+      "duration": 649,
+      "pic": "http://i2.hdslb.com/bfs/archive/6da2c93798c30eadc94556292967308225a1219c.jpg",
+      "title": "连续给宠物洗澡14天，学会了什么？",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 116695972714489,
+      "bvid": "BV1TR766zEvE",
+      "ctime": 1780639482,
+      "pubdate": 1780650000,
+      "duration": 756,
+      "pic": "http://i1.hdslb.com/bfs/archive/af434541e40c0402ac850fc6783faa3ed5bfdda9.jpg",
+      "title": "在沙漠里种了1800万棵树，然后呢？",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 116611381991461,
+      "bvid": "BV1oVL46GEVY",
+      "ctime": 1779348620,
+      "pubdate": 1779354000,
+      "duration": 527,
+      "pic": "http://i0.hdslb.com/bfs/archive/91872e01269df270fb099c98acab4ed491aa9953.jpg",
+      "title": "你躺进了仪器，医生看到了什么？",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 116492699967113,
+      "bvid": "BV1DR9aBVER9",
+      "ctime": 1777537826,
+      "pubdate": 1777539600,
+      "duration": 762,
+      "pic": "http://i0.hdslb.com/bfs/archive/4aa45c393c5f1c6a3b88ef9a3449aa7594baf250.jpg",
+      "title": "深夜潜入海底一周，我们拍到了从没见过的生物！",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 116402136552778,
+      "bvid": "BV1RLQvBSEY2",
+      "ctime": 1776156023,
+      "pubdate": 1776157200,
+      "duration": 893,
+      "pic": "http://i2.hdslb.com/bfs/archive/cf9a5aa51de4e62c1989fbdb13fd53da20352967.jpg",
+      "title": "连续练习普通话21天，口音变了吗？",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    },
+    {
+      "aid": 116266190772809,
+      "bvid": "BV1sMAwziEcF",
+      "ctime": 1774081440,
+      "pubdate": 1774083900,
+      "duration": 337,
+      "pic": "http://i1.hdslb.com/bfs/archive/5b2dd53ac707558e7e3739883d3886744f151e16.jpg",
+      "title": "慢放50倍，时速300km/h的F1赛车怎么在2s内换胎？",
+      "recorded_at": "2026-10-02T21:18:32.455Z"
+    }
+  ]
+}
