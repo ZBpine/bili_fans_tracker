@@ -5,14 +5,121 @@
     "sign": "合作微信: Ziyu001221    ",
     "level": 6,
     "archive_count": 57,
-    "like_num": 19972923,
+    "like_num": 19973468,
     "following": 132,
-    "official_title": "bilibili 知名科技UP主"
+    "official_title": "bilibili 知名科技UP主",
+    "updated": "2026-10-03T01:10:28.859Z"
   },
   "records": [
     {
       "time": "2026-10-02T21:18:32.455Z",
       "fans": 3740686
+    },
+    {
+      "time": "2026-10-03T01:10:28.859Z",
+      "fans": 3740714
+    }
+  ],
+  "videos": [
+    {
+      "aid": 117337432790777,
+      "bvid": "BV1V6ho6cEQw",
+      "ctime": 1790427574,
+      "pubdate": 1790560800,
+      "duration": 110,
+      "pic": "http://i1.hdslb.com/bfs/archive/4e98dff2a9636c3adfd2026e14cf756b874e73e2.jpg",
+      "title": "《坦克模拟器-增强版》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 117116946617618,
+      "bvid": "BV1B6836zEsB",
+      "ctime": 1787062955,
+      "pubdate": 1787104800,
+      "duration": 68,
+      "pic": "http://i0.hdslb.com/bfs/archive/9bff1c72de099058457aacde63ef3f51588250ee.jpg",
+      "title": "《枪战模拟器》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 116963418316650,
+      "bvid": "BV1CTgC6XEEV",
+      "ctime": 1784720320,
+      "pubdate": 1784779200,
+      "duration": 83,
+      "pic": "http://i0.hdslb.com/bfs/archive/5173e6d96614ae428bfb81d11633883f4785abaa.jpg",
+      "title": "《海战模拟器》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 115881958971476,
+      "bvid": "BV1qCrYB4E28",
+      "ctime": 1768218492,
+      "pubdate": 1768269600,
+      "duration": 87,
+      "pic": "http://i1.hdslb.com/bfs/archive/438e861e545a520d606688bd9e9d56a80217af4d.jpg",
+      "title": "《机甲模拟器2》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 115580556287897,
+      "bvid": "BV1KuyFBpERr",
+      "ctime": 1763619561,
+      "pubdate": 1763697600,
+      "duration": 90,
+      "pic": "http://i1.hdslb.com/bfs/archive/f474798c4361bfdb7c2207c25f14f31eb9b0b9a6.jpg",
+      "title": "《拼刀模拟器》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 115564215276920,
+      "bvid": "BV1XQCeBoErL",
+      "ctime": 1763370170,
+      "pubdate": 1763434800,
+      "duration": 61,
+      "pic": "http://i0.hdslb.com/bfs/archive/72e889a2542834afad3638422eed5b848ea2253e.jpg",
+      "title": "《RPG模拟器》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 115501619550424,
+      "bvid": "BV1SA2cBAEuD",
+      "ctime": 1762415137,
+      "pubdate": 1762488000,
+      "duration": 75,
+      "pic": "http://i1.hdslb.com/bfs/archive/4737f745d71c50846a5fd401556c2ecdbe9a1bce.jpg",
+      "title": "《直升机模拟器》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 115462142695180,
+      "bvid": "BV1rZy8BcEuB",
+      "ctime": 1761812708,
+      "pubdate": 1761966000,
+      "duration": 74,
+      "pic": "http://i1.hdslb.com/bfs/archive/cb5353f2a9d65eec1267e8463d7e179961d0ffdb.jpg",
+      "title": "《坦克模拟器5》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 115100711131027,
+      "bvid": "BV1D2e1z7EqP",
+      "ctime": 1756298069,
+      "pubdate": 1756348200,
+      "duration": 79,
+      "pic": "http://i2.hdslb.com/bfs/archive/f4622a9cbca0f53c28633f897c2eaf232ad00899.jpg",
+      "title": "《飞机模拟器》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
+    },
+    {
+      "aid": 114941025653935,
+      "bvid": "BV1gKhPz9ELz",
+      "ctime": 1753861258,
+      "pubdate": 1753927200,
+      "duration": 51,
+      "pic": "http://i0.hdslb.com/bfs/archive/1a8da25f0c865668580ea5fb828980303adba35e.jpg",
+      "title": "《骑驴模拟器》",
+      "recorded_at": "2026-10-03T01:10:28.859Z"
     }
   ]
 }
