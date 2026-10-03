@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/5779df7e2182bba5160fd813e4cba02b8e13e9d4.jpg",
     "sign": "「Updream特约导演」合作 vx : ciaociao23333（非本人）顶护！@绝喵电竞",
     "level": 6,
-    "archive_count": 230,
-    "like_num": 18293289,
+    "archive_count": 231,
+    "like_num": 18331850,
     "following": 1479,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-02T09:41:45.141Z"
+    "updated": "2026-10-03T06:32:16.230Z"
   },
   "records": [
     {
@@ -354,9 +354,23 @@
     {
       "time": "2026-10-03T01:10:28.859Z",
       "fans": 1166294
+    },
+    {
+      "time": "2026-10-03T06:32:16.230Z",
+      "fans": 1166825
     }
   ],
   "videos": [
+    {
+      "aid": 117371087885855,
+      "bvid": "BV1XRaU6rEd1",
+      "ctime": 1790940997,
+      "pubdate": 1790940997,
+      "duration": 91,
+      "pic": "http://i2.hdslb.com/bfs/archive/a7fb822998921d021221bb6bdbd16cdfbfd1aff8.jpg",
+      "title": "🐧你是说我穿越回了国庆放假第一天？🐧",
+      "recorded_at": "2026-10-03T06:32:16.230Z"
+    },
     {
       "aid": 117360283359876,
       "bvid": "BV1PSaf6dEou",

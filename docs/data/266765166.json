@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/726060100f7b80f3ab17889aa9fb8f380a53b9da.jpg",
     "sign": "一位喜欢钻研的人工智能博士生，日常思索和科普\n小号@漫谈人文，商务请联系manshishangwu，并说明来意",
     "level": 6,
-    "archive_count": 151,
-    "like_num": 6043354,
+    "archive_count": 152,
+    "like_num": 6051098,
     "following": 314,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-02T02:15:01.494Z"
+    "updated": "2026-10-03T06:32:16.230Z"
   },
   "records": [
     {
@@ -450,9 +450,23 @@
     {
       "time": "2026-10-03T01:10:28.859Z",
       "fans": 1487715
+    },
+    {
+      "time": "2026-10-03T06:32:16.230Z",
+      "fans": 1488061
     }
   ],
   "videos": [
+    {
+      "aid": 117370366528180,
+      "bvid": "BV1Auam6sExu",
+      "ctime": 1790929952,
+      "pubdate": 1790938800,
+      "duration": 1793,
+      "pic": "http://i1.hdslb.com/bfs/archive/b113a109caf1543eac85272e13085272704b18c9.jpg",
+      "title": "数学就是在“变化”中找寻“不变”！不讲公式，看完这些游戏你就懂了~",
+      "recorded_at": "2026-10-03T06:32:16.230Z"
+    },
     {
       "aid": 117357783685153,
       "bvid": "BV18Ma96JEoZ",
