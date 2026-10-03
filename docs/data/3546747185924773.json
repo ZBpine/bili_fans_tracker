@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 62,
-    "like_num": 125262,
+    "archive_count": 63,
+    "like_num": 126760,
     "following": 20,
     "official_title": "",
-    "updated": "2026-10-03T06:32:16.230Z"
+    "updated": "2026-10-03T17:14:10.432Z"
   },
   "records": [
     {
@@ -410,9 +410,23 @@
     {
       "time": "2026-10-03T12:30:18.481Z",
       "fans": 35470
+    },
+    {
+      "time": "2026-10-03T17:14:10.432Z",
+      "fans": 35602
     }
   ],
   "videos": [
+    {
+      "aid": 117377480202399,
+      "bvid": "BV1CmHi6YEUd",
+      "ctime": 1791038539,
+      "pubdate": 1791038539,
+      "duration": 988,
+      "pic": "http://i2.hdslb.com/bfs/archive/82f035f756f0c0d74df876651bc44e50a4ce1786.jpg",
+      "title": "屎山之巅，看OPUS和SOL的二哥之争｜屎山论剑",
+      "recorded_at": "2026-10-03T17:14:10.432Z"
+    },
     {
       "aid": 117366138672543,
       "bvid": "BV178a66oEvq",
