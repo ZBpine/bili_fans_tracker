@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 372,
-    "like_num": 22529011,
+    "archive_count": 373,
+    "like_num": 22541225,
     "following": 651,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-04T05:47:45.933Z"
+    "updated": "2026-10-04T17:33:32.577Z"
   },
   "records": [
     {
@@ -382,9 +382,23 @@
     {
       "time": "2026-10-04T12:17:25.645Z",
       "fans": 2097952
+    },
+    {
+      "time": "2026-10-04T17:33:32.577Z",
+      "fans": 2097862
     }
   ],
   "videos": [
+    {
+      "aid": 117343791421029,
+      "bvid": "BV1scaa6yEMz",
+      "ctime": 1790525384,
+      "pubdate": 1791114600,
+      "duration": 1062,
+      "pic": "http://i2.hdslb.com/bfs/archive/093243ce63eea193b30028917f91b911e0c6a109.jpg",
+      "title": "胡锡进大战汤家凤：中国人应该认真学英语吗？",
+      "recorded_at": "2026-10-04T17:33:32.577Z"
+    },
     {
       "aid": 117353522207461,
       "bvid": "BV1FtaJ6BEsd",
