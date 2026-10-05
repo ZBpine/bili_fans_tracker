@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/726060100f7b80f3ab17889aa9fb8f380a53b9da.jpg",
     "sign": "一位喜欢钻研的人工智能博士生，日常思索和科普\n小号@漫谈人文，商务请联系manshishangwu，并说明来意",
     "level": 6,
-    "archive_count": 152,
-    "like_num": 6058233,
+    "archive_count": 153,
+    "like_num": 6071169,
     "following": 314,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-04T12:17:25.645Z"
+    "updated": "2026-10-05T15:58:01.382Z"
   },
   "records": [
     {
@@ -494,9 +494,23 @@
     {
       "time": "2026-10-05T06:59:48.233Z",
       "fans": 1490988
+    },
+    {
+      "time": "2026-10-05T15:58:01.382Z",
+      "fans": 1492140
     }
   ],
   "videos": [
+    {
+      "aid": 117387126968817,
+      "bvid": "BV1iHHs6DEeG",
+      "ctime": 1791186042,
+      "pubdate": 1791186042,
+      "duration": 1091,
+      "pic": "http://i0.hdslb.com/bfs/archive/50d968dfd078f29dc8e302327acf47de5a037164.jpg",
+      "title": "【漫士】双曲余弦：三角函数本来就是指数函数",
+      "recorded_at": "2026-10-05T15:58:01.382Z"
+    },
     {
       "aid": 117370366528180,
       "bvid": "BV1Auam6sExu",
