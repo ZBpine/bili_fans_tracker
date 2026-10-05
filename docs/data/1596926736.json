@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 178,
-    "like_num": 3900387,
+    "archive_count": 179,
+    "like_num": 3919279,
     "following": 201,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-04T05:47:45.933Z"
+    "updated": "2026-10-05T06:59:48.233Z"
   },
   "records": [
     {
@@ -498,9 +498,23 @@
     {
       "time": "2026-10-05T00:53:37.216Z",
       "fans": 1001762
+    },
+    {
+      "time": "2026-10-05T06:59:48.233Z",
+      "fans": 1001920
     }
   ],
   "videos": [
+    {
+      "aid": 117381875631206,
+      "bvid": "BV1MEHj6DE18",
+      "ctime": 1791105535,
+      "pubdate": 1791108000,
+      "duration": 3302,
+      "pic": "http://i2.hdslb.com/bfs/archive/2e3f0e0f0f911a1b9bae8fd4965862195586c7dd.jpg",
+      "title": "【伯爵】内蒙古自治区成立背后，隐藏着怎样的复杂和凶险？一期视频讲透近代蒙古民族主义",
+      "recorded_at": "2026-10-05T06:59:48.233Z"
+    },
     {
       "aid": 117315370749419,
       "bvid": "BV1Ffhn6GEYF",
