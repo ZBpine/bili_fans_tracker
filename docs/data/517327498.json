@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
     "sign": "工作邮箱：xfluoxiang@hotmail.com",
     "level": 6,
-    "archive_count": 502,
-    "like_num": 100456559,
+    "archive_count": 503,
+    "like_num": 100479579,
     "following": 19,
     "official_title": "2025百大UP主、中国政法大学教授、2020年度最高人气UP主",
-    "updated": "2026-10-05T15:58:01.382Z"
+    "updated": "2026-10-06T10:12:33.762Z"
   },
   "records": [
     {
@@ -410,9 +410,23 @@
     {
       "time": "2026-10-06T02:56:23.179Z",
       "fans": 32177459
+    },
+    {
+      "time": "2026-10-06T10:12:33.762Z",
+      "fans": 32177018
     }
   ],
   "videos": [
+    {
+      "aid": 117391606487730,
+      "bvid": "BV1yKHf6fEAT",
+      "ctime": 1791254235,
+      "pubdate": 1791254234,
+      "duration": 549,
+      "pic": "http://i2.hdslb.com/bfs/archive/9c2c4f62e387d5770c2de0526f8580a43d69fd22.jpg",
+      "title": "【罗翔】鸽子们，注意了，色字头上一把刀！",
+      "recorded_at": "2026-10-06T10:12:33.762Z"
+    },
     {
       "aid": 117320370362521,
       "bvid": "BV1dsh86xEfZ",

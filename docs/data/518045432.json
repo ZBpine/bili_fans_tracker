@@ -5,10 +5,10 @@
     "sign": "11万粉视频11.11更新，商务:675519014（同VX,备注）",
     "level": 6,
     "archive_count": 233,
-    "like_num": 1371496,
+    "like_num": 1371988,
     "following": 705,
     "official_title": "优质游戏鉴赏家",
-    "updated": "2026-10-05T00:53:37.216Z"
+    "updated": "2026-10-06T10:12:33.762Z"
   },
   "records": [
     {
@@ -506,9 +506,23 @@
     {
       "time": "2026-10-06T02:56:23.179Z",
       "fans": 140241
+    },
+    {
+      "time": "2026-10-06T10:12:33.762Z",
+      "fans": 140332
     }
   ],
   "videos": [
+    {
+      "aid": 117387479352529,
+      "bvid": "BV1gSHW6CEhz",
+      "ctime": 1791191507,
+      "pubdate": 1791191506,
+      "duration": 489,
+      "pic": "http://i2.hdslb.com/bfs/archive/8a51222c209018af2ac5a1291bc380b11f9dcbc2.jpg",
+      "title": "【IKGN】千言万语，星批崛起！——星球大战:银河赛车手",
+      "recorded_at": "2026-10-06T10:12:33.762Z"
+    },
     {
       "aid": 117352297401100,
       "bvid": "BV1hza76HESo",
