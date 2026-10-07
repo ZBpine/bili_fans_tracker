@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/726060100f7b80f3ab17889aa9fb8f380a53b9da.jpg",
     "sign": "一位喜欢钻研的人工智能博士生，日常思索和科普\n小号@漫谈人文，商务请联系manshishangwu，并说明来意",
     "level": 6,
-    "archive_count": 153,
-    "like_num": 6081760,
+    "archive_count": 154,
+    "like_num": 6102434,
     "following": 314,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-06T16:49:49.388Z"
+    "updated": "2026-10-07T21:57:37.569Z"
   },
   "records": [
     {
@@ -530,9 +530,23 @@
     {
       "time": "2026-10-07T16:25:07.958Z",
       "fans": 1496728
+    },
+    {
+      "time": "2026-10-07T21:57:37.569Z",
+      "fans": 1497174
     }
   ],
   "videos": [
+    {
+      "aid": 117398401194030,
+      "bvid": "BV1ANpM6HEHU",
+      "ctime": 1791357758,
+      "pubdate": 1791357758,
+      "duration": 1424,
+      "pic": "http://i2.hdslb.com/bfs/archive/a4f4949dda6593e6672f557547f2abfd31436b83.jpg",
+      "title": "【漫士】为了抓住幽灵，人类在南极挖了1立方公里的冰",
+      "recorded_at": "2026-10-07T21:57:37.569Z"
+    },
     {
       "aid": 117387126968817,
       "bvid": "BV1iHHs6DEeG",
