@@ -5,10 +5,10 @@
     "sign": "商务合作vx：LowenAt｜生活给我开了很多玩笑，但我都绷住了。",
     "level": 6,
     "archive_count": 119,
-    "like_num": 29501057,
+    "like_num": 29507200,
     "following": 520,
     "official_title": "",
-    "updated": "2026-10-07T01:30:40.514Z"
+    "updated": "2026-10-08T08:54:46.197Z"
   },
   "records": [
     {
@@ -442,9 +442,23 @@
     {
       "time": "2026-10-08T01:54:03.914Z",
       "fans": 2114518
+    },
+    {
+      "time": "2026-10-08T08:54:46.197Z",
+      "fans": 2114483
     }
   ],
   "videos": [
+    {
+      "aid": 117398904510387,
+      "bvid": "BV1eEHC6vE2v",
+      "ctime": 1791365413,
+      "pubdate": 1791367165,
+      "duration": 116,
+      "pic": "http://i1.hdslb.com/bfs/archive/705dafbe27c6d2da5cef9514adaabf1895810082.jpg",
+      "title": "是不是得知假期结束的你？",
+      "recorded_at": "2026-10-08T08:54:46.197Z"
+    },
     {
       "aid": 117341291681546,
       "bvid": "BV1jXat6WEwR",
