@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 610,
-    "like_num": 9107120,
+    "archive_count": 611,
+    "like_num": 9112616,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-07T21:57:37.569Z"
+    "updated": "2026-10-08T16:26:20.480Z"
   },
   "records": [
     {
@@ -542,9 +542,23 @@
     {
       "time": "2026-10-08T08:54:46.197Z",
       "fans": 735091
+    },
+    {
+      "time": "2026-10-08T16:26:20.480Z",
+      "fans": 735050
     }
   ],
   "videos": [
+    {
+      "aid": 117405045098243,
+      "bvid": "BV1vSHD6tEsM",
+      "ctime": 1791459035,
+      "pubdate": 1791460100,
+      "duration": 1031,
+      "pic": "http://i2.hdslb.com/bfs/archive/dbb65ac8b240cf28bdcb7bbcda651d0c4dc5cdf5.jpg",
+      "title": "【参考信息第657期】不敢教到不愿学；未报批不能上台",
+      "recorded_at": "2026-10-08T16:26:20.480Z"
+    },
     {
       "aid": 117376926418530,
       "bvid": "BV1VHHe6kEH3",
