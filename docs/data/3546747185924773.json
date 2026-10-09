@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 64,
-    "like_num": 132202,
+    "archive_count": 65,
+    "like_num": 134108,
     "following": 20,
     "official_title": "",
-    "updated": "2026-10-09T02:06:42.879Z"
+    "updated": "2026-10-09T16:09:29.806Z"
   },
   "records": [
     {
@@ -510,9 +510,23 @@
     {
       "time": "2026-10-09T08:58:40.405Z",
       "fans": 36833
+    },
+    {
+      "time": "2026-10-09T16:09:29.806Z",
+      "fans": 36908
     }
   ],
   "videos": [
+    {
+      "aid": 117410480789277,
+      "bvid": "BV1oopb6KEDj",
+      "ctime": 1791541830,
+      "pubdate": 1791541830,
+      "duration": 832,
+      "pic": "http://i2.hdslb.com/bfs/archive/eb05daa79c74533ecd5c3f973e3bda31cb151ed3.jpg",
+      "title": "这是屎山留给DeepSeek最后的机会｜B组第三轮",
+      "recorded_at": "2026-10-09T16:09:29.806Z"
+    },
     {
       "aid": 117394089449443,
       "bvid": "BV1Ltpc6pEQM",
