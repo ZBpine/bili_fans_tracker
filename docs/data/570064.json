@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 374,
-    "like_num": 22576620,
+    "archive_count": 375,
+    "like_num": 22585203,
     "following": 651,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-09T08:58:40.405Z"
+    "updated": "2026-10-09T20:52:53.898Z"
   },
   "records": [
     {
@@ -466,9 +466,23 @@
     {
       "time": "2026-10-09T16:09:29.806Z",
       "fans": 2099069
+    },
+    {
+      "time": "2026-10-09T20:52:53.898Z",
+      "fans": 2099099
     }
   ],
   "videos": [
+    {
+      "aid": 117410933839584,
+      "bvid": "BV1tYpb6XEfV",
+      "ctime": 1791549509,
+      "pubdate": 1791550683,
+      "duration": 660,
+      "pic": "http://i2.hdslb.com/bfs/archive/961f6c81591e11b7697c66f78b97827940b2d0fb.jpg",
+      "title": "K型分化下，普通人的机会在哪里？",
+      "recorded_at": "2026-10-09T20:52:53.898Z"
+    },
     {
       "aid": 117343791421029,
       "bvid": "BV1scaa6yEMz",
