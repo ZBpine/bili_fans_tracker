@@ -5,10 +5,10 @@
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
     "archive_count": 25,
-    "like_num": 1162940,
+    "like_num": 1163397,
     "following": 70,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-08T08:54:46.197Z"
+    "updated": "2026-10-09T08:58:40.405Z"
   },
   "records": [
     {
@@ -530,9 +530,23 @@
     {
       "time": "2026-10-09T02:06:42.879Z",
       "fans": 234253
+    },
+    {
+      "time": "2026-10-09T08:58:40.405Z",
+      "fans": 234250
     }
   ],
   "videos": [
+    {
+      "aid": 117405145631319,
+      "bvid": "BV1BxH966EmP",
+      "ctime": 1791460756,
+      "pubdate": 1791460756,
+      "duration": 2578,
+      "pic": "http://i1.hdslb.com/bfs/archive/a00e295080be8d19ad0bc6bf6ee8bb7421456921.jpg",
+      "title": "打工人的救赎之道？导读《共产党宣言》",
+      "recorded_at": "2026-10-09T08:58:40.405Z"
+    },
     {
       "aid": 117313273659688,
       "bvid": "BV1gVh76jEee",
