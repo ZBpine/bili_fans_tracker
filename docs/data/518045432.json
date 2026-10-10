@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/4438aab07b6f3c360d4c46e9f345ec987e93a1b7.jpg",
     "sign": "11万粉视频11.11更新，商务:675519014（同VX,备注）",
     "level": 6,
-    "archive_count": 233,
-    "like_num": 1374569,
+    "archive_count": 234,
+    "like_num": 1376299,
     "following": 705,
     "official_title": "优质游戏鉴赏家",
-    "updated": "2026-10-09T16:09:29.806Z"
+    "updated": "2026-10-10T13:37:27.747Z"
   },
   "records": [
     {
@@ -574,9 +574,23 @@
     {
       "time": "2026-10-10T07:02:37.064Z",
       "fans": 140842
+    },
+    {
+      "time": "2026-10-10T13:37:27.747Z",
+      "fans": 141207
     }
   ],
   "videos": [
+    {
+      "aid": 117415010634652,
+      "bvid": "BV1fcpi6oEnX",
+      "ctime": 1791611210,
+      "pubdate": 1791611210,
+      "duration": 1707,
+      "pic": "http://i1.hdslb.com/bfs/archive/15d5ec9fc1949b14fe14e68fbfdde1770bdb0f7b.jpg",
+      "title": "【TaIkGN】距影之刃零发售还有19年（度日如年....我瞻，我再瞻！",
+      "recorded_at": "2026-10-10T13:37:27.747Z"
+    },
     {
       "aid": 117387479352529,
       "bvid": "BV1gSHW6CEhz",
