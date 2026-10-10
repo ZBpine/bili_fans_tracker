@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 192,
-    "like_num": 21988079,
+    "archive_count": 193,
+    "like_num": 21990834,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-09T20:52:53.898Z"
+    "updated": "2026-10-10T07:02:37.064Z"
   },
   "records": [
     {
@@ -578,9 +578,23 @@
     {
       "time": "2026-10-10T00:47:08.218Z",
       "fans": 2345997
+    },
+    {
+      "time": "2026-10-10T07:02:37.064Z",
+      "fans": 2346092
     }
   ],
   "videos": [
+    {
+      "aid": 117398300525337,
+      "bvid": "BV1SYpM6wEAP",
+      "ctime": 1791356064,
+      "pubdate": 1791615600,
+      "duration": 315,
+      "pic": "http://i0.hdslb.com/bfs/archive/c4d60c57c46ba4112b0333e9de304efd5bafc87d.jpg",
+      "title": "用光控制动物喜怒哀乐——诺奖技术光遗传学",
+      "recorded_at": "2026-10-10T07:02:37.064Z"
+    },
     {
       "aid": 117385918940155,
       "bvid": "BV1ynHW6aEyh",

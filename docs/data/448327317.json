@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 25,
-    "like_num": 1163397,
-    "following": 70,
+    "archive_count": 27,
+    "like_num": 1166469,
+    "following": 69,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-09T08:58:40.405Z"
+    "updated": "2026-10-10T07:02:37.064Z"
   },
   "records": [
     {
@@ -546,9 +546,33 @@
     {
       "time": "2026-10-10T00:47:08.218Z",
       "fans": 234226
+    },
+    {
+      "time": "2026-10-10T07:02:37.064Z",
+      "fans": 234208
     }
   ],
   "videos": [
+    {
+      "aid": 117414238880836,
+      "bvid": "BV1owpe6EEtR",
+      "ctime": 1791600045,
+      "pubdate": 1791603000,
+      "duration": 515,
+      "pic": "http://i0.hdslb.com/bfs/archive/a2c0d36eb50d7c8b756d3eee149e3c28b32c9f04.jpg",
+      "title": "观众提问：商品经济和社会主义冲突吗？",
+      "recorded_at": "2026-10-10T07:02:37.064Z"
+    },
+    {
+      "aid": 117409641923805,
+      "bvid": "BV1oDp46aEVS",
+      "ctime": 1791529484,
+      "pubdate": 1791540000,
+      "duration": 837,
+      "pic": "http://i2.hdslb.com/bfs/archive/b2c856428795bf32297f1ccd5cc03f2ea8a7743e.jpg",
+      "title": "麦克阿瑟如何在日本打马恩牌？",
+      "recorded_at": "2026-10-10T07:02:37.064Z"
+    },
     {
       "aid": 117405145631319,
       "bvid": "BV1BxH966EmP",
