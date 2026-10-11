@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 376,
-    "like_num": 22606953,
+    "archive_count": 377,
+    "like_num": 22629636,
     "following": 651,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-11T08:45:36.377Z"
+    "updated": "2026-10-11T20:13:36.286Z"
   },
   "records": [
     {
@@ -502,9 +502,23 @@
     {
       "time": "2026-10-11T15:37:19.444Z",
       "fans": 2099657
+    },
+    {
+      "time": "2026-10-11T20:13:36.286Z",
+      "fans": 2099914
     }
   ],
   "videos": [
+    {
+      "aid": 117422291947532,
+      "bvid": "BV1R1pn6rEyB",
+      "ctime": 1791722586,
+      "pubdate": 1791722586,
+      "duration": 595,
+      "pic": "http://i2.hdslb.com/bfs/archive/c3b17ed7b567dc52193f925d7cafb8945fae4953.jpg",
+      "title": "开盒、捂嘴、你不爱国，汽车召回，凭什么这么难？",
+      "recorded_at": "2026-10-11T20:13:36.286Z"
+    },
     {
       "aid": 117410933839584,
       "bvid": "BV1tYpb6XEfV",
