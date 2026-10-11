@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 65,
-    "like_num": 134796,
+    "archive_count": 66,
+    "like_num": 135682,
     "following": 20,
     "official_title": "",
-    "updated": "2026-10-10T22:28:57.034Z"
+    "updated": "2026-10-11T08:45:36.377Z"
   },
   "records": [
     {
@@ -542,9 +542,23 @@
     {
       "time": "2026-10-11T01:50:26.448Z",
       "fans": 37045
+    },
+    {
+      "time": "2026-10-11T08:45:36.377Z",
+      "fans": 37103
     }
   ],
   "videos": [
+    {
+      "aid": 117420446454168,
+      "bvid": "BV12dpj6EE82",
+      "ctime": 1791694001,
+      "pubdate": 1791694001,
+      "duration": 539,
+      "pic": "http://i0.hdslb.com/bfs/archive/77d249d135d9fc34748a1f7b3c6f3cb77f242e6e.jpg",
+      "title": "法国模型 MistralLarge4 冲出欧洲，走向屎山｜屎山考核",
+      "recorded_at": "2026-10-11T08:45:36.377Z"
+    },
     {
       "aid": 117410480789277,
       "bvid": "BV1oopb6KEDj",
