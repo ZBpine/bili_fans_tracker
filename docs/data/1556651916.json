@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 611,
-    "like_num": 9117560,
+    "archive_count": 612,
+    "like_num": 9123718,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-10T07:02:37.064Z"
+    "updated": "2026-10-11T01:50:26.448Z"
   },
   "records": [
     {
@@ -586,9 +586,23 @@
     {
       "time": "2026-10-10T22:28:57.034Z",
       "fans": 735166
+    },
+    {
+      "time": "2026-10-11T01:50:26.448Z",
+      "fans": 735180
     }
   ],
   "videos": [
+    {
+      "aid": 117416537492242,
+      "bvid": "BV1qEpg6nEDa",
+      "ctime": 1791634871,
+      "pubdate": 1791636419,
+      "duration": 1021,
+      "pic": "http://i0.hdslb.com/bfs/archive/c3661ae53969704e99061160d9c962468a62f4fc.jpg",
+      "title": "【参考信息第658期】公粮视同社保大讨论；银鳕鱼非真鳕鱼",
+      "recorded_at": "2026-10-11T01:50:26.448Z"
+    },
     {
       "aid": 117405045098243,
       "bvid": "BV1vSHD6tEsM",
