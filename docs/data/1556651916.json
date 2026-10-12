@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 612,
-    "like_num": 9126714,
+    "archive_count": 613,
+    "like_num": 9132742,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-11T20:13:36.286Z"
+    "updated": "2026-10-12T17:51:02.798Z"
   },
   "records": [
     {
@@ -610,9 +610,23 @@
     {
       "time": "2026-10-12T07:19:14.703Z",
       "fans": 735296
+    },
+    {
+      "time": "2026-10-12T17:51:02.798Z",
+      "fans": 735302
     }
   ],
   "videos": [
+    {
+      "aid": 117427811649409,
+      "bvid": "BV1g7po6qEME",
+      "ctime": 1791806645,
+      "pubdate": 1791806844,
+      "duration": 1035,
+      "pic": "http://i0.hdslb.com/bfs/archive/4de3bdd241f9aa7344b01cc4c6258ca4999adcba.jpg",
+      "title": "【参考信息第659期】能不能说人话；对“速成车”说不",
+      "recorded_at": "2026-10-12T17:51:02.798Z"
+    },
     {
       "aid": 117416537492242,
       "bvid": "BV1qEpg6nEDa",

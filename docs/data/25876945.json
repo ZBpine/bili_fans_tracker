@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 640,
-    "like_num": 36203084,
+    "archive_count": 641,
+    "like_num": 36217600,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-10-12T00:30:33.032Z"
+    "updated": "2026-10-12T17:51:02.798Z"
   },
   "records": [
     {
@@ -618,9 +618,23 @@
     {
       "time": "2026-10-12T07:19:14.703Z",
       "fans": 5609942
+    },
+    {
+      "time": "2026-10-12T17:51:02.798Z",
+      "fans": 5610525
     }
   ],
   "videos": [
+    {
+      "aid": 117427996329149,
+      "bvid": "BV1gipd6iELS",
+      "ctime": 1791809630,
+      "pubdate": 1791810812,
+      "duration": 630,
+      "pic": "http://i1.hdslb.com/bfs/archive/42c6fb98da5a1a9c6c16df7797af804e03901a00.jpg",
+      "title": "一加16上手体验：表现全面的“驯龙高手”",
+      "recorded_at": "2026-10-12T17:51:02.798Z"
+    },
     {
       "aid": 117370098027243,
       "bvid": "BV1heam6TExz",

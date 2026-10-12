@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 377,
-    "like_num": 22654703,
-    "following": 652,
+    "archive_count": 378,
+    "like_num": 22677918,
+    "following": 653,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-12T07:19:14.703Z"
+    "updated": "2026-10-12T17:51:02.798Z"
   },
   "records": [
     {
@@ -514,9 +514,23 @@
     {
       "time": "2026-10-12T07:19:14.703Z",
       "fans": 2101491
+    },
+    {
+      "time": "2026-10-12T17:51:02.798Z",
+      "fans": 2101720
     }
   ],
   "videos": [
+    {
+      "aid": 117427895539544,
+      "bvid": "BV18zpd6YEJc",
+      "ctime": 1791808446,
+      "pubdate": 1791809245,
+      "duration": 678,
+      "pic": "http://i2.hdslb.com/bfs/archive/93792356f36f75cfa78dbed16cd61737ce9ebd3e.jpg",
+      "title": "捂嘴、删帖、全网屏蔽：法务部越强，车越不能买！",
+      "recorded_at": "2026-10-12T17:51:02.798Z"
+    },
     {
       "aid": 117422291947532,
       "bvid": "BV1R1pn6rEyB",
