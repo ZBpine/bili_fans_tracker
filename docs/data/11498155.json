@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c899aa91fad96d1b3a49dd0a7e09da0c6ce23f30.jpg",
     "sign": "就随便扯扯吧 商务v：ansenyao3\nYaoLan",
     "level": 6,
-    "archive_count": 327,
-    "like_num": 16676952,
-    "following": 62,
+    "archive_count": 328,
+    "like_num": 16679161,
+    "following": 63,
     "official_title": "科普UP主 安森垚",
-    "updated": "2026-10-12T07:19:14.703Z"
+    "updated": "2026-10-13T07:40:33.975Z"
   },
   "records": [
     {
@@ -626,9 +626,23 @@
     {
       "time": "2026-10-13T00:35:53.061Z",
       "fans": 1856958
+    },
+    {
+      "time": "2026-10-13T07:40:33.975Z",
+      "fans": 1856920
     }
   ],
   "videos": [
+    {
+      "aid": 117431368424040,
+      "bvid": "BV1ArWc6qEtk",
+      "ctime": 1791860908,
+      "pubdate": 1791873241,
+      "duration": 321,
+      "pic": "http://i0.hdslb.com/bfs/archive/9cd0848dedcb397363069d942847ec4a649020af.jpg",
+      "title": "日本的县为啥比市大",
+      "recorded_at": "2026-10-13T07:40:33.975Z"
+    },
     {
       "aid": 117274585340095,
       "bvid": "BV1ften6VEBK",
