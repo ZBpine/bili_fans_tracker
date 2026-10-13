@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 378,
-    "like_num": 22701445,
+    "archive_count": 379,
+    "like_num": 22722394,
     "following": 653,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-13T07:40:33.975Z"
+    "updated": "2026-10-13T15:55:13.727Z"
   },
   "records": [
     {
@@ -526,9 +526,23 @@
     {
       "time": "2026-10-13T07:40:33.975Z",
       "fans": 2102827
+    },
+    {
+      "time": "2026-10-13T15:55:13.727Z",
+      "fans": 2103311
     }
   ],
   "videos": [
+    {
+      "aid": 117434019223401,
+      "bvid": "BV1eRpi6DE2P",
+      "ctime": 1791901411,
+      "pubdate": 1791901411,
+      "duration": 566,
+      "pic": "http://i2.hdslb.com/bfs/archive/296e63d9748a73d22821e6210219c12f1824d0dc.jpg",
+      "title": "春秋笔法，欲盖弥彰：合格报告还是自爆卡车？",
+      "recorded_at": "2026-10-13T15:55:13.727Z"
+    },
     {
       "aid": 117427895539544,
       "bvid": "BV18zpd6YEJc",
