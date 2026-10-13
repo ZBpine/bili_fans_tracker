@@ -1,14 +1,14 @@
 {
   "meta": {
     "name": "小约翰可汗",
-    "face": "https://i0.hdslb.com/bfs/face/7727591813bd975315d431ff2f99b90e8e68bc72.jpg",
+    "face": "https://i0.hdslb.com/bfs/face/ecb990b965898d9cb3a9f651a15d91f64f51d59a.jpg",
     "sign": "这个人很神秘，什么都没有鸽",
     "level": 6,
-    "archive_count": 264,
-    "like_num": 89375427,
+    "archive_count": 265,
+    "like_num": 89493372,
     "following": 412,
     "official_title": "2025百大UP主、2025年度最高人气奖UP主、2023年度商业影响力奖UP主",
-    "updated": "2026-10-12T17:51:02.798Z"
+    "updated": "2026-10-13T21:12:44.493Z"
   },
   "records": [
     {
@@ -530,9 +530,23 @@
     {
       "time": "2026-10-13T15:55:13.727Z",
       "fans": 10924555
+    },
+    {
+      "time": "2026-10-13T21:12:44.493Z",
+      "fans": 10924995
     }
   ],
   "videos": [
+    {
+      "aid": 117428281416596,
+      "bvid": "BV1Cgpd6pEBR",
+      "ctime": 1791814225,
+      "pubdate": 1791862200,
+      "duration": 2620,
+      "pic": "http://i2.hdslb.com/bfs/archive/6b05de9e015c24f9c96e932f58274a2180b9c540.jpg",
+      "title": "苏联版“空中监狱”是什么？【神奇组织55】",
+      "recorded_at": "2026-10-13T21:12:44.493Z"
+    },
     {
       "aid": 117325336417285,
       "bvid": "BV1WhaA6hE7s",
