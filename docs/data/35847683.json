@@ -5,10 +5,10 @@
     "sign": "纪录片导演，极限旅行家，国家一级登山运动员，自由潜运动员，滑翔伞飞行员，水下摄影师，B站知名孩子王",
     "level": 6,
     "archive_count": 683,
-    "like_num": 17523169,
+    "like_num": 17524132,
     "following": 704,
     "official_title": "2023年度弹幕人气、知名UP主、直播高能主播",
-    "updated": "2026-10-12T17:51:02.798Z"
+    "updated": "2026-10-14T00:19:15.356Z"
   },
   "records": [
     {
@@ -630,9 +630,23 @@
     {
       "time": "2026-10-13T21:12:44.493Z",
       "fans": 3143301
+    },
+    {
+      "time": "2026-10-14T00:19:15.356Z",
+      "fans": 3143373
     }
   ],
   "videos": [
+    {
+      "aid": 117433952178452,
+      "bvid": "BV1Qcpq62Eak",
+      "ctime": 1791900224,
+      "pubdate": 1791900224,
+      "duration": 644,
+      "pic": "http://i0.hdslb.com/bfs/archive/8a10b0264bd255b85da9868b7dbb6a07a411bd30.jpg",
+      "title": "峰哥带你看澳门居民区长什么样？",
+      "recorded_at": "2026-10-14T00:19:15.356Z"
+    },
     {
       "aid": 117329413280941,
       "bvid": "BV1Lfau6iEYQ",
