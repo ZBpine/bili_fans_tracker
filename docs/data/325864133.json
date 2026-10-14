@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 83,
-    "like_num": 1109138,
-    "following": 153,
+    "archive_count": 84,
+    "like_num": 1110388,
+    "following": 156,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-13T21:12:44.493Z"
+    "updated": "2026-10-14T17:06:40.956Z"
   },
   "records": [
     {
@@ -546,9 +546,23 @@
     {
       "time": "2026-10-14T11:46:38.436Z",
       "fans": 466021
+    },
+    {
+      "time": "2026-10-14T17:06:40.956Z",
+      "fans": 466110
     }
   ],
   "videos": [
+    {
+      "aid": 117439740248973,
+      "bvid": "BV1sapm6KE2q",
+      "ctime": 1791988647,
+      "pubdate": 1791988647,
+      "duration": 415,
+      "pic": "http://i2.hdslb.com/bfs/archive/ab3ef5264f96190588d5dc88c350ede83a00c981.jpg",
+      "title": "【闪客】REA 逆向一切是个啥？拆解莫名其妙爆火的项目",
+      "recorded_at": "2026-10-14T17:06:40.956Z"
+    },
     {
       "aid": 117358521747255,
       "bvid": "BV12jad6DEfK",

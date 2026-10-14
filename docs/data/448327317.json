@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 27,
-    "like_num": 1171231,
+    "archive_count": 28,
+    "like_num": 1174676,
     "following": 69,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-13T21:12:44.493Z"
+    "updated": "2026-10-14T17:06:40.956Z"
   },
   "records": [
     {
@@ -618,9 +618,23 @@
     {
       "time": "2026-10-14T11:46:38.436Z",
       "fans": 234345
+    },
+    {
+      "time": "2026-10-14T17:06:40.956Z",
+      "fans": 234438
     }
   ],
   "videos": [
+    {
+      "aid": 117437861201498,
+      "bvid": "BV13DpC6qESB",
+      "ctime": 1791959690,
+      "pubdate": 1791972000,
+      "duration": 759,
+      "pic": "http://i0.hdslb.com/bfs/archive/5ae655fa096e64dfbba4052fcd3b65a792df86d3.jpg",
+      "title": "有关部门要求交社保，那社保便宜了谁？",
+      "recorded_at": "2026-10-14T17:06:40.956Z"
+    },
     {
       "aid": 117414238880836,
       "bvid": "BV1owpe6EEtR",

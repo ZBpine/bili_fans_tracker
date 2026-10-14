@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/4438aab07b6f3c360d4c46e9f345ec987e93a1b7.jpg",
     "sign": "11万粉视频11.11更新，商务:675519014（同VX,备注）",
     "level": 6,
-    "archive_count": 234,
-    "like_num": 1380871,
-    "following": 705,
+    "archive_count": 235,
+    "like_num": 1382020,
+    "following": 706,
     "official_title": "优质游戏鉴赏家",
-    "updated": "2026-10-13T21:12:44.493Z"
+    "updated": "2026-10-14T17:06:40.956Z"
   },
   "records": [
     {
@@ -642,9 +642,23 @@
     {
       "time": "2026-10-14T11:46:38.436Z",
       "fans": 142257
+    },
+    {
+      "time": "2026-10-14T17:06:40.956Z",
+      "fans": 142325
     }
   ],
   "videos": [
+    {
+      "aid": 117439119623704,
+      "bvid": "BV1Php16FEMA",
+      "ctime": 1791978875,
+      "pubdate": 1791978875,
+      "duration": 570,
+      "pic": "http://i2.hdslb.com/bfs/archive/5cdfb50888be52bba87d84df81875ab17ab4d54b.jpg",
+      "title": "【IKGN】你意气风发年度独立，我落鸟坡下沉星之序",
+      "recorded_at": "2026-10-14T17:06:40.956Z"
+    },
     {
       "aid": 117415010634652,
       "bvid": "BV1fcpi6oEnX",
