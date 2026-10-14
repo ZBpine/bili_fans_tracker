@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 379,
-    "like_num": 22735394,
+    "archive_count": 381,
+    "like_num": 22767960,
     "following": 653,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-14T00:19:15.356Z"
+    "updated": "2026-10-14T11:46:38.436Z"
   },
   "records": [
     {
@@ -542,9 +542,23 @@
     {
       "time": "2026-10-14T06:06:56.900Z",
       "fans": 2104830
+    },
+    {
+      "time": "2026-10-14T11:46:38.436Z",
+      "fans": 2105256
     }
   ],
   "videos": [
+    {
+      "aid": 117437945093988,
+      "bvid": "BV1jCpC6GETk",
+      "ctime": 1791962939,
+      "pubdate": 1791962938,
+      "duration": 709,
+      "pic": "http://i0.hdslb.com/bfs/archive/7018c7ed4a5b2d5b4ef0ea88ed9a932e334acccd.jpg",
+      "title": "【补档】刹车断了怎么办？捂嘴、删帖，全网清空",
+      "recorded_at": "2026-10-14T11:46:38.436Z"
+    },
     {
       "aid": 117434019223401,
       "bvid": "BV1eRpi6DE2P",
