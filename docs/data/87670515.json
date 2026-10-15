@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/97df512c31b322245934bfbd23613510d2203d11.jpg",
     "sign": "户外徒步、登山、骑行、越野、洞潜故事！\n【可以参考，请勿洗稿！！！】",
     "level": 6,
-    "archive_count": 493,
-    "like_num": 12498782,
-    "following": 50,
+    "archive_count": 494,
+    "like_num": 12558257,
+    "following": 51,
     "official_title": "神秘园官方账号",
-    "updated": "2026-10-14T06:06:56.900Z"
+    "updated": "2026-10-15T09:51:31.075Z"
   },
   "records": [
     {
@@ -226,9 +226,23 @@
     {
       "time": "2026-10-15T04:32:51.916Z",
       "fans": 2823296
+    },
+    {
+      "time": "2026-10-15T09:51:31.075Z",
+      "fans": 2824453
     }
   ],
   "videos": [
+    {
+      "aid": 117438196745822,
+      "bvid": "BV14JpC6ZE3U",
+      "ctime": 1791965316,
+      "pubdate": 1791972000,
+      "duration": 1925,
+      "pic": "http://i0.hdslb.com/bfs/archive/ac3f20721d6804d9ec2ca7d2407ac7f57d743828.jpg",
+      "title": "77天1400公里独自横穿羌塘，杨柳松与北方的空地",
+      "recorded_at": "2026-10-15T09:51:31.075Z"
+    },
     {
       "aid": 117325722357008,
       "bvid": "BV1imaN6tEK3",
