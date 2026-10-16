@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
     "sign": "工作邮箱：xfluoxiang@hotmail.com",
     "level": 6,
-    "archive_count": 503,
-    "like_num": 100562368,
+    "archive_count": 504,
+    "like_num": 100571728,
     "following": 19,
     "official_title": "2025百大UP主、中国政法大学教授、2020年度最高人气UP主",
-    "updated": "2026-10-15T09:51:31.075Z"
+    "updated": "2026-10-16T07:06:19.687Z"
   },
   "records": [
     {
@@ -582,9 +582,23 @@
     {
       "time": "2026-10-16T01:18:31.595Z",
       "fans": 32183484
+    },
+    {
+      "time": "2026-10-16T07:06:19.687Z",
+      "fans": 32182625
     }
   ],
   "videos": [
+    {
+      "aid": 117444253324847,
+      "bvid": "BV1fdJy63Ezb",
+      "ctime": 1792057256,
+      "pubdate": 1792119600,
+      "duration": 469,
+      "pic": "http://i2.hdslb.com/bfs/archive/405f079dcfce15e24428c2f1747e047e10e1c681.jpg",
+      "title": "【罗翔】波斯王求爱实录：他给的实在太多了",
+      "recorded_at": "2026-10-16T07:06:19.687Z"
+    },
     {
       "aid": 117391606487730,
       "bvid": "BV1yKHf6fEAT",

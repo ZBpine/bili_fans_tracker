@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 613,
-    "like_num": 9139284,
+    "archive_count": 614,
+    "like_num": 9146239,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-15T09:51:31.075Z"
+    "updated": "2026-10-16T07:06:19.687Z"
   },
   "records": [
     {
@@ -678,9 +678,23 @@
     {
       "time": "2026-10-16T01:18:31.595Z",
       "fans": 735490
+    },
+    {
+      "time": "2026-10-16T07:06:19.687Z",
+      "fans": 735574
     }
   ],
   "videos": [
+    {
+      "aid": 117445092248268,
+      "bvid": "BV1esJ263E9J",
+      "ctime": 1792070573,
+      "pubdate": 1792070873,
+      "duration": 1007,
+      "pic": "http://i0.hdslb.com/bfs/archive/d7b33a2c1ee2dbb886845aaafe6be072e8a9e2de.jpg",
+      "title": "【参考信息第660期】大数据找人参保；12345也欠薪",
+      "recorded_at": "2026-10-16T07:06:19.687Z"
+    },
     {
       "aid": 117427811649409,
       "bvid": "BV1g7po6qEME",
