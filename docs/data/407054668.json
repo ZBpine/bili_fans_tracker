@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/9a2c23800387d9c871f3b5dd3620dc1c3c50d2f9.jpg",
     "sign": "我们不是科普，我们与你一起发现",
     "level": 6,
-    "archive_count": 98,
-    "like_num": 34380673,
+    "archive_count": 99,
+    "like_num": 34408156,
     "following": 60,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-15T09:51:31.075Z"
+    "updated": "2026-10-16T12:22:19.943Z"
   },
   "records": [
     {
@@ -250,9 +250,23 @@
     {
       "time": "2026-10-16T07:06:19.687Z",
       "fans": 6738954
+    },
+    {
+      "time": "2026-10-16T12:22:19.943Z",
+      "fans": 6739780
     }
   ],
   "videos": [
+    {
+      "aid": 117449655588737,
+      "bvid": "BV17YJX6FE6F",
+      "ctime": 1792139879,
+      "pubdate": 1792143000,
+      "duration": 564,
+      "pic": "http://i1.hdslb.com/bfs/archive/51a01eac2d83d25288f2d8558e04db52180f618f.jpg",
+      "title": "肾里长的石头，医生是怎么取出来的？",
+      "recorded_at": "2026-10-16T12:22:19.943Z"
+    },
     {
       "aid": 117295808517496,
       "bvid": "BV1BWet6FEWk",

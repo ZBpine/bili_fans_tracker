@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 381,
-    "like_num": 22788125,
+    "archive_count": 382,
+    "like_num": 22795060,
     "following": 653,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-16T01:18:31.595Z"
+    "updated": "2026-10-16T12:22:19.943Z"
   },
   "records": [
     {
@@ -586,9 +586,23 @@
     {
       "time": "2026-10-16T07:06:19.687Z",
       "fans": 2106151
+    },
+    {
+      "time": "2026-10-16T12:22:19.943Z",
+      "fans": 2106263
     }
   ],
   "videos": [
+    {
+      "aid": 117450410762202,
+      "bvid": "BV1rFJb6vEdH",
+      "ctime": 1792151903,
+      "pubdate": 1792152110,
+      "duration": 688,
+      "pic": "http://i1.hdslb.com/bfs/archive/fc249c27edcace38c5c192ed5ac084882f157bbf.jpg",
+      "title": "不当力工，多练薄肌：男生要把钱花在自己身上",
+      "recorded_at": "2026-10-16T12:22:19.943Z"
+    },
     {
       "aid": 117437945093988,
       "bvid": "BV1jCpC6GETk",
