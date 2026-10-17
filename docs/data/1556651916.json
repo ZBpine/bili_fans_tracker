@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 614,
-    "like_num": 9147950,
+    "archive_count": 615,
+    "like_num": 9154618,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-16T23:33:21.889Z"
+    "updated": "2026-10-17T17:07:27.046Z"
   },
   "records": [
     {
@@ -710,9 +710,23 @@
     {
       "time": "2026-10-17T13:42:03.656Z",
       "fans": 735649
+    },
+    {
+      "time": "2026-10-17T17:07:27.046Z",
+      "fans": 735656
     }
   ],
   "videos": [
+    {
+      "aid": 117456081257500,
+      "bvid": "BV13GJi6zEg6",
+      "ctime": 1792237820,
+      "pubdate": 1792237820,
+      "duration": 1054,
+      "pic": "http://i0.hdslb.com/bfs/archive/7b29692890a8a3eb995e81c68d774f34431e0c3c.jpg",
+      "title": "【参考信息第661期】社保服务进万家；AI改造老干妈&双休侠",
+      "recorded_at": "2026-10-17T17:07:27.046Z"
+    },
     {
       "aid": 117445092248268,
       "bvid": "BV1esJ263E9J",
