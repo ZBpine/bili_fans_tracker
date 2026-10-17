@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 641,
-    "like_num": 36247828,
+    "archive_count": 642,
+    "like_num": 36274632,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-10-16T12:22:19.943Z"
+    "updated": "2026-10-17T09:18:25.139Z"
   },
   "records": [
     {
@@ -710,9 +710,23 @@
     {
       "time": "2026-10-17T04:20:34.804Z",
       "fans": 5615192
+    },
+    {
+      "time": "2026-10-17T09:18:25.139Z",
+      "fans": 5615704
     }
   ],
   "videos": [
+    {
+      "aid": 117450913874230,
+      "bvid": "BV1KMJt6gEhx",
+      "ctime": 1792158932,
+      "pubdate": 1792159129,
+      "duration": 474,
+      "pic": "http://i2.hdslb.com/bfs/archive/67eb2d92d1584fb93b62bf6b7c42a111199de677.jpg",
+      "title": "红魔12 Pro+上手体验：终极游戏利器",
+      "recorded_at": "2026-10-17T09:18:25.139Z"
+    },
     {
       "aid": 117427996329149,
       "bvid": "BV1gipd6iELS",

@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 66,
-    "like_num": 139375,
+    "archive_count": 67,
+    "like_num": 142096,
     "following": 21,
     "official_title": "",
-    "updated": "2026-10-16T12:22:19.943Z"
+    "updated": "2026-10-17T09:18:25.139Z"
   },
   "records": [
     {
@@ -654,9 +654,23 @@
     {
       "time": "2026-10-17T04:20:34.804Z",
       "fans": 38098
+    },
+    {
+      "time": "2026-10-17T09:18:25.139Z",
+      "fans": 38184
     }
   ],
   "videos": [
+    {
+      "aid": 117451383642067,
+      "bvid": "BV1XrJ86sEr1",
+      "ctime": 1792166172,
+      "pubdate": 1792166172,
+      "duration": 1017,
+      "pic": "http://i1.hdslb.com/bfs/archive/78259abbfb13e44c941c930416b628c682e75128.jpg",
+      "title": "Gemini4 Argon，退钱！！｜御三家屎山论剑",
+      "recorded_at": "2026-10-17T09:18:25.139Z"
+    },
     {
       "aid": 117420446454168,
       "bvid": "BV12dpj6EE82",
