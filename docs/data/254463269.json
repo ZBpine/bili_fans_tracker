@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/ec34c6f6de3b28bada6a62fcdce14f5f438c9cdb.jpg",
     "sign": "和你一起感受科学的快乐和美！！也欢迎关注一个UP叫毕的二阶导。B站商务联系: s1012295607",
     "level": 6,
-    "archive_count": 175,
-    "like_num": 38567878,
+    "archive_count": 176,
+    "like_num": 38660902,
     "following": 562,
     "official_title": "bilibili 2020百大UP主、知名科普UP主",
-    "updated": "2026-10-14T20:40:55.176Z"
+    "updated": "2026-10-17T22:15:28.430Z"
   },
   "records": [
     {
@@ -622,9 +622,23 @@
     {
       "time": "2026-10-17T19:21:25.722Z",
       "fans": 8414185
+    },
+    {
+      "time": "2026-10-17T22:15:28.430Z",
+      "fans": 8414216
     }
   ],
   "videos": [
+    {
+      "aid": 117451316535129,
+      "bvid": "BV1cpJ86BEys",
+      "ctime": 1792165155,
+      "pubdate": 1792206000,
+      "duration": 303,
+      "pic": "http://i0.hdslb.com/bfs/archive/4679b0ef7acb4ef14a81b7f58dea77f973991280.jpg",
+      "title": "【毕导】不做诺奖科普的第一年，科普博主我还会做多久？",
+      "recorded_at": "2026-10-17T22:15:28.430Z"
+    },
     {
       "aid": 117312552178956,
       "bvid": "BV1VVhk6pEiR",
