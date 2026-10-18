@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 28,
-    "like_num": 1190074,
+    "archive_count": 29,
+    "like_num": 1195932,
     "following": 70,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-17T17:07:27.046Z"
+    "updated": "2026-10-18T10:59:17.002Z"
   },
   "records": [
     {
@@ -706,9 +706,23 @@
     {
       "time": "2026-10-18T05:51:47.741Z",
       "fans": 237043
+    },
+    {
+      "time": "2026-10-18T10:59:17.002Z",
+      "fans": 237459
     }
   ],
   "videos": [
+    {
+      "aid": 117461013760881,
+      "bvid": "BV1gJnG66E7Y",
+      "ctime": 1792313377,
+      "pubdate": 1792315766,
+      "duration": 1757,
+      "pic": "http://i2.hdslb.com/bfs/archive/5c14d3cd96048a0e1a0db507d9aeb7bd7439ee92.jpg",
+      "title": "为什么八小时工作制必然落实？",
+      "recorded_at": "2026-10-18T10:59:17.002Z"
+    },
     {
       "aid": 117437861201498,
       "bvid": "BV13DpC6qESB",
