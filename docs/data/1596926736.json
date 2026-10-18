@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 179,
-    "like_num": 3962185,
-    "following": 207,
+    "archive_count": 180,
+    "like_num": 3968398,
+    "following": 208,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-17T19:21:25.722Z"
+    "updated": "2026-10-18T20:37:31.336Z"
   },
   "records": [
     {
@@ -750,9 +750,23 @@
     {
       "time": "2026-10-18T18:03:50.822Z",
       "fans": 1003428
+    },
+    {
+      "time": "2026-10-18T20:37:31.336Z",
+      "fans": 1003459
     }
   ],
   "videos": [
+    {
+      "aid": 117461181533163,
+      "bvid": "BV1nZn36REEq",
+      "ctime": 1792315872,
+      "pubdate": 1792317600,
+      "duration": 1924,
+      "pic": "http://i2.hdslb.com/bfs/archive/a1b1d537f3c110055181ba8af68ad484ba6e18c5.jpg",
+      "title": "【伯爵】全国五五开的比利时，是怎么活过民族主义时代的？一期视频讲清比利时如何诞生",
+      "recorded_at": "2026-10-18T20:37:31.336Z"
+    },
     {
       "aid": 117381875631206,
       "bvid": "BV1MEHj6DE18",
