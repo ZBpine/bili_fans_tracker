@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 67,
-    "like_num": 144329,
+    "archive_count": 68,
+    "like_num": 149704,
     "following": 21,
     "official_title": "",
-    "updated": "2026-10-19T20:33:49.616Z"
+    "updated": "2026-10-20T16:58:53.268Z"
   },
   "records": [
     {
@@ -730,9 +730,23 @@
     {
       "time": "2026-10-20T11:30:32.644Z",
       "fans": 39959
+    },
+    {
+      "time": "2026-10-20T16:58:53.268Z",
+      "fans": 40175
     }
   ],
   "videos": [
+    {
+      "aid": 117470023127154,
+      "bvid": "BV1zcJf6LEPe",
+      "ctime": 1792450498,
+      "pubdate": 1792450498,
+      "duration": 623,
+      "pic": "http://i0.hdslb.com/bfs/archive/87ca4c5632e088cc4b8d1bdf8c0ed7f66683d1b1.jpg",
+      "title": "DeepSeekV4.1 Flash 1017，距1024一步之遥｜屎山考核",
+      "recorded_at": "2026-10-20T16:58:53.268Z"
+    },
     {
       "aid": 117451383642067,
       "bvid": "BV1XrJ86sEr1",
