@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 615,
-    "like_num": 9160069,
+    "archive_count": 616,
+    "like_num": 9166118,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-19T06:15:04.801Z"
+    "updated": "2026-10-20T00:18:01.493Z"
   },
   "records": [
     {
@@ -766,9 +766,23 @@
     {
       "time": "2026-10-19T20:33:49.616Z",
       "fans": 735813
+    },
+    {
+      "time": "2026-10-20T00:18:01.493Z",
+      "fans": 735831
     }
   ],
   "videos": [
+    {
+      "aid": 117467405880110,
+      "bvid": "BV1AAJd67EU3",
+      "ctime": 1792410782,
+      "pubdate": 1792411006,
+      "duration": 1065,
+      "pic": "http://i1.hdslb.com/bfs/archive/227309681ce493f9b3372c898eff2ce13616095a.jpg",
+      "title": "【参考信息第662期】低空经济去泡沫；鼓励影院卖体彩",
+      "recorded_at": "2026-10-20T00:18:01.493Z"
+    },
     {
       "aid": 117456081257500,
       "bvid": "BV13GJi6zEg6",
