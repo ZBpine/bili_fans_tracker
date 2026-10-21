@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 643,
-    "like_num": 36318302,
+    "archive_count": 644,
+    "like_num": 36335595,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-10-21T04:40:49.470Z"
+    "updated": "2026-10-21T23:15:57.307Z"
   },
   "records": [
     {
@@ -814,9 +814,23 @@
     {
       "time": "2026-10-21T19:18:21.001Z",
       "fans": 5620678
+    },
+    {
+      "time": "2026-10-21T23:15:57.307Z",
+      "fans": 5620740
     }
   ],
   "videos": [
+    {
+      "aid": 117478696946287,
+      "bvid": "BV1RBnB6pEGr",
+      "ctime": 1792582921,
+      "pubdate": 1792586807,
+      "duration": 525,
+      "pic": "http://i2.hdslb.com/bfs/archive/f4cd4e94ce7695f390dd63f24894f66231c9f759.jpg",
+      "title": "荣耀WIN2上手体验：极客玩家狂喜的游戏手机？",
+      "recorded_at": "2026-10-21T23:15:57.307Z"
+    },
     {
       "aid": 117472120409264,
       "bvid": "BV1kLnw6YE6e",
