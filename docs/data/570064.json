@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 382,
-    "like_num": 22840848,
+    "archive_count": 383,
+    "like_num": 22850923,
     "following": 653,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-22T10:07:58.345Z"
+    "updated": "2026-10-22T20:04:45.937Z"
   },
   "records": [
     {
@@ -726,9 +726,23 @@
     {
       "time": "2026-10-22T15:14:04.620Z",
       "fans": 2107647
+    },
+    {
+      "time": "2026-10-22T20:04:45.937Z",
+      "fans": 2107668
     }
   ],
   "videos": [
+    {
+      "aid": 117483713403407,
+      "bvid": "BV1mQnm6vEzj",
+      "ctime": 1792659378,
+      "pubdate": 1792665235,
+      "duration": 687,
+      "pic": "http://i1.hdslb.com/bfs/archive/3c352594f8900dc316e5fadcce0e1c3386e0704e.jpg",
+      "title": "诬告性骚扰，最终多平台封禁，小慧君还能复出收徒？",
+      "recorded_at": "2026-10-22T20:04:45.937Z"
+    },
     {
       "aid": 117450410762202,
       "bvid": "BV1rFJb6vEdH",

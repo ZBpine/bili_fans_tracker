@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 644,
-    "like_num": 36335595,
+    "archive_count": 645,
+    "like_num": 36359806,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-10-21T23:15:57.307Z"
+    "updated": "2026-10-22T20:04:45.937Z"
   },
   "records": [
     {
@@ -830,9 +830,23 @@
     {
       "time": "2026-10-22T15:14:04.620Z",
       "fans": 5621900
+    },
+    {
+      "time": "2026-10-22T20:04:45.937Z",
+      "fans": 5622168
     }
   ],
   "videos": [
+    {
+      "aid": 117482908093388,
+      "bvid": "BV11Un16fERV",
+      "ctime": 1792647274,
+      "pubdate": 1792650600,
+      "duration": 413,
+      "pic": "http://i0.hdslb.com/bfs/archive/d9008d8393072081be17247dee6edb9a61919ee5.jpg",
+      "title": "一加 Ace 7 Pro上手体验：一加首款主动散热机型，性能表现如何？",
+      "recorded_at": "2026-10-22T20:04:45.937Z"
+    },
     {
       "aid": 117478696946287,
       "bvid": "BV1RBnB6pEGr",
