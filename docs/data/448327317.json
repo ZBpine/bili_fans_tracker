@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 29,
-    "like_num": 1230246,
-    "following": 71,
+    "archive_count": 30,
+    "like_num": 1235883,
+    "following": 72,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-21T19:18:21.001Z"
+    "updated": "2026-10-22T15:14:04.620Z"
   },
   "records": [
     {
@@ -794,9 +794,23 @@
     {
       "time": "2026-10-22T10:07:58.345Z",
       "fans": 246519
+    },
+    {
+      "time": "2026-10-22T15:14:04.620Z",
+      "fans": 246876
     }
   ],
   "videos": [
+    {
+      "aid": 117484082433197,
+      "bvid": "BV1omn26EEBM",
+      "ctime": 1792665163,
+      "pubdate": 1792666800,
+      "duration": 897,
+      "pic": "http://i2.hdslb.com/bfs/archive/4c625acede2e3e424971d7eb969d1c77e89382fa.jpg",
+      "title": "PCL被封杀？中国式家长过于逆天！",
+      "recorded_at": "2026-10-22T15:14:04.620Z"
+    },
     {
       "aid": 117461013760881,
       "bvid": "BV1gJnG66E7Y",
