@@ -5,10 +5,10 @@
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
     "archive_count": 617,
-    "like_num": 9177348,
+    "like_num": 9178125,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-22T10:07:58.345Z"
+    "updated": "2026-10-23T10:00:44.358Z"
   },
   "records": [
     {
@@ -834,9 +834,23 @@
     {
       "time": "2026-10-23T04:44:01.885Z",
       "fans": 736024
+    },
+    {
+      "time": "2026-10-23T10:00:44.358Z",
+      "fans": 736017
     }
   ],
   "videos": [
+    {
+      "aid": 117484585749969,
+      "bvid": "BV1HVnp6sED1",
+      "ctime": 1792672881,
+      "pubdate": 1792673263,
+      "duration": 1061,
+      "pic": "http://i2.hdslb.com/bfs/archive/92aed784dc9adadc18a6b13800ae4919c9f7c9dd.jpg",
+      "title": "【参考信息第663期】云南烟草负增长；健康税机会窗口",
+      "recorded_at": "2026-10-23T10:00:44.358Z"
+    },
     {
       "aid": 117467405880110,
       "bvid": "BV1AAJd67EU3",

@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 68,
-    "like_num": 151887,
+    "archive_count": 69,
+    "like_num": 152750,
     "following": 21,
     "official_title": "",
-    "updated": "2026-10-22T10:07:58.345Z"
+    "updated": "2026-10-23T10:00:44.358Z"
   },
   "records": [
     {
@@ -786,9 +786,23 @@
     {
       "time": "2026-10-23T04:44:01.885Z",
       "fans": 40753
+    },
+    {
+      "time": "2026-10-23T10:00:44.358Z",
+      "fans": 40819
     }
   ],
   "videos": [
+    {
+      "aid": 117488880720886,
+      "bvid": "BV1V1nb6oE6y",
+      "ctime": 1792738476,
+      "pubdate": 1792738475,
+      "duration": 736,
+      "pic": "http://i0.hdslb.com/bfs/archive/1ad65d98f010240118cdd5b1ddb0aeb1ab0cd81c.jpg",
+      "title": "屎山在线催更K3｜C组第三轮",
+      "recorded_at": "2026-10-23T10:00:44.358Z"
+    },
     {
       "aid": 117470023127154,
       "bvid": "BV1zcJf6LEPe",
