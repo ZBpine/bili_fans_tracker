@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
     "sign": "工作邮箱：xfluoxiang@hotmail.com",
     "level": 6,
-    "archive_count": 504,
-    "like_num": 100639161,
+    "archive_count": 505,
+    "like_num": 100659841,
     "following": 19,
     "official_title": "2025百大UP主、中国政法大学教授、2020年度最高人气UP主",
-    "updated": "2026-10-22T20:04:45.937Z"
+    "updated": "2026-10-23T22:09:37.775Z"
   },
   "records": [
     {
@@ -750,9 +750,23 @@
     {
       "time": "2026-10-23T19:10:09.025Z",
       "fans": 32185270
+    },
+    {
+      "time": "2026-10-23T22:09:37.775Z",
+      "fans": 32185226
     }
   ],
   "videos": [
+    {
+      "aid": 117487052001473,
+      "bvid": "BV1Acnx6cEqm",
+      "ctime": 1792710528,
+      "pubdate": 1792724400,
+      "duration": 684,
+      "pic": "http://i0.hdslb.com/bfs/archive/ecb54fddb2ad87375b18fc03ea0bc334a6bf20a7.jpg",
+      "title": "【罗翔】假如张三精通“茅山道法”",
+      "recorded_at": "2026-10-23T22:09:37.775Z"
+    },
     {
       "aid": 117444253324847,
       "bvid": "BV1fdJy63Ezb",
