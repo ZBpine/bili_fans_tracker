@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/25ca3b7639e6e5ecdb9078d5921efe462223a2a5.jpg",
     "sign": "正经社科频道！每周随机不定期直播~商务合作v：YEJUNXshi（辛苦备注来意，平台入驻勿扰）",
     "level": 6,
-    "archive_count": 53,
-    "like_num": 1563673,
+    "archive_count": 54,
+    "like_num": 1574487,
     "following": 828,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-22T10:07:58.345Z"
+    "updated": "2026-10-23T15:01:40.399Z"
   },
   "records": [
     {
@@ -4066,9 +4066,23 @@
     {
       "time": "2026-10-23T10:00:44.358Z",
       "fans": 271274
+    },
+    {
+      "time": "2026-10-23T15:01:40.399Z",
+      "fans": 271439
     }
   ],
   "videos": [
+    {
+      "aid": 117488931051347,
+      "bvid": "BV1jrnb68Eud",
+      "ctime": 1792739047,
+      "pubdate": 1792747800,
+      "duration": 825,
+      "pic": "http://i1.hdslb.com/bfs/archive/2e89862c7ffbef85b4a15a51a4b1580b6119f256.jpg",
+      "title": "为什么说人生是一个巨大的“类魂游戏”？【梗外之音21】",
+      "recorded_at": "2026-10-23T15:01:40.399Z"
+    },
     {
       "aid": 117353555824757,
       "bvid": "BV1wgap6mELS",

@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 383,
-    "like_num": 22855394,
+    "archive_count": 384,
+    "like_num": 22870553,
     "following": 653,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-23T04:44:01.885Z"
+    "updated": "2026-10-23T15:01:40.399Z"
   },
   "records": [
     {
@@ -742,9 +742,23 @@
     {
       "time": "2026-10-23T10:00:44.358Z",
       "fans": 2107891
+    },
+    {
+      "time": "2026-10-23T15:01:40.399Z",
+      "fans": 2108030
     }
   ],
   "videos": [
+    {
+      "aid": 117490189408438,
+      "bvid": "BV1fon86MERW",
+      "ctime": 1792759889,
+      "pubdate": 1792759889,
+      "duration": 639,
+      "pic": "http://i1.hdslb.com/bfs/archive/e0a384c0fb2e99086f9965f622f14ae0f01a877e.jpg",
+      "title": "大对账：什么是视同缴费？每个月拿走你多少钱？",
+      "recorded_at": "2026-10-23T15:01:40.399Z"
+    },
     {
       "aid": 117483713403407,
       "bvid": "BV1mQnm6vEzj",
