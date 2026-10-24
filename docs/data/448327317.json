@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 30,
-    "like_num": 1241361,
+    "archive_count": 31,
+    "like_num": 1245087,
     "following": 72,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-23T15:01:40.399Z"
+    "updated": "2026-10-24T10:53:21.750Z"
   },
   "records": [
     {
@@ -834,9 +834,23 @@
     {
       "time": "2026-10-24T05:47:51.324Z",
       "fans": 247865
+    },
+    {
+      "time": "2026-10-24T10:53:21.750Z",
+      "fans": 247964
     }
   ],
   "videos": [
+    {
+      "aid": 117494517926533,
+      "bvid": "BV1KkHP62ETs",
+      "ctime": 1792824357,
+      "pubdate": 1792836000,
+      "duration": 645,
+      "pic": "http://i1.hdslb.com/bfs/archive/eee14872d3b1750fca6f69ce47c45af3c9260eb7.jpg",
+      "title": "盎撒人如何奠定现代民主政治 ？",
+      "recorded_at": "2026-10-24T10:53:21.750Z"
+    },
     {
       "aid": 117484082433197,
       "bvid": "BV1omn26EEBM",
