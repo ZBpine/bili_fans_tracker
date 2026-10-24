@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 180,
-    "like_num": 3983571,
-    "following": 211,
+    "archive_count": 181,
+    "like_num": 3993438,
+    "following": 214,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-23T15:01:40.399Z"
+    "updated": "2026-10-24T18:05:53.426Z"
   },
   "records": [
     {
@@ -874,9 +874,23 @@
     {
       "time": "2026-10-24T14:29:17.566Z",
       "fans": 1004522
+    },
+    {
+      "time": "2026-10-24T18:05:53.426Z",
+      "fans": 1004444
     }
   ],
   "videos": [
+    {
+      "aid": 117491313610062,
+      "bvid": "BV1X8na6vEBT",
+      "ctime": 1792775695,
+      "pubdate": 1792810800,
+      "duration": 1315,
+      "pic": "http://i0.hdslb.com/bfs/archive/9c60dbc689dcde251f555d7cf94cc20f849a74db.jpg",
+      "title": "【伯爵】英语的优势地位，到了该削的时候了吗？",
+      "recorded_at": "2026-10-24T18:05:53.426Z"
+    },
     {
       "aid": 117461181533163,
       "bvid": "BV1nZn36REEq",
