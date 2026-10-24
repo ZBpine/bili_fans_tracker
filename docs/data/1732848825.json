@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 195,
-    "like_num": 22093828,
+    "archive_count": 196,
+    "like_num": 22098618,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-24T05:47:51.324Z"
+    "updated": "2026-10-24T23:09:40.042Z"
   },
   "records": [
     {
@@ -882,9 +882,23 @@
     {
       "time": "2026-10-24T20:44:11.507Z",
       "fans": 2349674
+    },
+    {
+      "time": "2026-10-24T23:09:40.042Z",
+      "fans": 2349672
     }
   ],
   "videos": [
+    {
+      "aid": 117478243961224,
+      "bvid": "BV1pynz6MEVx",
+      "ctime": 1792576266,
+      "pubdate": 1792839600,
+      "duration": 1789,
+      "pic": "http://i2.hdslb.com/bfs/archive/af95decc637215d74023a48bdbeb2def0361af9d.jpg",
+      "title": "你以为的食品安全问题，其实是一道成本题，也是概率题！",
+      "recorded_at": "2026-10-24T23:09:40.042Z"
+    },
     {
       "aid": 117454151878386,
       "bvid": "BV1ycJY6JEA6",

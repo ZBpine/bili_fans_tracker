@@ -5,10 +5,10 @@
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
     "archive_count": 1044,
-    "like_num": 43019243,
+    "like_num": 43019614,
     "following": 178,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-23T19:10:09.025Z"
+    "updated": "2026-10-24T23:09:40.042Z"
   },
   "records": [
     {
@@ -4510,9 +4510,33 @@
     {
       "time": "2026-10-24T20:44:11.507Z",
       "fans": 2190230
+    },
+    {
+      "time": "2026-10-24T23:09:40.042Z",
+      "fans": 2190256
     }
   ],
   "videos": [
+    {
+      "aid": 117495004469985,
+      "bvid": "BV1aQHA6DEww",
+      "ctime": 1792833164,
+      "pubdate": 1792836000,
+      "duration": 574,
+      "pic": "http://i2.hdslb.com/bfs/archive/23a9cea6af80e9a4bf9d0da03c668c7336e645ef.jpg",
+      "title": "这个地方，明朝我来过【临高启明巡礼】",
+      "recorded_at": "2026-10-24T23:09:40.042Z"
+    },
+    {
+      "aid": 117495004403466,
+      "bvid": "BV13QHA6DEZ2",
+      "ctime": 1792833197,
+      "pubdate": 1792833197,
+      "duration": 2006,
+      "pic": "http://i1.hdslb.com/bfs/archive/94c8d392cbd79794c02218e0cb792cd49ff7458f.jpg",
+      "title": "大革命失败主因是苏联经验无效还是军阀背叛？【马督工带你读懂民国29】",
+      "recorded_at": "2026-10-24T23:09:40.042Z"
+    },
     {
       "aid": 116878106368248,
       "bvid": "BV1fBM86MEMa",

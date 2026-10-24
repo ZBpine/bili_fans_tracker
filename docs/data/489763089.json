@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/6d7c9ef4e2d3147528c5d161f51bf5d604568de1.jpg",
     "sign": "分享科学的快乐和美！\n小号:毕导\n商务联系：s1012295607",
     "level": 6,
-    "archive_count": 168,
-    "like_num": 20816998,
+    "archive_count": 169,
+    "like_num": 20849924,
     "following": 57,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-23T22:09:37.775Z"
+    "updated": "2026-10-24T23:09:40.042Z"
   },
   "records": [
     {
@@ -778,9 +778,23 @@
     {
       "time": "2026-10-24T20:44:11.507Z",
       "fans": 2565916
+    },
+    {
+      "time": "2026-10-24T23:09:40.042Z",
+      "fans": 2565937
     }
   ],
   "videos": [
+    {
+      "aid": 117488427735784,
+      "bvid": "BV1J8n46FEhy",
+      "ctime": 1792732079,
+      "pubdate": 1792814400,
+      "duration": 211,
+      "pic": "http://i0.hdslb.com/bfs/archive/ac02772d949303cb38cc4d707d364d1a8df02dfd.jpg",
+      "title": "上厕所闻到臭味，和直接吃的区别是……？",
+      "recorded_at": "2026-10-24T23:09:40.042Z"
+    },
     {
       "aid": 117348992291321,
       "bvid": "BV1R2aG63EBP",
