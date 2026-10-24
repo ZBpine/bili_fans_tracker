@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/9a2c23800387d9c871f3b5dd3620dc1c3c50d2f9.jpg",
     "sign": "我们不是科普，我们与你一起发现",
     "level": 6,
-    "archive_count": 99,
-    "like_num": 34607429,
+    "archive_count": 100,
+    "like_num": 34712557,
     "following": 60,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-22T23:20:24.511Z"
+    "updated": "2026-10-24T00:40:26.489Z"
   },
   "records": [
     {
@@ -418,9 +418,23 @@
     {
       "time": "2026-10-23T22:09:37.775Z",
       "fans": 6777636
+    },
+    {
+      "time": "2026-10-24T00:40:26.489Z",
+      "fans": 6778348
     }
   ],
   "videos": [
+    {
+      "aid": 117489115600512,
+      "bvid": "BV14Enb6LEDe",
+      "ctime": 1792742030,
+      "pubdate": 1792746000,
+      "duration": 386,
+      "pic": "http://i0.hdslb.com/bfs/archive/87f06529220d95eba6316614124a1732983fa14d.jpg",
+      "title": "人工耳蜗里的声音，到底是什么样的？",
+      "recorded_at": "2026-10-24T00:40:26.489Z"
+    },
     {
       "aid": 117449655588737,
       "bvid": "BV17YJX6FE6F",
