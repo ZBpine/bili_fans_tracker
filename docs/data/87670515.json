@@ -5,10 +5,10 @@
     "sign": "户外徒步、登山、骑行、越野、洞潜故事！",
     "level": 6,
     "archive_count": 495,
-    "like_num": 12718969,
+    "like_num": 12759606,
     "following": 52,
     "official_title": "神秘园官方账号",
-    "updated": "2026-10-24T00:40:26.489Z"
+    "updated": "2026-10-25T06:04:59.089Z"
   },
   "records": [
     {
@@ -450,9 +450,23 @@
     {
       "time": "2026-10-25T01:08:48.647Z",
       "fans": 2853868
+    },
+    {
+      "time": "2026-10-25T06:04:59.089Z",
+      "fans": 2861717
     }
   ],
   "videos": [
+    {
+      "aid": 117495339943841,
+      "bvid": "BV1DqHK6oEu9",
+      "ctime": 1792837136,
+      "pubdate": 1792843200,
+      "duration": 953,
+      "pic": "http://i2.hdslb.com/bfs/archive/1052e4bdcbcbc7375cbf75b331be9fca2c722372.jpg",
+      "title": "羌塘无人区失踪一年多后，自行车意外被人发现，李聪明",
+      "recorded_at": "2026-10-25T06:04:59.089Z"
+    },
     {
       "aid": 117438196745822,
       "bvid": "BV14JpC6ZE3U",

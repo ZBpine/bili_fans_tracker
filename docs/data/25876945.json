@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 645,
-    "like_num": 36380367,
+    "archive_count": 646,
+    "like_num": 36394338,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-10-24T10:53:21.750Z"
+    "updated": "2026-10-25T06:04:59.089Z"
   },
   "records": [
     {
@@ -890,9 +890,23 @@
     {
       "time": "2026-10-25T01:08:48.647Z",
       "fans": 5625650
+    },
+    {
+      "time": "2026-10-25T06:04:59.089Z",
+      "fans": 5626054
     }
   ],
   "videos": [
+    {
+      "aid": 117496279600348,
+      "bvid": "BV1fiHN6zEfx",
+      "ctime": 1792851345,
+      "pubdate": 1792851345,
+      "duration": 332,
+      "pic": "http://i2.hdslb.com/bfs/archive/9fccde2a503ff2263576e4cb8e96e7ecc0ec3bbc.jpg",
+      "title": "小米电视 S Pro 2027上手体验：性价比RGB mini-LED电视",
+      "recorded_at": "2026-10-25T06:04:59.089Z"
+    },
     {
       "aid": 117482908093388,
       "bvid": "BV11Un16fERV",

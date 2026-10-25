@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/ae439693d6fd79a55b1b5f935ed6474ae6fba35b.jpg",
     "sign": "纪录片导演，极限旅行家，国家一级登山运动员，自由潜运动员，滑翔伞飞行员，水下摄影师，B站知名孩子王",
     "level": 6,
-    "archive_count": 683,
-    "like_num": 17585122,
+    "archive_count": 684,
+    "like_num": 17613822,
     "following": 706,
     "official_title": "2023年度弹幕人气、知名UP主、直播高能主播",
-    "updated": "2026-10-24T05:47:51.324Z"
+    "updated": "2026-10-25T06:04:59.089Z"
   },
   "records": [
     {
@@ -882,9 +882,23 @@
     {
       "time": "2026-10-25T01:08:48.647Z",
       "fans": 3171584
+    },
+    {
+      "time": "2026-10-25T06:04:59.089Z",
+      "fans": 3174076
     }
   ],
   "videos": [
+    {
+      "aid": 117498829608229,
+      "bvid": "BV16TH36XEQz",
+      "ctime": 1792890212,
+      "pubdate": 1792890211,
+      "duration": 1531,
+      "pic": "http://i1.hdslb.com/bfs/archive/b2cdea5994cb4143676a617f88187ab40f37a8cd.jpg",
+      "title": "峰哥在马驹桥体验做日结的一天",
+      "recorded_at": "2026-10-25T06:04:59.089Z"
+    },
     {
       "aid": 117433952178452,
       "bvid": "BV1Qcpq62Eak",
