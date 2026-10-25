@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 84,
-    "like_num": 1118310,
+    "archive_count": 85,
+    "like_num": 1119062,
     "following": 159,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-24T14:29:17.566Z"
+    "updated": "2026-10-25T11:19:52.450Z"
   },
   "records": [
     {
@@ -790,9 +790,23 @@
     {
       "time": "2026-10-25T06:04:59.089Z",
       "fans": 469046
+    },
+    {
+      "time": "2026-10-25T11:19:52.450Z",
+      "fans": 469072
     }
   ],
   "videos": [
+    {
+      "aid": 117500490549511,
+      "bvid": "BV15ZH36UEBg",
+      "ctime": 1792915489,
+      "pubdate": 1792915873,
+      "duration": 435,
+      "pic": "http://i2.hdslb.com/bfs/archive/47fa0ebaf0604e2c9a0a1cbf07e62e6d1ff1eed1.jpg",
+      "title": "【闪客】当你对一个超大参数的模型进行后训练之后？Kimi K3.1 Pro 诞生！",
+      "recorded_at": "2026-10-25T11:19:52.450Z"
+    },
     {
       "aid": 117439740248973,
       "bvid": "BV1sapm6KE2q",
