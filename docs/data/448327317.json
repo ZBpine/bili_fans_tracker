@@ -5,10 +5,10 @@
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
     "archive_count": 32,
-    "like_num": 1255441,
+    "like_num": 1255617,
     "following": 72,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-26T00:18:48.382Z"
+    "updated": "2026-10-26T23:50:15.482Z"
   },
   "records": [
     {
@@ -894,9 +894,23 @@
     {
       "time": "2026-10-26T19:14:59.344Z",
       "fans": 249078
+    },
+    {
+      "time": "2026-10-26T23:50:15.482Z",
+      "fans": 249089
     }
   ],
   "videos": [
+    {
+      "aid": 117505657995770,
+      "bvid": "BV1Zrn96iEgN",
+      "ctime": 1792994739,
+      "pubdate": 1793008800,
+      "duration": 519,
+      "pic": "http://i1.hdslb.com/bfs/archive/909123e90caca64fbe3a35846f386961379499e7.jpg",
+      "title": "法国人怎么老是造反？聊聊法国大革命。",
+      "recorded_at": "2026-10-26T23:50:15.482Z"
+    },
     {
       "aid": 117494517926533,
       "bvid": "BV1KkHP62ETs",
