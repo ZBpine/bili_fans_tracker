@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 618,
-    "like_num": 9189580,
+    "archive_count": 619,
+    "like_num": 9194120,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-26T06:08:27.219Z"
+    "updated": "2026-10-26T19:14:59.344Z"
   },
   "records": [
     {
@@ -914,9 +914,23 @@
     {
       "time": "2026-10-26T12:55:26.351Z",
       "fans": 736021
+    },
+    {
+      "time": "2026-10-26T19:14:59.344Z",
+      "fans": 736013
     }
   ],
   "videos": [
+    {
+      "aid": 117507235056553,
+      "bvid": "BV1FCnZ6QELb",
+      "ctime": 1793018616,
+      "pubdate": 1793019460,
+      "duration": 971,
+      "pic": "http://i1.hdslb.com/bfs/archive/71b1ba5e8cf9bf62024644e248215b60f8d5f6bc.jpg",
+      "title": "【参考信息第665期】随份子最多一百；社保扩大收入差距",
+      "recorded_at": "2026-10-26T19:14:59.344Z"
+    },
     {
       "aid": 117495860037602,
       "bvid": "BV1gdHN6dEat",
