@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/6d7c9ef4e2d3147528c5d161f51bf5d604568de1.jpg",
     "sign": "分享科学的快乐和美！\n小号:毕导\n商务联系：s1012295607",
     "level": 6,
-    "archive_count": 169,
-    "like_num": 20873292,
+    "archive_count": 170,
+    "like_num": 20905587,
     "following": 57,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-26T00:18:48.382Z"
+    "updated": "2026-10-27T04:58:27.030Z"
   },
   "records": [
     {
@@ -826,9 +826,23 @@
     {
       "time": "2026-10-26T23:50:15.482Z",
       "fans": 2568220
+    },
+    {
+      "time": "2026-10-27T04:58:27.030Z",
+      "fans": 2568378
     }
   ],
   "videos": [
+    {
+      "aid": 117506614303651,
+      "bvid": "BV1nFnd6VEJE",
+      "ctime": 1793009193,
+      "pubdate": 1793009519,
+      "duration": 257,
+      "pic": "http://i1.hdslb.com/bfs/archive/6c8cf01cfdf7e7685cd3630743ea2486441b9ad6.jpg",
+      "title": "大科学家越来越少，这是错觉吗？除了牛顿你还知道谁",
+      "recorded_at": "2026-10-27T04:58:27.030Z"
+    },
     {
       "aid": 117488427735784,
       "bvid": "BV1J8n46FEhy",
