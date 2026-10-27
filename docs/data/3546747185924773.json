@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 70,
-    "like_num": 166359,
+    "archive_count": 71,
+    "like_num": 169089,
     "following": 21,
     "official_title": "",
-    "updated": "2026-10-27T04:58:27.030Z"
+    "updated": "2026-10-27T16:34:48.726Z"
   },
   "records": [
     {
@@ -882,9 +882,23 @@
     {
       "time": "2026-10-27T10:30:04.377Z",
       "fans": 42529
+    },
+    {
+      "time": "2026-10-27T16:34:48.726Z",
+      "fans": 42677
     }
   ],
   "videos": [
+    {
+      "aid": 117512872269459,
+      "bvid": "BV1tPxg6rEfE",
+      "ctime": 1793104526,
+      "pubdate": 1793104525,
+      "duration": 857,
+      "pic": "http://i0.hdslb.com/bfs/archive/043d4fc37aead175b4a45f924d0561c57d167758.jpg",
+      "title": "中美AI一哥，力争屎山八强｜D组第三轮",
+      "recorded_at": "2026-10-27T16:34:48.726Z"
+    },
     {
       "aid": 117497487432578,
       "bvid": "BV1j9Hu6CEMx",

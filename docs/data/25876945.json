@@ -5,10 +5,10 @@
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
     "archive_count": 647,
-    "like_num": 36461876,
+    "like_num": 36556251,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-10-26T23:50:15.482Z"
+    "updated": "2026-10-27T16:34:48.726Z"
   },
   "records": [
     {
@@ -938,9 +938,23 @@
     {
       "time": "2026-10-27T10:30:04.377Z",
       "fans": 5629326
+    },
+    {
+      "time": "2026-10-27T16:34:48.726Z",
+      "fans": 5633346
     }
   ],
   "videos": [
+    {
+      "aid": 117511731285323,
+      "bvid": "BV1kMxM6FECM",
+      "ctime": 1793087130,
+      "pubdate": 1793087129,
+      "duration": 3435,
+      "pic": "http://i1.hdslb.com/bfs/archive/a5504c58614fd9d4890ab2fa11d50b49dd303fcc.jpg",
+      "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
+      "recorded_at": "2026-10-27T16:34:48.726Z"
+    },
     {
       "aid": 117496279600348,
       "bvid": "BV1fiHN6zEfx",
