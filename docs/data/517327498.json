@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
     "sign": "工作邮箱：xfluoxiang@hotmail.com",
     "level": 6,
-    "archive_count": 505,
-    "like_num": 100687263,
+    "archive_count": 506,
+    "like_num": 100701770,
     "following": 19,
     "official_title": "2025百大UP主、中国政法大学教授、2020年度最高人气UP主",
-    "updated": "2026-10-27T04:58:27.030Z"
+    "updated": "2026-10-28T08:24:35.585Z"
   },
   "records": [
     {
@@ -846,9 +846,23 @@
     {
       "time": "2026-10-28T01:17:52.180Z",
       "fans": 32185638
+    },
+    {
+      "time": "2026-10-28T08:24:35.585Z",
+      "fans": 32184404
     }
   ],
   "videos": [
+    {
+      "aid": 117515522936855,
+      "bvid": "BV1yjxG6gE4G",
+      "ctime": 1793144634,
+      "pubdate": 1793156400,
+      "duration": 109,
+      "pic": "http://i2.hdslb.com/bfs/archive/f67b71746f33abcbbe2cc7bd94c6b693a3110406.jpg",
+      "title": "【罗翔】飞机上有点小随想，我也试试AI视频。",
+      "recorded_at": "2026-10-28T08:24:35.585Z"
+    },
     {
       "aid": 117487052001473,
       "bvid": "BV1Acnx6cEqm",

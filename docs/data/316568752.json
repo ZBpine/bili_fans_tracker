@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/1c56737dfc0deffffc31c78e0cefb0c3ecf7e000.jpg",
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
-    "archive_count": 1045,
-    "like_num": 43059042,
+    "archive_count": 1046,
+    "like_num": 43079747,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-27T04:58:27.030Z"
+    "updated": "2026-10-28T08:24:35.585Z"
   },
   "records": [
     {
@@ -4578,9 +4578,23 @@
     {
       "time": "2026-10-28T01:17:52.180Z",
       "fans": 2192689
+    },
+    {
+      "time": "2026-10-28T08:24:35.585Z",
+      "fans": 2192851
     }
   ],
   "videos": [
+    {
+      "aid": 117512486394612,
+      "bvid": "BV1JHxg6FE2c",
+      "ctime": 1793098794,
+      "pubdate": 1793098962,
+      "duration": 1196,
+      "pic": "http://i0.hdslb.com/bfs/archive/9a1bbece09b1e3eda622875a17f0a33a8af60230.jpg",
+      "title": "【睡前消息1123】能输出革命，才能卖LV包",
+      "recorded_at": "2026-10-28T08:24:35.585Z"
+    },
     {
       "aid": 117501631404816,
       "bvid": "BV1JRHV6bEsa",
