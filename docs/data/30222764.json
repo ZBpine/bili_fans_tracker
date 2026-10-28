@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/8991695154e980e8986b35a78e44bf52c8173b06.jpg",
     "sign": "商务合作vx：LowenAt｜生活给我开了很多玩笑，但我都绷住了。",
     "level": 6,
-    "archive_count": 119,
-    "like_num": 29602224,
+    "archive_count": 120,
+    "like_num": 29612687,
     "following": 520,
     "official_title": "",
-    "updated": "2026-10-27T10:30:04.377Z"
+    "updated": "2026-10-28T15:58:38.428Z"
   },
   "records": [
     {
@@ -850,9 +850,23 @@
     {
       "time": "2026-10-28T08:24:35.585Z",
       "fans": 2116778
+    },
+    {
+      "time": "2026-10-28T15:58:38.428Z",
+      "fans": 2116968
     }
   ],
   "videos": [
+    {
+      "aid": 117513073464934,
+      "bvid": "BV1uHxu6gEuU",
+      "ctime": 1793107401,
+      "pubdate": 1793107401,
+      "duration": 125,
+      "pic": "http://i1.hdslb.com/bfs/archive/df14231adc5ad525262059f6aa2cac1876d43b7f.jpg",
+      "title": "别舔了别舔了...",
+      "recorded_at": "2026-10-28T15:58:38.428Z"
+    },
     {
       "aid": 117398904510387,
       "bvid": "BV1eEHC6vE2v",

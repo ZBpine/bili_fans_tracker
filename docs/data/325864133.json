@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 85,
-    "like_num": 1125801,
-    "following": 162,
+    "archive_count": 86,
+    "like_num": 1127309,
+    "following": 164,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-27T16:34:48.726Z"
+    "updated": "2026-10-28T15:58:38.428Z"
   },
   "records": [
     {
@@ -850,9 +850,23 @@
     {
       "time": "2026-10-28T08:24:35.585Z",
       "fans": 469704
+    },
+    {
+      "time": "2026-10-28T15:58:38.428Z",
+      "fans": 469822
     }
   ],
   "videos": [
+    {
+      "aid": 117516848335196,
+      "bvid": "BV1hmxj6vEYa",
+      "ctime": 1793164992,
+      "pubdate": 1793164991,
+      "duration": 830,
+      "pic": "http://i1.hdslb.com/bfs/archive/c805c01739fdf99fa9c08175390e98725d0807b7.jpg",
+      "title": "【闪客】你管这破玩意叫 Lean？为什么它能保证绝对正确",
+      "recorded_at": "2026-10-28T15:58:38.428Z"
+    },
     {
       "aid": 117500490549511,
       "bvid": "BV15ZH36UEBg",

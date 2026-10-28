@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 647,
-    "like_num": 36584150,
+    "archive_count": 648,
+    "like_num": 36672878,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-10-28T01:17:52.180Z"
+    "updated": "2026-10-28T15:58:38.428Z"
   },
   "records": [
     {
@@ -954,9 +954,23 @@
     {
       "time": "2026-10-28T08:24:35.585Z",
       "fans": 5640023
+    },
+    {
+      "time": "2026-10-28T15:58:38.428Z",
+      "fans": 5644188
     }
   ],
   "videos": [
+    {
+      "aid": 117518005960865,
+      "bvid": "BV1ikxE62EVP",
+      "ctime": 1793183223,
+      "pubdate": 1793184097,
+      "duration": 1020,
+      "pic": "http://i1.hdslb.com/bfs/archive/f4aed6ada4c29882f78842492fab344dac840599.jpg",
+      "title": "RTX Spark性能实测：NVIDIA第一款PC SoC表现如何",
+      "recorded_at": "2026-10-28T15:58:38.428Z"
+    },
     {
       "aid": 117511731285323,
       "bvid": "BV1kMxM6FECM",
