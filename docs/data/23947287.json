@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/ecb990b965898d9cb3a9f651a15d91f64f51d59a.jpg",
     "sign": "这个人很神秘，什么都没有鸽鸽鸽鸽鸽",
     "level": 6,
-    "archive_count": 266,
-    "like_num": 89860452,
+    "archive_count": 267,
+    "like_num": 89891523,
     "following": 409,
     "official_title": "2025百大UP主、2025年度最高人气奖UP主、2023年度商业影响力奖UP主",
-    "updated": "2026-10-28T08:24:35.585Z"
+    "updated": "2026-10-29T14:14:01.136Z"
   },
   "records": [
     {
@@ -866,9 +866,23 @@
     {
       "time": "2026-10-29T07:01:09.975Z",
       "fans": 10948266
+    },
+    {
+      "time": "2026-10-29T14:14:01.136Z",
+      "fans": 10948690
     }
   ],
   "videos": [
+    {
+      "aid": 117521898344473,
+      "bvid": "BV1ocsd6jErz",
+      "ctime": 1793242266,
+      "pubdate": 1793242800,
+      "duration": 2209,
+      "pic": "http://i1.hdslb.com/bfs/archive/7778c081cfc11f68f2ea6ca5ef786f5f8a6f4f18.jpg",
+      "title": "韦维尔的疯人院  英属印度·1914",
+      "recorded_at": "2026-10-29T14:14:01.136Z"
+    },
     {
       "aid": 117466399252185,
       "bvid": "BV1Vbnn6iEfG",

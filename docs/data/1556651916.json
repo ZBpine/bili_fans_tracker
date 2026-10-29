@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 619,
-    "like_num": 9199768,
+    "archive_count": 620,
+    "like_num": 9202165,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-29T00:52:40.900Z"
+    "updated": "2026-10-29T14:14:01.136Z"
   },
   "records": [
     {
@@ -962,9 +962,23 @@
     {
       "time": "2026-10-29T07:01:09.975Z",
       "fans": 735978
+    },
+    {
+      "time": "2026-10-29T14:14:01.136Z",
+      "fans": 735979
     }
   ],
   "videos": [
+    {
+      "aid": 117524263994913,
+      "bvid": "BV1ETxw6qEgh",
+      "ctime": 1793278277,
+      "pubdate": 1793278277,
+      "duration": 1017,
+      "pic": "http://i1.hdslb.com/bfs/archive/b34582331bd4fc2713d5087c868af820d7ffff6f.jpg",
+      "title": "【参考信息第666期】眉山依靠成都；海南山西垫底",
+      "recorded_at": "2026-10-29T14:14:01.136Z"
+    },
     {
       "aid": 117507235056553,
       "bvid": "BV1FCnZ6QELb",

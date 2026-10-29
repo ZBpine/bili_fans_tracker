@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 196,
-    "like_num": 22109892,
+    "archive_count": 197,
+    "like_num": 22114678,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-28T15:58:38.428Z"
+    "updated": "2026-10-29T14:14:01.136Z"
   },
   "records": [
     {
@@ -970,9 +970,23 @@
     {
       "time": "2026-10-29T07:01:09.975Z",
       "fans": 2349843
+    },
+    {
+      "time": "2026-10-29T14:14:01.136Z",
+      "fans": 2349821
     }
   ],
   "videos": [
+    {
+      "aid": 117523206963430,
+      "bvid": "BV12txF65Ety",
+      "ctime": 1793262966,
+      "pubdate": 1793268000,
+      "duration": 3835,
+      "pic": "http://i0.hdslb.com/bfs/archive/73b77e6bca2bd91d355d9bb9190e5a3561b51056.jpg",
+      "title": "耿同学x赤石神殿｜我是如何在科研圈活下来的？",
+      "recorded_at": "2026-10-29T14:14:01.136Z"
+    },
     {
       "aid": 117478243961224,
       "bvid": "BV1pynz6MEVx",
