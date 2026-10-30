@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/1c56737dfc0deffffc31c78e0cefb0c3ecf7e000.jpg",
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
-    "archive_count": 1046,
-    "like_num": 43085785,
+    "archive_count": 1047,
+    "like_num": 43096007,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-29T14:14:01.136Z"
+    "updated": "2026-10-30T19:18:46.664Z"
   },
   "records": [
     {
@@ -4618,9 +4618,23 @@
     {
       "time": "2026-10-30T14:04:54.764Z",
       "fans": 2193276
+    },
+    {
+      "time": "2026-10-30T19:18:46.664Z",
+      "fans": 2193319
     }
   ],
   "videos": [
+    {
+      "aid": 117529968188259,
+      "bvid": "BV1vZxi68E2p",
+      "ctime": 1793365883,
+      "pubdate": 1793366023,
+      "duration": 1833,
+      "pic": "http://i0.hdslb.com/bfs/archive/4df04488a4236c73460e6bab1bb6fcb961e93a7d.jpg",
+      "title": "【睡前消息1124】赶走711 断供盾构机",
+      "recorded_at": "2026-10-30T19:18:46.664Z"
+    },
     {
       "aid": 117512486394612,
       "bvid": "BV1JHxg6FE2c",
