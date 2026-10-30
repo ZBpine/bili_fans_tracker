@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/cc5032160bebc5ab639182dc3c61b40c5affa857.jpg",
     "sign": "商务请加v：wanshito99\n文案在公公呺",
     "level": 6,
-    "archive_count": 60,
-    "like_num": 1813117,
-    "following": 1094,
+    "archive_count": 61,
+    "like_num": 1827472,
+    "following": 1095,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-29T07:01:09.975Z"
+    "updated": "2026-10-30T07:03:44.384Z"
   },
   "records": [
     {
@@ -1354,9 +1354,23 @@
     {
       "time": "2026-10-30T00:56:29.723Z",
       "fans": 359124
+    },
+    {
+      "time": "2026-10-30T07:03:44.384Z",
+      "fans": 360690
     }
   ],
   "videos": [
+    {
+      "aid": 117523727122446,
+      "bvid": "BV186sf67ELi",
+      "ctime": 1793270002,
+      "pubdate": 1793270001,
+      "duration": 1916,
+      "pic": "http://i0.hdslb.com/bfs/archive/c79dca3921e6cc745d260c7daef7eb831c7497de.jpg",
+      "title": "大萧条造就了希特勒，今天的失业会造就什么？",
+      "recorded_at": "2026-10-30T07:03:44.384Z"
+    },
     {
       "aid": 117159611139239,
       "bvid": "BV12j8X6TEKn",
