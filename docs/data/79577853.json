@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/d202a8d50beb1670bff9c65c359fc7d2c5da9408.jpg",
     "sign": "研究这个时代的内容、生意、游戏和荒谬。   商务合作v：znlz1234567 ",
     "level": 6,
-    "archive_count": 392,
-    "like_num": 21439986,
+    "archive_count": 394,
+    "like_num": 21443095,
     "following": 392,
     "official_title": "2024百大UP主、知名UP主",
-    "updated": "2026-10-30T07:03:44.384Z"
+    "updated": "2026-10-30T23:43:01.917Z"
   },
   "records": [
     {
@@ -4622,9 +4622,33 @@
     {
       "time": "2026-10-30T19:18:46.664Z",
       "fans": 4295899
+    },
+    {
+      "time": "2026-10-30T23:43:01.917Z",
+      "fans": 4295873
     }
   ],
   "videos": [
+    {
+      "aid": 117530806979550,
+      "bvid": "BV1VPxz6PEMc",
+      "ctime": 1793379480,
+      "pubdate": 1793379479,
+      "duration": 18023,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】影之刃零最高难度day2 死了抽100 2026年10月30日19点场",
+      "recorded_at": "2026-10-30T23:43:01.917Z"
+    },
+    {
+      "aid": 117528777001722,
+      "bvid": "BV1PRxv6CEXi",
+      "ctime": 1793348335,
+      "pubdate": 1793348334,
+      "duration": 20057,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】影之刃零最高难度day2 死了抽100 2026年10月30日10点场",
+      "recorded_at": "2026-10-30T23:43:01.917Z"
+    },
     {
       "aid": 117524951730016,
       "bvid": "BV1obxc6aEVH",

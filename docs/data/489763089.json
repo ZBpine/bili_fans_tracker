@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/6d7c9ef4e2d3147528c5d161f51bf5d604568de1.jpg",
     "sign": "分享科学的快乐和美！\n小号:毕导\n商务联系：s1012295607",
     "level": 6,
-    "archive_count": 170,
-    "like_num": 20938977,
+    "archive_count": 171,
+    "like_num": 21090360,
     "following": 57,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-29T20:15:30.393Z"
+    "updated": "2026-10-30T23:43:01.917Z"
   },
   "records": [
     {
@@ -890,9 +890,23 @@
     {
       "time": "2026-10-30T19:18:46.664Z",
       "fans": 2584193
+    },
+    {
+      "time": "2026-10-30T23:43:01.917Z",
+      "fans": 2585249
     }
   ],
   "videos": [
+    {
+      "aid": 117524616255093,
+      "bvid": "BV15vxc6bEZz",
+      "ctime": 1793283676,
+      "pubdate": 1793329495,
+      "duration": 248,
+      "pic": "http://i2.hdslb.com/bfs/archive/af119f7c162a91c1ffbadc8f81f21c12b2690ace.jpg",
+      "title": "透明的镜片居然有影子？观众的问题让我脑洞大开！",
+      "recorded_at": "2026-10-30T23:43:01.917Z"
+    },
     {
       "aid": 117506614303651,
       "bvid": "BV1nFnd6VEJE",

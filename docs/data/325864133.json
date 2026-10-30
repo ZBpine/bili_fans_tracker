@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 86,
-    "like_num": 1128357,
+    "archive_count": 87,
+    "like_num": 1129868,
     "following": 165,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-30T07:03:44.384Z"
+    "updated": "2026-10-30T23:43:01.917Z"
   },
   "records": [
     {
@@ -890,9 +890,23 @@
     {
       "time": "2026-10-30T19:18:46.664Z",
       "fans": 470282
+    },
+    {
+      "time": "2026-10-30T23:43:01.917Z",
+      "fans": 470331
     }
   ],
   "videos": [
+    {
+      "aid": 117530119110789,
+      "bvid": "BV1uMxq6XEW1",
+      "ctime": 1793367690,
+      "pubdate": 1793367690,
+      "duration": 905,
+      "pic": "http://i2.hdslb.com/bfs/archive/09ac1a9bfe6ebaacead83193af3a4858a30fbc64.jpg",
+      "title": "【闪客】见证历史！ETH 被 AI 证伪代表了什么？深入解读目前为止最震撼的猜想推翻！",
+      "recorded_at": "2026-10-30T23:43:01.917Z"
+    },
     {
       "aid": 117516848335196,
       "bvid": "BV1hmxj6vEYa",
