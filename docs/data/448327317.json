@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 32,
-    "like_num": 1262757,
+    "archive_count": 33,
+    "like_num": 1264353,
     "following": 72,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-29T14:14:01.136Z"
+    "updated": "2026-10-30T14:04:54.764Z"
   },
   "records": [
     {
@@ -954,9 +954,23 @@
     {
       "time": "2026-10-30T07:03:44.384Z",
       "fans": 250110
+    },
+    {
+      "time": "2026-10-30T14:04:54.764Z",
+      "fans": 250234
     }
   ],
   "videos": [
+    {
+      "aid": 117529095703743,
+      "bvid": "BV1gcxv6SEKj",
+      "ctime": 1793352001,
+      "pubdate": 1793359800,
+      "duration": 1069,
+      "pic": "http://i1.hdslb.com/bfs/archive/117a9c4ff1fc3483cc49dbe32ea50bac175ae7b2.jpg",
+      "title": "思维能力测试，18个逻辑谬误你中几个？",
+      "recorded_at": "2026-10-30T14:04:54.764Z"
+    },
     {
       "aid": 117505657995770,
       "bvid": "BV1Zrn96iEgN",
