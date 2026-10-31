@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/726060100f7b80f3ab17889aa9fb8f380a53b9da.jpg",
     "sign": "人工智能博士，喜欢钻研和分享知识，日常思索和科普\n小号@漫谈人文，商务请联系manshishangwu，并说明来意",
     "level": 6,
-    "archive_count": 154,
-    "like_num": 6205898,
+    "archive_count": 155,
+    "like_num": 6224414,
     "following": 315,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-30T07:03:44.384Z"
+    "updated": "2026-10-31T12:19:37.261Z"
   },
   "records": [
     {
@@ -994,9 +994,23 @@
     {
       "time": "2026-10-31T05:34:21.619Z",
       "fans": 1521051
+    },
+    {
+      "time": "2026-10-31T12:19:37.261Z",
+      "fans": 1522390
     }
   ],
   "videos": [
+    {
+      "aid": 117533457781213,
+      "bvid": "BV1Ntxr6xE7Y",
+      "ctime": 1793418817,
+      "pubdate": 1793418817,
+      "duration": 4223,
+      "pic": "http://i1.hdslb.com/bfs/archive/e9ec866844e65aafdea59260e181dfa65962c11c.jpg",
+      "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
+      "recorded_at": "2026-10-31T12:19:37.261Z"
+    },
     {
       "aid": 117398401194030,
       "bvid": "BV1ANpM6HEHU",
