@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/25ca3b7639e6e5ecdb9078d5921efe462223a2a5.jpg",
     "sign": "正经社科频道！每周随机不定期直播~商务合作v：YEJUNXshi（辛苦备注来意，平台入驻勿扰）",
     "level": 6,
-    "archive_count": 54,
-    "like_num": 1603290,
+    "archive_count": 55,
+    "like_num": 1608346,
     "following": 828,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-30T00:56:29.723Z"
+    "updated": "2026-10-31T05:34:21.619Z"
   },
   "records": [
     {
@@ -4218,9 +4218,23 @@
     {
       "time": "2026-10-30T23:43:01.917Z",
       "fans": 273194
+    },
+    {
+      "time": "2026-10-31T05:34:21.619Z",
+      "fans": 273285
     }
   ],
   "videos": [
+    {
+      "aid": 117532669253298,
+      "bvid": "BV1NWxz6nEjN",
+      "ctime": 1793406638,
+      "pubdate": 1793412000,
+      "duration": 958,
+      "pic": "http://i2.hdslb.com/bfs/archive/76318aa53fed611795c2c808446a4aef25412bff.jpg",
+      "title": "养大肥鱼是因为缺爱吗？为什么我们如此爱压抑？",
+      "recorded_at": "2026-10-31T05:34:21.619Z"
+    },
     {
       "aid": 117488931051347,
       "bvid": "BV1jrnb68Eud",

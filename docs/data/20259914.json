@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/cb9ef82714507e6bda707dac216da94c97d70037.jpg",
     "sign": "保持热爱，奔赴星海。",
     "level": 6,
-    "archive_count": 61,
-    "like_num": 5576389,
+    "archive_count": 62,
+    "like_num": 5576740,
     "following": 264,
     "official_title": "bilibili 2021百大UP主、知名科技UP主",
-    "updated": "2026-10-28T01:17:52.180Z"
+    "updated": "2026-10-31T05:34:21.619Z"
   },
   "records": [
     {
@@ -894,9 +894,23 @@
     {
       "time": "2026-10-30T23:43:01.917Z",
       "fans": 2834786
+    },
+    {
+      "time": "2026-10-31T05:34:21.619Z",
+      "fans": 2834773
     }
   ],
   "videos": [
+    {
+      "aid": 117527686416174,
+      "bvid": "BV1aExe6EEN6",
+      "ctime": 1793331243,
+      "pubdate": 1793331243,
+      "duration": 13782,
+      "pic": "http://i0.hdslb.com/bfs/archive/9dade336ed6edc650f66b6dc875016e208abde61.jpg",
+      "title": "【直播回放】2026 智元创新日 2026年10月29日09点场",
+      "recorded_at": "2026-10-31T05:34:21.619Z"
+    },
     {
       "aid": 116882300472696,
       "bvid": "BV11VMq6qEFA",
