@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/d64642c27da984831f3511c828fc3858ca441709.jpg",
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
-    "archive_count": 87,
-    "like_num": 1129868,
+    "archive_count": 88,
+    "like_num": 1132019,
     "following": 165,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-10-30T23:43:01.917Z"
+    "updated": "2026-10-31T17:41:27.699Z"
   },
   "records": [
     {
@@ -902,9 +902,23 @@
     {
       "time": "2026-10-31T12:19:37.261Z",
       "fans": 470648
+    },
+    {
+      "time": "2026-10-31T17:41:27.699Z",
+      "fans": 470681
     }
   ],
   "videos": [
+    {
+      "aid": 117536007916026,
+      "bvid": "BV1eaxy6JE7t",
+      "ctime": 1793457904,
+      "pubdate": 1793457903,
+      "duration": 2894,
+      "pic": "http://i1.hdslb.com/bfs/archive/0006a68e8221f76658043ea0e0a998a90a9442e7.jpg",
+      "title": "【一飞冲天】快速发展的时代我们该怎么办？线下分享全程实录含问答环节～",
+      "recorded_at": "2026-10-31T17:41:27.699Z"
+    },
     {
       "aid": 117530119110789,
       "bvid": "BV1uMxq6XEW1",

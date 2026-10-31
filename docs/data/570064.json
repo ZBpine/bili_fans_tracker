@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 384,
-    "like_num": 22976064,
+    "archive_count": 385,
+    "like_num": 22982729,
     "following": 655,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-31T05:34:21.619Z"
+    "updated": "2026-10-31T17:41:27.699Z"
   },
   "records": [
     {
@@ -902,9 +902,23 @@
     {
       "time": "2026-10-31T12:19:37.261Z",
       "fans": 2112968
+    },
+    {
+      "time": "2026-10-31T17:41:27.699Z",
+      "fans": 2112941
     }
   ],
   "videos": [
+    {
+      "aid": 117535437495143,
+      "bvid": "BV1T8x166Esr",
+      "ctime": 1793449588,
+      "pubdate": 1793449588,
+      "duration": 1330,
+      "pic": "http://i2.hdslb.com/bfs/archive/78bd586696f07442367c349ebe8e2a44f5d1530c.jpg",
+      "title": "【改革开放史】1979：知青大返城，全民学英语",
+      "recorded_at": "2026-10-31T17:41:27.699Z"
+    },
     {
       "aid": 117495021181864,
       "bvid": "BV1GDHA6HEHu",
