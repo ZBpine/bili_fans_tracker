@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 620,
-    "like_num": 9208290,
+    "archive_count": 621,
+    "like_num": 9212184,
     "following": 43,
     "official_title": "",
-    "updated": "2026-10-31T12:19:37.261Z"
+    "updated": "2026-10-31T21:29:35.346Z"
   },
   "records": [
     {
@@ -1002,9 +1002,23 @@
     {
       "time": "2026-10-31T17:41:27.699Z",
       "fans": 735929
+    },
+    {
+      "time": "2026-10-31T21:29:35.346Z",
+      "fans": 735925
     }
   ],
   "videos": [
+    {
+      "aid": 117535571839434,
+      "bvid": "BV1P9xy6KE3X",
+      "ctime": 1793450924,
+      "pubdate": 1793451174,
+      "duration": 1057,
+      "pic": "http://i1.hdslb.com/bfs/archive/4ea6d2364dbaa706371291275941564c3f0cd302.jpg",
+      "title": "【参考信息第667期】千元股大逃杀；谁都冒充警察",
+      "recorded_at": "2026-10-31T21:29:35.346Z"
+    },
     {
       "aid": 117524263994913,
       "bvid": "BV1ETxw6qEgh",
