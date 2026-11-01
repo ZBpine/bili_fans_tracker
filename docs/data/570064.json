@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 385,
-    "like_num": 22988374,
-    "following": 655,
+    "archive_count": 386,
+    "like_num": 23006712,
+    "following": 656,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-01T07:29:18.368Z"
+    "updated": "2026-11-01T19:37:48.691Z"
   },
   "records": [
     {
@@ -922,9 +922,23 @@
     {
       "time": "2026-11-01T15:03:46.670Z",
       "fans": 2113276
+    },
+    {
+      "time": "2026-11-01T19:37:48.691Z",
+      "fans": 2113351
     }
   ],
   "videos": [
+    {
+      "aid": 117540655208125,
+      "bvid": "BV1fVx46BET9",
+      "ctime": 1793528919,
+      "pubdate": 1793528919,
+      "duration": 582,
+      "pic": "http://i1.hdslb.com/bfs/archive/b77aa5341f37c9a02db08c7c06c438d83345a5ed.jpg",
+      "title": "土地财政狂跌不止，中国经济吃什么？",
+      "recorded_at": "2026-11-01T19:37:48.691Z"
+    },
     {
       "aid": 117535437495143,
       "bvid": "BV1T8x166Esr",
