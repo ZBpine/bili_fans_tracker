@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/8991695154e980e8986b35a78e44bf52c8173b06.jpg",
     "sign": "商务合作vx：LowenAt｜生活给我开了很多玩笑，但我都绷住了。",
     "level": 6,
-    "archive_count": 120,
-    "like_num": 29632207,
+    "archive_count": 121,
+    "like_num": 29642448,
     "following": 520,
     "official_title": "",
-    "updated": "2026-10-30T23:43:01.917Z"
+    "updated": "2026-11-01T01:06:53.382Z"
   },
   "records": [
     {
@@ -910,9 +910,23 @@
     {
       "time": "2026-10-31T21:29:35.346Z",
       "fans": 2117446
+    },
+    {
+      "time": "2026-11-01T01:06:53.382Z",
+      "fans": 2117431
     }
   ],
   "videos": [
+    {
+      "aid": 117535454271358,
+      "bvid": "BV1Mbx163Exi",
+      "ctime": 1793449192,
+      "pubdate": 1793449192,
+      "duration": 136,
+      "pic": "http://i1.hdslb.com/bfs/archive/d9499382dea0a265519cb771e23e58c5555f813e.jpg",
+      "title": "沙 县 爱 情 故 事",
+      "recorded_at": "2026-11-01T01:06:53.382Z"
+    },
     {
       "aid": 117513073464934,
       "bvid": "BV1uHxu6gEuU",
