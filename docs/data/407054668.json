@@ -5,10 +5,10 @@
     "sign": "我们不是科普，我们与你一起发现",
     "level": 6,
     "archive_count": 100,
-    "like_num": 35098037,
+    "like_num": 35126685,
     "following": 60,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-31T05:34:21.619Z"
+    "updated": "2026-11-01T07:29:18.368Z"
   },
   "records": [
     {
@@ -578,6 +578,10 @@
     {
       "time": "2026-11-01T01:06:53.382Z",
       "fans": 6825833
+    },
+    {
+      "time": "2026-11-01T07:29:18.368Z",
+      "fans": 6827149
     }
   ],
   "videos": [
