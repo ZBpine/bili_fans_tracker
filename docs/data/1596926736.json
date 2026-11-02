@@ -5,10 +5,10 @@
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
     "archive_count": 182,
-    "like_num": 4025847,
-    "following": 216,
+    "like_num": 4027852,
+    "following": 217,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-10-31T21:29:35.346Z"
+    "updated": "2026-11-02T05:56:24.602Z"
   },
   "records": [
     {
@@ -1034,9 +1034,23 @@
     {
       "time": "2026-11-01T23:33:14.521Z",
       "fans": 1006513
+    },
+    {
+      "time": "2026-11-02T05:56:24.602Z",
+      "fans": 1006849
     }
   ],
   "videos": [
+    {
+      "aid": 117538675494140,
+      "bvid": "BV1WGxW6kEXH",
+      "ctime": 1793498605,
+      "pubdate": 1793502504,
+      "duration": 1459,
+      "pic": "http://i0.hdslb.com/bfs/archive/3bdc286c3aafb178bd48f464a8dc058c2bd305cb.jpg",
+      "title": "【伯爵】宁夏，全国最小的省级民族自治区是怎么来的？",
+      "recorded_at": "2026-11-02T05:56:24.602Z"
+    },
     {
       "aid": 117491313610062,
       "bvid": "BV1X8na6vEBT",
