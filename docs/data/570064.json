@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 386,
-    "like_num": 23011870,
+    "archive_count": 387,
+    "like_num": 23018482,
     "following": 656,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-02T05:56:24.602Z"
+    "updated": "2026-11-02T15:42:14.547Z"
   },
   "records": [
     {
@@ -934,9 +934,23 @@
     {
       "time": "2026-11-02T05:56:24.602Z",
       "fans": 2113521
+    },
+    {
+      "time": "2026-11-02T15:42:14.547Z",
+      "fans": 2113713
     }
   ],
   "videos": [
+    {
+      "aid": 117546846001894,
+      "bvid": "BV17k4P65Eoi",
+      "ctime": 1793627680,
+      "pubdate": 1793633046,
+      "duration": 1486,
+      "pic": "http://i2.hdslb.com/bfs/archive/b62f282b4a3eaa10d7c2f4287cbcaae57e021c3c.jpg",
+      "title": "1968：革命者在法兰西",
+      "recorded_at": "2026-11-02T15:42:14.547Z"
+    },
     {
       "aid": 117540655208125,
       "bvid": "BV1fVx46BET9",

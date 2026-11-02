@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/726060100f7b80f3ab17889aa9fb8f380a53b9da.jpg",
     "sign": "人工智能博士，喜欢钻研和分享知识，日常思索和科普\n小号@漫谈人文，商务请联系manshishangwu，并说明来意",
     "level": 6,
-    "archive_count": 155,
-    "like_num": 6307459,
-    "following": 315,
+    "archive_count": 156,
+    "like_num": 6332245,
+    "following": 316,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-11-01T15:03:46.670Z"
+    "updated": "2026-11-02T15:42:14.547Z"
   },
   "records": [
     {
@@ -1030,9 +1030,23 @@
     {
       "time": "2026-11-02T05:56:24.602Z",
       "fans": 1536309
+    },
+    {
+      "time": "2026-11-02T15:42:14.547Z",
+      "fans": 1538223
     }
   ],
   "videos": [
+    {
+      "aid": 117547030551202,
+      "bvid": "BV17C4P6CE5f",
+      "ctime": 1793626251,
+      "pubdate": 1793626250,
+      "duration": 2440,
+      "pic": "http://i0.hdslb.com/bfs/archive/33daf1a047ebde87c3e8b82f5ab1704b35a5a392.jpg",
+      "title": "【漫士】AI时代，数学该何去何从？还能学吗？",
+      "recorded_at": "2026-11-02T15:42:14.547Z"
+    },
     {
       "aid": 117533457781213,
       "bvid": "BV1Ntxr6xE7Y",
