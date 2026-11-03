@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/1c56737dfc0deffffc31c78e0cefb0c3ecf7e000.jpg",
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
-    "archive_count": 1047,
-    "like_num": 43110880,
+    "archive_count": 1048,
+    "like_num": 43126152,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-01T23:33:14.521Z"
+    "updated": "2026-11-03T06:42:25.081Z"
   },
   "records": [
     {
@@ -4674,9 +4674,23 @@
     {
       "time": "2026-11-02T23:28:23.155Z",
       "fans": 2193988
+    },
+    {
+      "time": "2026-11-03T06:42:25.081Z",
+      "fans": 2193992
     }
   ],
   "videos": [
+    {
+      "aid": 117546476900441,
+      "bvid": "BV1t74w6XEdQ",
+      "ctime": 1793617148,
+      "pubdate": 1793617148,
+      "duration": 1361,
+      "pic": "http://i2.hdslb.com/bfs/archive/8e2b5ff3ec15bc28f2fe12662ff64b8a434c2bd5.jpg",
+      "title": "不朽凡人01 丨 乙肝治愈的希望【睡前消息1125】",
+      "recorded_at": "2026-11-03T06:42:25.081Z"
+    },
     {
       "aid": 117529968188259,
       "bvid": "BV1vZxi68E2p",
