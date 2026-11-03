@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 198,
-    "like_num": 22160140,
+    "archive_count": 199,
+    "like_num": 22166037,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-02T15:42:14.547Z"
+    "updated": "2026-11-03T15:03:37.752Z"
   },
   "records": [
     {
@@ -1050,9 +1050,23 @@
     {
       "time": "2026-11-03T06:42:25.081Z",
       "fans": 2350650
+    },
+    {
+      "time": "2026-11-03T15:03:37.752Z",
+      "fans": 2350579
     }
   ],
   "videos": [
+    {
+      "aid": 117546862775710,
+      "bvid": "BV1764P61EPk",
+      "ctime": 1793623251,
+      "pubdate": 1793700000,
+      "duration": 216,
+      "pic": "http://i2.hdslb.com/bfs/archive/223c00a4be57a939dcafdbf3b79fb03f894ecd90.jpg",
+      "title": "研究生科研进度总落后？我用TRAE搭了个ddl倒计时工具！",
+      "recorded_at": "2026-11-03T15:03:37.752Z"
+    },
     {
       "aid": 117513157345421,
       "bvid": "BV1oyxu6WE7s",
