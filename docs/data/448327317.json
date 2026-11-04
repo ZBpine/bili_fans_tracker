@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 33,
-    "like_num": 1271702,
+    "archive_count": 34,
+    "like_num": 1274171,
     "following": 74,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-03T20:57:24.277Z"
+    "updated": "2026-11-04T17:11:36.474Z"
   },
   "records": [
     {
@@ -1034,9 +1034,23 @@
     {
       "time": "2026-11-04T09:05:43.578Z",
       "fans": 251356
+    },
+    {
+      "time": "2026-11-04T17:11:36.474Z",
+      "fans": 251508
     }
   ],
   "videos": [
+    {
+      "aid": 117556727778235,
+      "bvid": "BV1mJxX68EsY",
+      "ctime": 1793773839,
+      "pubdate": 1793786400,
+      "duration": 2727,
+      "pic": "http://i0.hdslb.com/bfs/archive/b1975241d1b9aceb5cb82021766845ec56b0477b.jpg",
+      "title": "中期选举失败！特朗普这些年做了什么？",
+      "recorded_at": "2026-11-04T17:11:36.474Z"
+    },
     {
       "aid": 117529095703743,
       "bvid": "BV1gcxv6SEKj",

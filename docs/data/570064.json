@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 387,
-    "like_num": 23029136,
-    "following": 656,
+    "archive_count": 388,
+    "like_num": 23044297,
+    "following": 657,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-04T01:18:22.180Z"
+    "updated": "2026-11-04T17:11:36.474Z"
   },
   "records": [
     {
@@ -962,9 +962,23 @@
     {
       "time": "2026-11-04T09:05:43.578Z",
       "fans": 2114074
+    },
+    {
+      "time": "2026-11-04T17:11:36.474Z",
+      "fans": 2114168
     }
   ],
   "videos": [
+    {
+      "aid": 117557851855561,
+      "bvid": "BV1Lbx96VEGd",
+      "ctime": 1793791970,
+      "pubdate": 1793792163,
+      "duration": 819,
+      "pic": "http://i2.hdslb.com/bfs/archive/0fe29b4c70b057976e60f728241eee36676df457.jpg",
+      "title": "“媒体渲染焦虑！谁说养老金领不到？”",
+      "recorded_at": "2026-11-04T17:11:36.474Z"
+    },
     {
       "aid": 117546846001894,
       "bvid": "BV17k4P65Eoi",
