@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/1c56737dfc0deffffc31c78e0cefb0c3ecf7e000.jpg",
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
-    "archive_count": 1048,
-    "like_num": 43126152,
+    "archive_count": 1049,
+    "like_num": 43147192,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-03T06:42:25.081Z"
+    "updated": "2026-11-04T09:05:43.578Z"
   },
   "records": [
     {
@@ -4690,9 +4690,23 @@
     {
       "time": "2026-11-04T01:18:22.180Z",
       "fans": 2193966
+    },
+    {
+      "time": "2026-11-04T09:05:43.578Z",
+      "fans": 2193998
     }
   ],
   "videos": [
+    {
+      "aid": 117552063714773,
+      "bvid": "BV16u4g6cE3b",
+      "ctime": 1793702755,
+      "pubdate": 1793702892,
+      "duration": 1390,
+      "pic": "http://i0.hdslb.com/bfs/archive/900dc9e6c468bfc52b138c668f77318bd62cac1b.jpg",
+      "title": "【睡前消息1126】广东省和广宁省比空调，输给越南还能输谁？",
+      "recorded_at": "2026-11-04T09:05:43.578Z"
+    },
     {
       "aid": 117546476900441,
       "bvid": "BV1t74w6XEdQ",

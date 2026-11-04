@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/4438aab07b6f3c360d4c46e9f345ec987e93a1b7.jpg",
     "sign": "11万粉视频11.11更新，商务:675519014（同VX,备注）",
     "level": 6,
-    "archive_count": 238,
-    "like_num": 1417114,
-    "following": 707,
+    "archive_count": 239,
+    "like_num": 1419299,
+    "following": 708,
     "official_title": "优质游戏鉴赏家",
-    "updated": "2026-11-03T15:03:37.752Z"
+    "updated": "2026-11-04T09:05:43.578Z"
   },
   "records": [
     {
@@ -1054,9 +1054,23 @@
     {
       "time": "2026-11-04T01:18:22.180Z",
       "fans": 147559
+    },
+    {
+      "time": "2026-11-04T09:05:43.578Z",
+      "fans": 147578
     }
   ],
   "videos": [
+    {
+      "aid": 117555956088835,
+      "bvid": "BV1WCxS67Ee4",
+      "ctime": 1793761733,
+      "pubdate": 1793761878,
+      "duration": 267,
+      "pic": "http://i0.hdslb.com/bfs/archive/58876c8057ae960f7c37ede2b51d06e7c168793b.jpg",
+      "title": "【TaIkGN】人人都有面具，我等只不过是戴在手柄罢了",
+      "recorded_at": "2026-11-04T09:05:43.578Z"
+    },
     {
       "aid": 117539229207370,
       "bvid": "BV1GLxp6QE8L",
