@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 622,
-    "like_num": 9230152,
+    "archive_count": 623,
+    "like_num": 9233912,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-05T03:27:49.567Z"
+    "updated": "2026-11-05T20:38:12.097Z"
   },
   "records": [
     {
@@ -1074,9 +1074,23 @@
     {
       "time": "2026-11-05T12:15:14.860Z",
       "fans": 736245
+    },
+    {
+      "time": "2026-11-05T20:38:12.097Z",
+      "fans": 736228
     }
   ],
   "videos": [
+    {
+      "aid": 117563774339672,
+      "bvid": "BV16f4t6DE43",
+      "ctime": 1793881132,
+      "pubdate": 1793881373,
+      "duration": 1055,
+      "pic": "http://i0.hdslb.com/bfs/archive/943d9b075402623fad04ddfdd89f50bd4fd8e2fa.jpg",
+      "title": "【参考信息第669期】禁止有罪推定；消灭血吸虫病",
+      "recorded_at": "2026-11-05T20:38:12.097Z"
+    },
     {
       "aid": 117547181608014,
       "bvid": "BV1Q34P6vEuA",
