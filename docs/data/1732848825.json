@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 199,
-    "like_num": 22169130,
+    "archive_count": 201,
+    "like_num": 22185332,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-04T09:05:43.578Z"
+    "updated": "2026-11-05T03:27:49.567Z"
   },
   "records": [
     {
@@ -1074,9 +1074,33 @@
     {
       "time": "2026-11-04T22:37:52.122Z",
       "fans": 2350457
+    },
+    {
+      "time": "2026-11-05T03:27:49.567Z",
+      "fans": 2350461
     }
   ],
   "videos": [
+    {
+      "aid": 117558640379480,
+      "bvid": "BV174xd6pEwt",
+      "ctime": 1793803100,
+      "pubdate": 1793803100,
+      "duration": 260,
+      "pic": "http://i2.hdslb.com/bfs/archive/9cff5035308f5f6b817349b37adbcdfa9846df6d.jpg",
+      "title": "饶议科学文章说我打假，长期来看，可能有害！我也有话说！",
+      "recorded_at": "2026-11-05T03:27:49.567Z"
+    },
+    {
+      "aid": 117551963114526,
+      "bvid": "BV1AF4g6MEMu",
+      "ctime": 1793701145,
+      "pubdate": 1793786400,
+      "duration": 3828,
+      "pic": "http://i0.hdslb.com/bfs/archive/2dec2f8ac7399111be02201a6012ca86d877a41f.jpg",
+      "title": "耿同学x赤石神殿｜关于读研读博，这份指南请收好！",
+      "recorded_at": "2026-11-05T03:27:49.567Z"
+    },
     {
       "aid": 117546862775710,
       "bvid": "BV1764P61EPk",
