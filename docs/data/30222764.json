@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/8991695154e980e8986b35a78e44bf52c8173b06.jpg",
     "sign": "商务合作vx：LowenAt｜生活给我开了很多玩笑，但我都绷住了。",
     "level": 6,
-    "archive_count": 121,
-    "like_num": 29694997,
+    "archive_count": 122,
+    "like_num": 29702270,
     "following": 520,
     "official_title": "",
-    "updated": "2026-11-04T09:05:43.578Z"
+    "updated": "2026-11-05T12:15:14.860Z"
   },
   "records": [
     {
@@ -974,9 +974,23 @@
     {
       "time": "2026-11-05T03:27:49.567Z",
       "fans": 2118758
+    },
+    {
+      "time": "2026-11-05T12:15:14.860Z",
+      "fans": 2118717
     }
   ],
   "videos": [
+    {
+      "aid": 117562666916509,
+      "bvid": "BV1D7446fENM",
+      "ctime": 1793864361,
+      "pubdate": 1793865602,
+      "duration": 189,
+      "pic": "http://i0.hdslb.com/bfs/archive/ff791e11e7f214410b03ea114be109a26c4d0aaa.jpg",
+      "title": "这种堵桥的来一个我砍一个",
+      "recorded_at": "2026-11-05T12:15:14.860Z"
+    },
     {
       "aid": 117535454271358,
       "bvid": "BV1Mbx163Exi",
