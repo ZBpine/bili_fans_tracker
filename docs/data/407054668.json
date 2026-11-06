@@ -5,10 +5,10 @@
     "sign": "我们不是科普，我们与你一起发现",
     "level": 6,
     "archive_count": 101,
-    "like_num": 35189708,
+    "like_num": 35227347,
     "following": 60,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-04T22:37:52.122Z"
+    "updated": "2026-11-06T17:27:55.974Z"
   },
   "records": [
     {
@@ -654,9 +654,23 @@
     {
       "time": "2026-11-06T09:19:26.745Z",
       "fans": 6839739
+    },
+    {
+      "time": "2026-11-06T17:27:55.974Z",
+      "fans": 6842158
     }
   ],
   "videos": [
+    {
+      "aid": 117567817522143,
+      "bvid": "BV1kU4v66Ef5",
+      "ctime": 1793942834,
+      "pubdate": 1793955600,
+      "duration": 224,
+      "pic": "http://i2.hdslb.com/bfs/archive/f0f18f95470fd5780016b5384e3ae36a3d7518ad.jpg",
+      "title": "转球好学吗？三分钟教会你万物皆可转！",
+      "recorded_at": "2026-11-06T17:27:55.974Z"
+    },
     {
       "aid": 117489115600512,
       "bvid": "BV14Enb6LEDe",

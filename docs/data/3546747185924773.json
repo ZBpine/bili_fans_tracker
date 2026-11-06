@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 73,
-    "like_num": 179586,
+    "archive_count": 74,
+    "like_num": 181632,
     "following": 21,
     "official_title": "",
-    "updated": "2026-11-05T20:38:12.097Z"
+    "updated": "2026-11-06T17:27:55.974Z"
   },
   "records": [
     {
@@ -1038,9 +1038,23 @@
     {
       "time": "2026-11-06T09:19:26.745Z",
       "fans": 44594
+    },
+    {
+      "time": "2026-11-06T17:27:55.974Z",
+      "fans": 44711
     }
   ],
   "videos": [
+    {
+      "aid": 117568840932104,
+      "bvid": "BV1Xa4q6FERR",
+      "ctime": 1793958219,
+      "pubdate": 1793958219,
+      "duration": 472,
+      "pic": "http://i2.hdslb.com/bfs/archive/aec4c5d029433b5037edc85c52b444e5ede9eb05.jpg",
+      "title": "Hy4正式版挑战祖传屎山代码｜屎山考核",
+      "recorded_at": "2026-11-06T17:27:55.974Z"
+    },
     {
       "aid": 117546728561635,
       "bvid": "BV1ic4w6eExC",

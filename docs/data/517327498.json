@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
     "sign": "工作邮箱：xfluoxiang@hotmail.com",
     "level": 6,
-    "archive_count": 507,
-    "like_num": 100892941,
+    "archive_count": 508,
+    "like_num": 100959669,
     "following": 19,
     "official_title": "2025百大UP主、中国政法大学教授、2020年度最高人气UP主",
-    "updated": "2026-11-05T12:15:14.860Z"
+    "updated": "2026-11-06T17:27:55.974Z"
   },
   "records": [
     {
@@ -990,9 +990,23 @@
     {
       "time": "2026-11-06T09:19:26.745Z",
       "fans": 32182168
+    },
+    {
+      "time": "2026-11-06T17:27:55.974Z",
+      "fans": 32182770
     }
   ],
   "videos": [
+    {
+      "aid": 117563942048087,
+      "bvid": "BV1nw4b6UEjq",
+      "ctime": 1793883919,
+      "pubdate": 1793937600,
+      "duration": 690,
+      "pic": "http://i1.hdslb.com/bfs/archive/982c13accad1ba4f232d34110bbbb9d9e42cfc0f.jpg",
+      "title": "【罗翔】人人想拿“大结果”，谁来当那个结果？",
+      "recorded_at": "2026-11-06T17:27:55.974Z"
+    },
     {
       "aid": 117511815239641,
       "bvid": "BV19hxM65EHY",

@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/c48ae21d7e98c746d8219a215744a9ad5320d102.jpg",
     "sign": "总揽体育、独到见解！商务合作联系 V： 18818184418直播带货联系 V：632238459",
     "level": 6,
-    "archive_count": 6593,
-    "like_num": 19297745,
+    "archive_count": 6592,
+    "like_num": 19302821,
     "following": 225,
     "official_title": "2025百大UP主、2024直播年度人气奖UP主、直播高能主播",
-    "updated": "2026-11-06T01:30:48.556Z"
+    "updated": "2026-11-06T17:27:55.974Z"
   },
   "records": [
     {
@@ -242,9 +242,33 @@
     {
       "time": "2026-11-06T09:19:26.745Z",
       "fans": 1790176
+    },
+    {
+      "time": "2026-11-06T17:27:55.974Z",
+      "fans": 1790635
     }
   ],
   "videos": [
+    {
+      "aid": 117570350940299,
+      "bvid": "BV1bc4z6FEXw",
+      "ctime": 1793981939,
+      "pubdate": 1793981939,
+      "duration": 327,
+      "pic": "http://i2.hdslb.com/bfs/archive/a7893a9b354633ff3d713bd75e12084af0fd2ab0.jpg",
+      "title": "【徐静雨】影之刃零舞狮之战！第九艺术的完美体现，穿透力登峰造极",
+      "recorded_at": "2026-11-06T17:27:55.974Z"
+    },
+    {
+      "aid": 117567968511533,
+      "bvid": "BV1qF4i6AEw4",
+      "ctime": 1793945092,
+      "pubdate": 1793945091,
+      "duration": 365,
+      "pic": "http://i1.hdslb.com/bfs/archive/33ce2fb668fc5650519abc617fa1bc1b82841c75.jpg",
+      "title": "【徐静雨】库里29分率队战胜热火，巴特勒复出后争冠有望！",
+      "recorded_at": "2026-11-06T17:27:55.974Z"
+    },
     {
       "aid": 117561643502302,
       "bvid": "BV1JsxZ6aEW3",
