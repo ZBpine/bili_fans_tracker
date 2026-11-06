@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 648,
-    "like_num": 36840690,
+    "archive_count": 649,
+    "like_num": 36847056,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-11-05T03:27:49.567Z"
+    "updated": "2026-11-06T01:30:48.556Z"
   },
   "records": [
     {
@@ -1086,9 +1086,23 @@
     {
       "time": "2026-11-05T20:38:12.097Z",
       "fans": 5670116
+    },
+    {
+      "time": "2026-11-06T01:30:48.556Z",
+      "fans": 5670227
     }
   ],
   "videos": [
+    {
+      "aid": 117566139795001,
+      "bvid": "BV1AK4v6gEgw",
+      "ctime": 1793917201,
+      "pubdate": 1793917201,
+      "duration": 856,
+      "pic": "http://i1.hdslb.com/bfs/archive/2e218d9db9e1852447566642616678cd41a4487a.jpg",
+      "title": "全新MacBook Pro评测：触屏不重要，轻薄/散热/续航才是升级重点！",
+      "recorded_at": "2026-11-06T01:30:48.556Z"
+    },
     {
       "aid": 117518005960865,
       "bvid": "BV1ikxE62EVP",
