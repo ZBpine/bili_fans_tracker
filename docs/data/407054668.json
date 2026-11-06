@@ -4,8 +4,8 @@
     "face": "https://i1.hdslb.com/bfs/face/9a2c23800387d9c871f3b5dd3620dc1c3c50d2f9.jpg",
     "sign": "我们不是科普，我们与你一起发现",
     "level": 6,
-    "archive_count": 100,
-    "like_num": 35183118,
+    "archive_count": 101,
+    "like_num": 35189708,
     "following": 60,
     "official_title": "bilibili 知名UP主",
     "updated": "2026-11-04T22:37:52.122Z"
@@ -650,6 +650,10 @@
     {
       "time": "2026-11-06T01:30:48.556Z",
       "fans": 6839116
+    },
+    {
+      "time": "2026-11-06T09:19:26.745Z",
+      "fans": 6839739
     }
   ],
   "videos": [
