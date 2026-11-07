@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/6d7c9ef4e2d3147528c5d161f51bf5d604568de1.jpg",
     "sign": "分享科学的快乐和美！\n小号:毕导\n商务联系：s1012295607",
     "level": 6,
-    "archive_count": 171,
-    "like_num": 21329310,
+    "archive_count": 172,
+    "like_num": 21386233,
     "following": 57,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-11-06T01:30:48.556Z"
+    "updated": "2026-11-07T02:45:56.033Z"
   },
   "records": [
     {
@@ -998,9 +998,23 @@
     {
       "time": "2026-11-06T23:05:05.808Z",
       "fans": 2624736
+    },
+    {
+      "time": "2026-11-07T02:45:56.033Z",
+      "fans": 2625327
     }
   ],
   "videos": [
+    {
+      "aid": 117568505386501,
+      "bvid": "BV1444B6pE71",
+      "ctime": 1793953176,
+      "pubdate": 1793955600,
+      "duration": 176,
+      "pic": "http://i2.hdslb.com/bfs/archive/43c8ee763b9be597cccf61483a2a0b2d7bad37c6.jpg",
+      "title": "被几百条评论纠正后，吓得我连夜算了一下……",
+      "recorded_at": "2026-11-07T02:45:56.033Z"
+    },
     {
       "aid": 117524616255093,
       "bvid": "BV15vxc6bEZz",
