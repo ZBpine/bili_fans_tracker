@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 623,
-    "like_num": 9237122,
+    "archive_count": 624,
+    "like_num": 9241072,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-07T02:45:56.033Z"
+    "updated": "2026-11-07T16:23:42.959Z"
   },
   "records": [
     {
@@ -1102,9 +1102,23 @@
     {
       "time": "2026-11-07T09:59:55.926Z",
       "fans": 736272
+    },
+    {
+      "time": "2026-11-07T16:23:42.959Z",
+      "fans": 736276
     }
   ],
   "videos": [
+    {
+      "aid": 117575065274039,
+      "bvid": "BV1B84n64EGY",
+      "ctime": 1794053412,
+      "pubdate": 1794053549,
+      "duration": 1044,
+      "pic": "http://i2.hdslb.com/bfs/archive/94467be8d24d1fdcb6e6c788d7c815406944a668.jpg",
+      "title": "【参考信息第670期】跟岗教师无薪酬；横向经费需自筹",
+      "recorded_at": "2026-11-07T16:23:42.959Z"
+    },
     {
       "aid": 117563774339672,
       "bvid": "BV16f4t6DE43",
