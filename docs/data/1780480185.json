@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/5fad57003b0c7f22bbb377f1f19d86868210b71c.jpg",
     "sign": "",
     "level": 6,
-    "archive_count": 93,
-    "like_num": 20991398,
+    "archive_count": 94,
+    "like_num": 21077397,
     "following": 47,
     "official_title": "",
-    "updated": "2026-11-04T17:11:36.474Z"
+    "updated": "2026-11-07T20:51:28.090Z"
   },
   "records": [
     {
@@ -674,9 +674,23 @@
     {
       "time": "2026-11-07T16:23:42.959Z",
       "fans": 4004341
+    },
+    {
+      "time": "2026-11-07T20:51:28.090Z",
+      "fans": 4004986
     }
   ],
   "videos": [
+    {
+      "aid": 117568455184862,
+      "bvid": "BV1wq4B62EWa",
+      "ctime": 1793952909,
+      "pubdate": 1794020400,
+      "duration": 657,
+      "pic": "http://i1.hdslb.com/bfs/archive/59b1fa56149b8f32ddea5a49ba0eda590c304198.jpg",
+      "title": "第一视角参与野兽先生的拍摄...",
+      "recorded_at": "2026-11-07T20:51:28.090Z"
+    },
     {
       "aid": 117528726805318,
       "bvid": "BV1rKxi6KEuA",
