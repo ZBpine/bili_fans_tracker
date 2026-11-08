@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/1c56737dfc0deffffc31c78e0cefb0c3ecf7e000.jpg",
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
-    "archive_count": 1049,
-    "like_num": 43164248,
+    "archive_count": 1050,
+    "like_num": 43177046,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-07T20:51:28.090Z"
+    "updated": "2026-11-08T23:40:56.493Z"
   },
   "records": [
     {
@@ -4762,9 +4762,23 @@
     {
       "time": "2026-11-08T19:39:18.374Z",
       "fans": 2194155
+    },
+    {
+      "time": "2026-11-08T23:40:56.493Z",
+      "fans": 2194177
     }
   ],
   "videos": [
+    {
+      "aid": 117579863627876,
+      "bvid": "BV19uW76YE7B",
+      "ctime": 1794126777,
+      "pubdate": 1794139571,
+      "duration": 2047,
+      "pic": "http://i0.hdslb.com/bfs/archive/42de0d9e303365412a2ac499f1dfbc1e9c319692.jpg",
+      "title": "【睡前消息1128】理性的任性 新加坡公务员自我加薪",
+      "recorded_at": "2026-11-08T23:40:56.493Z"
+    },
     {
       "aid": 117552063714773,
       "bvid": "BV16u4g6cE3b",
