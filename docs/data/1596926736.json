@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 182,
-    "like_num": 4044874,
-    "following": 220,
+    "archive_count": 183,
+    "like_num": 4055208,
+    "following": 221,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-07T02:45:56.033Z"
+    "updated": "2026-11-08T07:16:51.660Z"
   },
   "records": [
     {
@@ -1122,9 +1122,23 @@
     {
       "time": "2026-11-08T00:32:17.732Z",
       "fans": 1007624
+    },
+    {
+      "time": "2026-11-08T07:16:51.660Z",
+      "fans": 1007790
     }
   ],
   "videos": [
+    {
+      "aid": 117572750019216,
+      "bvid": "BV1DF4E6uEja",
+      "ctime": 1794018284,
+      "pubdate": 1794020400,
+      "duration": 1736,
+      "pic": "http://i1.hdslb.com/bfs/archive/927480916312919f2d7a27f2ff86eb38d82d76e6.jpg",
+      "title": "【伯爵】苏丹，五千年古国为何变成世界级凶杀现场？",
+      "recorded_at": "2026-11-08T07:16:51.660Z"
+    },
     {
       "aid": 117538675494140,
       "bvid": "BV1WGxW6kEXH",

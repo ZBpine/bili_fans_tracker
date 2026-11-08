@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 201,
-    "like_num": 22209543,
+    "archive_count": 203,
+    "like_num": 22225387,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-07T09:59:55.926Z"
+    "updated": "2026-11-08T07:16:51.660Z"
   },
   "records": [
     {
@@ -1122,9 +1122,33 @@
     {
       "time": "2026-11-08T00:32:17.732Z",
       "fans": 2350594
+    },
+    {
+      "time": "2026-11-08T07:16:51.660Z",
+      "fans": 2350399
     }
   ],
   "videos": [
+    {
+      "aid": 117578269723759,
+      "bvid": "BV1ga4x6hEfv",
+      "ctime": 1794102362,
+      "pubdate": 1794110400,
+      "duration": 174,
+      "pic": "http://i1.hdslb.com/bfs/archive/dd8603f58a920a5a4d096ab25acf195653fa0d8b.jpg",
+      "title": "研究生该不该冲首发触屏MacBook Pro？",
+      "recorded_at": "2026-11-08T07:16:51.660Z"
+    },
+    {
+      "aid": 117558606825396,
+      "bvid": "BV1iyxX6VEVf",
+      "ctime": 1793803255,
+      "pubdate": 1794061800,
+      "duration": 141,
+      "pic": "http://i1.hdslb.com/bfs/archive/b921aa15eaf6960d433d9e3f882f37c1694db220.jpg",
+      "title": "听说有人收到耿同学的敲诈勒索邮件？",
+      "recorded_at": "2026-11-08T07:16:51.660Z"
+    },
     {
       "aid": 117558640379480,
       "bvid": "BV174xd6pEwt",
