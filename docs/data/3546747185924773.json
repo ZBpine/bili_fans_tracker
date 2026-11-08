@@ -5,10 +5,10 @@
     "sign": "AI有意思",
     "level": 6,
     "archive_count": 75,
-    "like_num": 183695,
+    "like_num": 184432,
     "following": 21,
     "official_title": "",
-    "updated": "2026-11-07T09:59:55.926Z"
+    "updated": "2026-11-08T15:08:32.641Z"
   },
   "records": [
     {
@@ -1070,9 +1070,23 @@
     {
       "time": "2026-11-08T07:16:51.660Z",
       "fans": 44931
+    },
+    {
+      "time": "2026-11-08T15:08:32.641Z",
+      "fans": 44979
     }
   ],
   "videos": [
+    {
+      "aid": 117578705934105,
+      "bvid": "BV1Wg4x61EKg",
+      "ctime": 1794108829,
+      "pubdate": 1794108829,
+      "duration": 657,
+      "pic": "http://i0.hdslb.com/bfs/archive/77843576c2e5184668393137b4cf47cca9f5dfd6.jpg",
+      "title": "这是至暗的时刻，更是黎明的序曲｜淘汰赛02",
+      "recorded_at": "2026-11-08T15:08:32.641Z"
+    },
     {
       "aid": 117568840932104,
       "bvid": "BV1Xa4q6FERR",
