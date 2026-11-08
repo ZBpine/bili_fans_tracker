@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 34,
-    "like_num": 1278105,
+    "archive_count": 35,
+    "like_num": 1280322,
     "following": 74,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-08T00:32:17.732Z"
+    "updated": "2026-11-08T19:39:18.374Z"
   },
   "records": [
     {
@@ -1098,9 +1098,23 @@
     {
       "time": "2026-11-08T15:08:32.641Z",
       "fans": 252061
+    },
+    {
+      "time": "2026-11-08T19:39:18.374Z",
+      "fans": 252067
     }
   ],
   "videos": [
+    {
+      "aid": 117580383783384,
+      "bvid": "BV1AaWJ64Em3",
+      "ctime": 1794134836,
+      "pubdate": 1794134836,
+      "duration": 181,
+      "pic": "http://i1.hdslb.com/bfs/archive/9118b5169402f64203f35cf106a4e2454ecb1e6e.jpg",
+      "title": "部分简中右派就是美式基本盘。",
+      "recorded_at": "2026-11-08T19:39:18.374Z"
+    },
     {
       "aid": 117556727778235,
       "bvid": "BV1mJxX68EsY",
