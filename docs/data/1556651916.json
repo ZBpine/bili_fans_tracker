@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 624,
-    "like_num": 9244817,
+    "archive_count": 625,
+    "like_num": 9249053,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-08T23:40:56.493Z"
+    "updated": "2026-11-09T17:26:31.612Z"
   },
   "records": [
     {
@@ -1134,9 +1134,23 @@
     {
       "time": "2026-11-09T06:18:13.809Z",
       "fans": 736319
+    },
+    {
+      "time": "2026-11-09T17:26:31.612Z",
+      "fans": 736312
     }
   ],
   "videos": [
+    {
+      "aid": 117586591222052,
+      "bvid": "BV1sUW86sE37",
+      "ctime": 1794229210,
+      "pubdate": 1794229412,
+      "duration": 1058,
+      "pic": "http://i0.hdslb.com/bfs/archive/ac257466625f4655d78e3b2671ee5f6f81ff9d8d.jpg",
+      "title": "【参考信息第671期】雄安唯一主校区 ；11元拍鹤岗房",
+      "recorded_at": "2026-11-09T17:26:31.612Z"
+    },
     {
       "aid": 117575065274039,
       "bvid": "BV1B84n64EGY",

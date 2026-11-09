@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 75,
-    "like_num": 184432,
+    "archive_count": 76,
+    "like_num": 186026,
     "following": 21,
     "official_title": "",
-    "updated": "2026-11-08T15:08:32.641Z"
+    "updated": "2026-11-09T17:26:31.612Z"
   },
   "records": [
     {
@@ -1086,9 +1086,23 @@
     {
       "time": "2026-11-09T06:18:13.809Z",
       "fans": 45038
+    },
+    {
+      "time": "2026-11-09T17:26:31.612Z",
+      "fans": 45105
     }
   ],
   "videos": [
+    {
+      "aid": 117585181940387,
+      "bvid": "BV1HSWx6MEbG",
+      "ctime": 1794207870,
+      "pubdate": 1794218400,
+      "duration": 492,
+      "pic": "http://i2.hdslb.com/bfs/archive/12249e636a812f7eaf5569a5e93b256ce4edd4ef.jpg",
+      "title": "让 AI 出去聊天，屎山就成了金山",
+      "recorded_at": "2026-11-09T17:26:31.612Z"
+    },
     {
       "aid": 117578705934105,
       "bvid": "BV1Wg4x61EKg",
