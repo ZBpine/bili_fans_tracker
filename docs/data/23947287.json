@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/e2e359b8f061dcc04d18c92565b881ec2774f374.jpg",
     "sign": "小约翰啊，你何其的勤劳！",
     "level": 6,
-    "archive_count": 267,
-    "like_num": 90015231,
+    "archive_count": 268,
+    "like_num": 90080793,
     "following": 409,
     "official_title": "2025百大UP主、2025年度最高人气奖UP主、2023年度商业影响力奖UP主",
-    "updated": "2026-11-09T06:18:13.809Z"
+    "updated": "2026-11-10T09:43:38.055Z"
   },
   "records": [
     {
@@ -1046,9 +1046,23 @@
     {
       "time": "2026-11-10T01:28:53.065Z",
       "fans": 10961619
+    },
+    {
+      "time": "2026-11-10T09:43:38.055Z",
+      "fans": 10961912
     }
   ],
   "videos": [
+    {
+      "aid": 117587027433065,
+      "bvid": "BV1i4W86zEUS",
+      "ctime": 1794236186,
+      "pubdate": 1794279600,
+      "duration": 2385,
+      "pic": "http://i1.hdslb.com/bfs/archive/82ca59995413cbf02281fd2573da473d47e6505a.jpg",
+      "title": "如何盗走《蒙娜丽莎》？【硬核狠人92】",
+      "recorded_at": "2026-11-10T09:43:38.055Z"
+    },
     {
       "aid": 117521898344473,
       "bvid": "BV1ocsd6jErz",
