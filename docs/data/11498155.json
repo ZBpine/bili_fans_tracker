@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c899aa91fad96d1b3a49dd0a7e09da0c6ce23f30.jpg",
     "sign": "就随便扯扯吧 商务v：ansenyao3\nYaoLan",
     "level": 6,
-    "archive_count": 328,
-    "like_num": 16730463,
+    "archive_count": 329,
+    "like_num": 16738107,
     "following": 63,
     "official_title": "科普UP主 安森垚",
-    "updated": "2026-11-09T17:26:31.612Z"
+    "updated": "2026-11-10T17:45:48.174Z"
   },
   "records": [
     {
@@ -1154,9 +1154,23 @@
     {
       "time": "2026-11-10T09:43:38.055Z",
       "fans": 1856068
+    },
+    {
+      "time": "2026-11-10T17:45:48.174Z",
+      "fans": 1856065
     }
   ],
   "videos": [
+    {
+      "aid": 117589946669664,
+      "bvid": "BV1ByWM6mELc",
+      "ctime": 1794284075,
+      "pubdate": 1794305950,
+      "duration": 646,
+      "pic": "http://i0.hdslb.com/bfs/archive/afb268129cc3d6f3f8e43d20b46b4f236590a3f1.jpg",
+      "title": "土耳其人是哪里来的？",
+      "recorded_at": "2026-11-10T17:45:48.174Z"
+    },
     {
       "aid": 117431368424040,
       "bvid": "BV1ArWc6qEtk",

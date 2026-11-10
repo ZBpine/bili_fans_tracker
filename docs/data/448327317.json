@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/dcaba26dec56f62139faf35938f98bcb9f4f4328.jpg",
     "sign": "提高工农待遇刻不容缓。",
     "level": 6,
-    "archive_count": 35,
-    "like_num": 1283263,
-    "following": 74,
+    "archive_count": 36,
+    "like_num": 1285203,
+    "following": 75,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-09T17:26:31.612Z"
+    "updated": "2026-11-10T17:45:48.174Z"
   },
   "records": [
     {
@@ -1122,9 +1122,23 @@
     {
       "time": "2026-11-10T09:43:38.055Z",
       "fans": 252162
+    },
+    {
+      "time": "2026-11-10T17:45:48.174Z",
+      "fans": 252261
     }
   ],
   "videos": [
+    {
+      "aid": 117590802432212,
+      "bvid": "BV1d4WT63Ew3",
+      "ctime": 1794293677,
+      "pubdate": 1794304800,
+      "duration": 1933,
+      "pic": "http://i2.hdslb.com/bfs/archive/280129ac24971e199fe34b5c739ebc017f4857da.jpg",
+      "title": "现代意识形态科普：各种主义都是啥？",
+      "recorded_at": "2026-11-10T17:45:48.174Z"
+    },
     {
       "aid": 117580383783384,
       "bvid": "BV1AaWJ64Em3",
