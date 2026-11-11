@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/4438aab07b6f3c360d4c46e9f345ec987e93a1b7.jpg",
     "sign": "11万粉视频11.11更新，商务:675519014（同VX,备注）",
     "level": 6,
-    "archive_count": 240,
-    "like_num": 1430723,
+    "archive_count": 241,
+    "like_num": 1432404,
     "following": 712,
     "official_title": "优质游戏鉴赏家",
-    "updated": "2026-11-10T17:45:48.174Z"
+    "updated": "2026-11-11T14:13:35.620Z"
   },
   "records": [
     {
@@ -1158,9 +1158,23 @@
     {
       "time": "2026-11-11T06:07:26.941Z",
       "fans": 147696
+    },
+    {
+      "time": "2026-11-11T14:13:35.620Z",
+      "fans": 147729
     }
   ],
   "videos": [
+    {
+      "aid": 117596959542241,
+      "bvid": "BV1z1Wy6XEuF",
+      "ctime": 1794387927,
+      "pubdate": 1794388304,
+      "duration": 903,
+      "pic": "http://i2.hdslb.com/bfs/archive/b7462367774ee0b7fac0548e8c093ea002f04316.jpg",
+      "title": "【IKGN】任天堂有血性!大胜!——塞尔达传说:时之笛 重制版",
+      "recorded_at": "2026-11-11T14:13:35.620Z"
+    },
     {
       "aid": 117563522550403,
       "bvid": "BV1Qj4b6MEep",

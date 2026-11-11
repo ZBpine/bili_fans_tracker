@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 202,
-    "like_num": 22241860,
+    "archive_count": 203,
+    "like_num": 22247281,
     "following": 54,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-11T06:07:26.941Z"
+    "updated": "2026-11-11T14:13:35.620Z"
   },
   "records": [
     {
@@ -1166,9 +1166,23 @@
     {
       "time": "2026-11-11T06:07:26.941Z",
       "fans": 2350212
+    },
+    {
+      "time": "2026-11-11T14:13:35.620Z",
+      "fans": 2350116
     }
   ],
   "videos": [
+    {
+      "aid": 117579393796926,
+      "bvid": "BV13XW76PECB",
+      "ctime": 1794119581,
+      "pubdate": 1794384000,
+      "duration": 157,
+      "pic": "http://i0.hdslb.com/bfs/archive/cc74596bf34c5024d0795e93be9389ad9bc53b93.jpg",
+      "title": "锐评饶毅老师！",
+      "recorded_at": "2026-11-11T14:13:35.620Z"
+    },
     {
       "aid": 117578269723759,
       "bvid": "BV1ga4x6hEfv",
