@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/13eff981de8bb7b857ce818d42166f68d9d569bc.jpg",
     "sign": "商务微信：xdc1113909972",
     "level": 6,
-    "archive_count": 307,
-    "like_num": 1983093,
+    "archive_count": 308,
+    "like_num": 1989598,
     "following": 66,
     "official_title": "bilibili 知名游戏UP主",
-    "updated": "2026-11-09T17:26:31.612Z"
+    "updated": "2026-11-12T18:52:34.671Z"
   },
   "records": [
     {
@@ -4810,9 +4810,23 @@
     {
       "time": "2026-11-12T10:59:06.070Z",
       "fans": 235029
+    },
+    {
+      "time": "2026-11-12T18:52:34.671Z",
+      "fans": 235052
     }
   ],
   "videos": [
+    {
+      "aid": 117590852638961,
+      "bvid": "BV1ZTWg6DEjE",
+      "ctime": 1794294478,
+      "pubdate": 1794315600,
+      "duration": 1166,
+      "pic": "http://i2.hdslb.com/bfs/archive/90f573f9a3b24b055390d346c5d3aea339523c21.jpg",
+      "title": "轮椅太多！流口水了！吐槽国产单机最新力作《影之刃零》！",
+      "recorded_at": "2026-11-12T18:52:34.671Z"
+    },
     {
       "aid": 117182176434754,
       "bvid": "BV1GE4Q6KECH",

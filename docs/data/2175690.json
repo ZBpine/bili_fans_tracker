@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/5779df7e2182bba5160fd813e4cba02b8e13e9d4.jpg",
     "sign": "「以电影的方式探索AIGC世界～」合作 vx : ciaociao23333（非本人）",
     "level": 6,
-    "archive_count": 233,
-    "like_num": 18742095,
-    "following": 1489,
+    "archive_count": 234,
+    "like_num": 18765656,
+    "following": 1490,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-11T14:13:35.620Z"
+    "updated": "2026-11-12T18:52:34.671Z"
   },
   "records": [
     {
@@ -1078,9 +1078,23 @@
     {
       "time": "2026-11-12T10:59:06.070Z",
       "fans": 1188525
+    },
+    {
+      "time": "2026-11-12T18:52:34.671Z",
+      "fans": 1189135
     }
   ],
   "videos": [
+    {
+      "aid": 117599274867684,
+      "bvid": "BV1rbWm6wEC3",
+      "ctime": 1794422983,
+      "pubdate": 1794463200,
+      "duration": 359,
+      "pic": "http://i1.hdslb.com/bfs/archive/30b67984e5413c5fdeb3d71be71c3cae77a30eef.jpg",
+      "title": "第七集｜🐧 为了拯救巴克什，而被迫出道的博士？！🐧",
+      "recorded_at": "2026-11-12T18:52:34.671Z"
+    },
     {
       "aid": 117479435343463,
       "bvid": "BV192n66dEDQ",
