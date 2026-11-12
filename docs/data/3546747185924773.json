@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 76,
-    "like_num": 186988,
+    "archive_count": 77,
+    "like_num": 188844,
     "following": 21,
     "official_title": "",
-    "updated": "2026-11-11T14:13:35.620Z"
+    "updated": "2026-11-12T02:56:13.084Z"
   },
   "records": [
     {
@@ -1118,9 +1118,23 @@
     {
       "time": "2026-11-11T21:54:23.516Z",
       "fans": 45387
+    },
+    {
+      "time": "2026-11-12T02:56:13.084Z",
+      "fans": 45446
     }
   ],
   "videos": [
+    {
+      "aid": 117598603713530,
+      "bvid": "BV16RWU6AEcA",
+      "ctime": 1794412861,
+      "pubdate": 1794412861,
+      "duration": 554,
+      "pic": "http://i0.hdslb.com/bfs/archive/347eea5d019aced7117907a5a078a69cd0544788.jpg",
+      "title": "千问新一代基座模型，接受祖传代码的考核",
+      "recorded_at": "2026-11-12T02:56:13.084Z"
+    },
     {
       "aid": 117585181940387,
       "bvid": "BV1HSWx6MEbG",
