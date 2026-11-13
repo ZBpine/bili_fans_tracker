@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 77,
-    "like_num": 189885,
+    "archive_count": 78,
+    "like_num": 191513,
     "following": 21,
     "official_title": "",
-    "updated": "2026-11-13T00:16:58.350Z"
+    "updated": "2026-11-13T16:16:18.831Z"
   },
   "records": [
     {
@@ -1138,9 +1138,23 @@
     {
       "time": "2026-11-13T07:53:08.213Z",
       "fans": 45683
+    },
+    {
+      "time": "2026-11-13T16:16:18.831Z",
+      "fans": 45797
     }
   ],
   "videos": [
+    {
+      "aid": 117609089474207,
+      "bvid": "BV1bZWB6nEc4",
+      "ctime": 1794572512,
+      "pubdate": 1794572512,
+      "duration": 841,
+      "pic": "http://i0.hdslb.com/bfs/archive/9bedaa1fd5378995e76268857779c954b4ff8f37.jpg",
+      "title": "Qwen4和Opus大战祖传代码之巅｜淘汰赛03",
+      "recorded_at": "2026-11-13T16:16:18.831Z"
+    },
     {
       "aid": 117598603713530,
       "bvid": "BV16RWU6AEcA",

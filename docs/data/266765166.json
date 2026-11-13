@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/726060100f7b80f3ab17889aa9fb8f380a53b9da.jpg",
     "sign": "人工智能博士，喜欢钻研和分享知识，日常思索和科普\n小号@漫谈人文，商务请联系manshishangwu，并说明来意",
     "level": 6,
-    "archive_count": 156,
-    "like_num": 6400278,
+    "archive_count": 158,
+    "like_num": 6409078,
     "following": 316,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-11-12T10:59:06.070Z"
+    "updated": "2026-11-13T16:16:18.831Z"
   },
   "records": [
     {
@@ -1186,9 +1186,23 @@
     {
       "time": "2026-11-13T07:53:08.213Z",
       "fans": 1551861
+    },
+    {
+      "time": "2026-11-13T16:16:18.831Z",
+      "fans": 1552391
     }
   ],
   "videos": [
+    {
+      "aid": 117608502336939,
+      "bvid": "BV11FWq63Eyg",
+      "ctime": 1794563852,
+      "pubdate": 1794563852,
+      "duration": 2670,
+      "pic": "http://i0.hdslb.com/bfs/archive/9dcb478f2f1d11ed66964ca69021736961ad62af.jpg",
+      "title": "【无痛线代】太阳系会散架吗？无处不在的二次型",
+      "recorded_at": "2026-11-13T16:16:18.831Z"
+    },
     {
       "aid": 117547030551202,
       "bvid": "BV17C4P6CE5f",
