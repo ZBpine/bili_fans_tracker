@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 625,
-    "like_num": 9255142,
+    "archive_count": 626,
+    "like_num": 9259752,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-12T10:59:06.070Z"
+    "updated": "2026-11-13T00:16:58.350Z"
   },
   "records": [
     {
@@ -1178,9 +1178,23 @@
     {
       "time": "2026-11-12T18:52:34.671Z",
       "fans": 736359
+    },
+    {
+      "time": "2026-11-13T00:16:58.350Z",
+      "fans": 736370
     }
   ],
   "videos": [
+    {
+      "aid": 117603402122141,
+      "bvid": "BV1evWR63Edm",
+      "ctime": 1794485809,
+      "pubdate": 1794486188,
+      "duration": 1061,
+      "pic": "http://i0.hdslb.com/bfs/archive/aa7f7d29c8ebc06a219187c245206282b059bf16.jpg",
+      "title": "【参考信息第672期】信托补税1600亿；打工9年欠公司17万",
+      "recorded_at": "2026-11-13T00:16:58.350Z"
+    },
     {
       "aid": 117586591222052,
       "bvid": "BV1sUW86sE37",
