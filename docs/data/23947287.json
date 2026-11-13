@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/e2e359b8f061dcc04d18c92565b881ec2774f374.jpg",
     "sign": "小约翰啊，你何其的勤劳！",
     "level": 6,
-    "archive_count": 268,
-    "like_num": 90170331,
+    "archive_count": 269,
+    "like_num": 90199534,
     "following": 409,
     "official_title": "2025百大UP主、2025年度最高人气奖UP主、2023年度商业影响力奖UP主",
-    "updated": "2026-11-12T18:52:34.671Z"
+    "updated": "2026-11-13T22:34:30.167Z"
   },
   "records": [
     {
@@ -1094,9 +1094,23 @@
     {
       "time": "2026-11-13T16:16:18.831Z",
       "fans": 10967989
+    },
+    {
+      "time": "2026-11-13T22:34:30.167Z",
+      "fans": 10968145
     }
   ],
   "videos": [
+    {
+      "aid": 117602345031341,
+      "bvid": "BV16cW96yEBj",
+      "ctime": 1794470041,
+      "pubdate": 1794538800,
+      "duration": 2180,
+      "pic": "http://i2.hdslb.com/bfs/archive/2f5695f4e889b9dc70925ede5e867e815483a393.jpg",
+      "title": "给后来者的言  英属印度·1917",
+      "recorded_at": "2026-11-13T22:34:30.167Z"
+    },
     {
       "aid": 117587027433065,
       "bvid": "BV1i4W86zEUS",
