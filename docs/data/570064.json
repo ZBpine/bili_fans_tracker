@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 388,
-    "like_num": 23093674,
+    "archive_count": 389,
+    "like_num": 23107531,
     "following": 658,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-13T07:53:08.213Z"
+    "updated": "2026-11-14T03:10:44.857Z"
   },
   "records": [
     {
@@ -1098,9 +1098,23 @@
     {
       "time": "2026-11-13T22:34:30.167Z",
       "fans": 2115657
+    },
+    {
+      "time": "2026-11-14T03:10:44.857Z",
+      "fans": 2115713
     }
   ],
   "videos": [
+    {
+      "aid": 117609240533915,
+      "bvid": "BV1CMWz6CEDm",
+      "ctime": 1794577227,
+      "pubdate": 1794577461,
+      "duration": 599,
+      "pic": "http://i0.hdslb.com/bfs/archive/866634173a4dab403600a1d5b8357031a920a960.jpg",
+      "title": "中国人加班，为什么补贴了洋人？",
+      "recorded_at": "2026-11-14T03:10:44.857Z"
+    },
     {
       "aid": 117557851855561,
       "bvid": "BV1Lbx96VEGd",
