@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 183,
-    "like_num": 4069279,
+    "archive_count": 184,
+    "like_num": 4070890,
     "following": 222,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-13T00:16:58.350Z"
+    "updated": "2026-11-14T10:25:20.094Z"
   },
   "records": [
     {
@@ -1206,9 +1206,23 @@
     {
       "time": "2026-11-14T03:10:44.857Z",
       "fans": 1008464
+    },
+    {
+      "time": "2026-11-14T10:25:20.094Z",
+      "fans": 1008513
     }
   ],
   "videos": [
+    {
+      "aid": 117613921371896,
+      "bvid": "BV1nQs36eEeD",
+      "ctime": 1794646591,
+      "pubdate": 1794650400,
+      "duration": 1677,
+      "pic": "http://i2.hdslb.com/bfs/archive/fff44901ae543012f16682c8e5f7fa337dbf1400.jpg",
+      "title": "【伯爵】亚述人、马龙派、科普特…中东基督教徒两千年来经历了什么？一期讲清东方基督教史",
+      "recorded_at": "2026-11-14T10:25:20.094Z"
+    },
     {
       "aid": 117572750019216,
       "bvid": "BV1DF4E6uEja",
