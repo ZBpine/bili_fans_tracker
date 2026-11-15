@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 390,
-    "like_num": 23125232,
+    "archive_count": 391,
+    "like_num": 23149775,
     "following": 658,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-15T01:51:30.543Z"
+    "updated": "2026-11-15T21:44:45.076Z"
   },
   "records": [
     {
@@ -1126,9 +1126,23 @@
     {
       "time": "2026-11-15T17:04:08.774Z",
       "fans": 2116122
+    },
+    {
+      "time": "2026-11-15T21:44:45.076Z",
+      "fans": 2116193
     }
   ],
   "videos": [
+    {
+      "aid": 117619172646440,
+      "bvid": "BV1KBsn6NERc",
+      "ctime": 1794726526,
+      "pubdate": 1794735900,
+      "duration": 855,
+      "pic": "http://i0.hdslb.com/bfs/archive/d638d280b1f8287c3cc13245cfd7d0669d9e0cff.jpg",
+      "title": "我的天龙人学姐文吉儿：官二代教你如何享破解版人生？",
+      "recorded_at": "2026-11-15T21:44:45.076Z"
+    },
     {
       "aid": 117614374359439,
       "bvid": "BV1trs363EPM",

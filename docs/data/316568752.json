@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/1c56737dfc0deffffc31c78e0cefb0c3ecf7e000.jpg",
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
-    "archive_count": 1052,
-    "like_num": 43227889,
+    "archive_count": 1053,
+    "like_num": 43239230,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-15T09:17:39.402Z"
+    "updated": "2026-11-15T21:44:45.076Z"
   },
   "records": [
     {
@@ -4858,9 +4858,23 @@
     {
       "time": "2026-11-15T17:04:08.774Z",
       "fans": 2194303
+    },
+    {
+      "time": "2026-11-15T21:44:45.076Z",
+      "fans": 2194316
     }
   ],
   "videos": [
+    {
+      "aid": 117620430938085,
+      "bvid": "BV1zesH6dEHP",
+      "ctime": 1794746425,
+      "pubdate": 1794746425,
+      "duration": 1009,
+      "pic": "http://i0.hdslb.com/bfs/archive/47369f6310ee419f47be5483bf49b12bc9e9a5ab.jpg",
+      "title": "【睡前消息1131】暑假错过的那些事",
+      "recorded_at": "2026-11-15T21:44:45.076Z"
+    },
     {
       "aid": 117614726617753,
       "bvid": "BV1wRsV6gEeF",
