@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/8991695154e980e8986b35a78e44bf52c8173b06.jpg",
     "sign": "商务合作vx：LowenAt｜生活给我开了很多玩笑，但我都绷住了。",
     "level": 6,
-    "archive_count": 122,
-    "like_num": 29763908,
+    "archive_count": 123,
+    "like_num": 29769327,
     "following": 520,
     "official_title": "",
-    "updated": "2026-11-14T17:01:30.687Z"
+    "updated": "2026-11-15T17:04:08.774Z"
   },
   "records": [
     {
@@ -1122,9 +1122,23 @@
     {
       "time": "2026-11-15T09:17:39.402Z",
       "fans": 2118836
+    },
+    {
+      "time": "2026-11-15T17:04:08.774Z",
+      "fans": 2118763
     }
   ],
   "videos": [
+    {
+      "aid": 117616471448457,
+      "bvid": "BV1ads56tERb",
+      "ctime": 1794685254,
+      "pubdate": 1794715200,
+      "duration": 208,
+      "pic": "http://i2.hdslb.com/bfs/archive/53b88e65931dd38149f320245e3fa005cdf86010.jpg",
+      "title": "你这样那我不是炸了吗？",
+      "recorded_at": "2026-11-15T17:04:08.774Z"
+    },
     {
       "aid": 117562666916509,
       "bvid": "BV1D7446fENM",

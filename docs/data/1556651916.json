@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 626,
-    "like_num": 9264924,
+    "archive_count": 627,
+    "like_num": 9268793,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-15T01:51:30.543Z"
+    "updated": "2026-11-15T17:04:08.774Z"
   },
   "records": [
     {
@@ -1218,9 +1218,23 @@
     {
       "time": "2026-11-15T09:17:39.402Z",
       "fans": 736324
+    },
+    {
+      "time": "2026-11-15T17:04:08.774Z",
+      "fans": 736321
     }
   ],
   "videos": [
+    {
+      "aid": 117620414088079,
+      "bvid": "BV15ksH6nEfv",
+      "ctime": 1794745468,
+      "pubdate": 1794745468,
+      "duration": 966,
+      "pic": "http://i0.hdslb.com/bfs/archive/bc79619cc34ad3bd7bc871375901dd9cb46bc19d.jpg",
+      "title": "【参考信息第673期】考研人数止跌；保研举报大战",
+      "recorded_at": "2026-11-15T17:04:08.774Z"
+    },
     {
       "aid": 117603402122141,
       "bvid": "BV1evWR63Edm",
