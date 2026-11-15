@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/d202a8d50beb1670bff9c65c359fc7d2c5da9408.jpg",
     "sign": "研究这个时代的内容、生意、游戏和荒谬。   商务合作v：znlz1234567 ",
     "level": 6,
-    "archive_count": 400,
-    "like_num": 21498850,
+    "archive_count": 401,
+    "like_num": 21502004,
     "following": 392,
     "official_title": "2024百大UP主、知名UP主",
-    "updated": "2026-11-14T17:01:30.687Z"
+    "updated": "2026-11-15T01:51:30.543Z"
   },
   "records": [
     {
@@ -4846,9 +4846,23 @@
     {
       "time": "2026-11-14T21:26:20.947Z",
       "fans": 4298675
+    },
+    {
+      "time": "2026-11-15T01:51:30.543Z",
+      "fans": 4298508
     }
   ],
   "videos": [
+    {
+      "aid": 117615917796019,
+      "bvid": "BV1LtsL6iEYP",
+      "ctime": 1794678824,
+      "pubdate": 1794678824,
+      "duration": 19087,
+      "pic": "http://i0.hdslb.com/bfs/archive/7da5a15465851111f9a7ff60a92baf703108f99c.jpg",
+      "title": "【直播回放】鸣潮3.8 2026年11月14日19点场",
+      "recorded_at": "2026-11-15T01:51:30.543Z"
+    },
     {
       "aid": 117614642790972,
       "bvid": "BV1AYs565EaN",
