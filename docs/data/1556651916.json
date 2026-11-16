@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 627,
-    "like_num": 9270292,
+    "archive_count": 628,
+    "like_num": 9276954,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-16T01:59:34.619Z"
+    "updated": "2026-11-16T20:24:36.371Z"
   },
   "records": [
     {
@@ -1234,9 +1234,23 @@
     {
       "time": "2026-11-16T09:34:27.788Z",
       "fans": 736462
+    },
+    {
+      "time": "2026-11-16T20:24:36.371Z",
+      "fans": 736497
     }
   ],
   "videos": [
+    {
+      "aid": 117626135120929,
+      "bvid": "BV1AbsA67EZp",
+      "ctime": 1794832758,
+      "pubdate": 1794833091,
+      "duration": 1070,
+      "pic": "http://i0.hdslb.com/bfs/archive/60e4c5105b3f7f0f2cbc2ccb00ec0d3de2c75aa7.jpg",
+      "title": "【参考信息第674期】百万抗癌药进医保；片仔癀老总管医保局",
+      "recorded_at": "2026-11-16T20:24:36.371Z"
+    },
     {
       "aid": 117620414088079,
       "bvid": "BV15ksH6nEfv",
