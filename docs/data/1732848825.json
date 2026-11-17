@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 206,
-    "like_num": 22292587,
+    "archive_count": 207,
+    "like_num": 22311071,
     "following": 58,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-16T20:24:36.371Z"
+    "updated": "2026-11-17T13:17:23.120Z"
   },
   "records": [
     {
@@ -1250,9 +1250,23 @@
     {
       "time": "2026-11-17T03:47:45.026Z",
       "fans": 2349192
+    },
+    {
+      "time": "2026-11-17T13:17:23.120Z",
+      "fans": 2349305
     }
   ],
   "videos": [
+    {
+      "aid": 117612075811663,
+      "bvid": "BV14AWr6RERQ",
+      "ctime": 1794618581,
+      "pubdate": 1794880800,
+      "duration": 335,
+      "pic": "http://i1.hdslb.com/bfs/archive/edc59c6a27a0c9a0614dadeef577535baeb6cdae.jpg",
+      "title": "学术圈新瓜！AI生成的论文1cm有12个刻度！但学术期刊才是最大赢家！",
+      "recorded_at": "2026-11-17T13:17:23.120Z"
+    },
     {
       "aid": 117541074765811,
       "bvid": "BV1rKx465Eh1",
