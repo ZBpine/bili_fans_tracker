@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/8991695154e980e8986b35a78e44bf52c8173b06.jpg",
     "sign": "商务合作vx：LowenAt｜生活给我开了很多玩笑，但我都绷住了。",
     "level": 6,
-    "archive_count": 123,
-    "like_num": 29774367,
+    "archive_count": 124,
+    "like_num": 29783725,
     "following": 520,
     "official_title": "",
-    "updated": "2026-11-16T20:24:36.371Z"
+    "updated": "2026-11-17T22:17:06.975Z"
   },
   "records": [
     {
@@ -1150,9 +1150,23 @@
     {
       "time": "2026-11-17T13:17:23.120Z",
       "fans": 2118681
+    },
+    {
+      "time": "2026-11-17T22:17:06.975Z",
+      "fans": 2118694
     }
   ],
   "videos": [
+    {
+      "aid": 117630597861724,
+      "bvid": "BV1dRsz6NECJ",
+      "ctime": 1794900656,
+      "pubdate": 1794909600,
+      "duration": 164,
+      "pic": "http://i2.hdslb.com/bfs/archive/ee16553dc3467884426593d9f20d7365162187c7.jpg",
+      "title": "谭谈交通指挥打团的珍贵影像",
+      "recorded_at": "2026-11-17T22:17:06.975Z"
+    },
     {
       "aid": 117616471448457,
       "bvid": "BV1ads56tERb",

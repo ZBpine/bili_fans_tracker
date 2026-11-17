@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/1c56737dfc0deffffc31c78e0cefb0c3ecf7e000.jpg",
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
-    "archive_count": 1053,
-    "like_num": 43252974,
+    "archive_count": 1054,
+    "like_num": 43260741,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-17T13:17:23.120Z"
+    "updated": "2026-11-17T22:17:06.975Z"
   },
   "records": [
     {
@@ -4882,9 +4882,23 @@
     {
       "time": "2026-11-17T13:17:23.120Z",
       "fans": 2194604
+    },
+    {
+      "time": "2026-11-17T22:17:06.975Z",
+      "fans": 2194628
     }
   ],
   "videos": [
+    {
+      "aid": 117631889707467,
+      "bvid": "BV1Kqsr6xEep",
+      "ctime": 1794921047,
+      "pubdate": 1794922616,
+      "duration": 1416,
+      "pic": "http://i1.hdslb.com/bfs/archive/504d5f8379b8904a643ae59c807e84328b7a9d0a.jpg",
+      "title": "【睡前消息1132】拆高尔夫球场 不如收它们的税",
+      "recorded_at": "2026-11-17T22:17:06.975Z"
+    },
     {
       "aid": 117620430938085,
       "bvid": "BV1zesH6dEHP",
