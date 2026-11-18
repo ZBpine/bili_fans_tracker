@@ -5,10 +5,10 @@
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
     "archive_count": 89,
-    "like_num": 1139480,
+    "like_num": 1139848,
     "following": 170,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-11-16T20:24:36.371Z"
+    "updated": "2026-11-18T04:14:51.045Z"
   },
   "records": [
     {
@@ -1154,9 +1154,23 @@
     {
       "time": "2026-11-17T22:17:06.975Z",
       "fans": 472848
+    },
+    {
+      "time": "2026-11-18T04:14:51.045Z",
+      "fans": 472878
     }
   ],
   "videos": [
+    {
+      "aid": 117631990497806,
+      "bvid": "BV1Nos669ETt",
+      "ctime": 1794922080,
+      "pubdate": 1794922079,
+      "duration": 654,
+      "pic": "http://i0.hdslb.com/bfs/archive/45e994e45681aa741af55dfc489036dc852c2495.jpg",
+      "title": "【闪客】这可能是词意偏离最严重的技术名词！到底啥是世界模型？带你看看买家秀和卖家秀～",
+      "recorded_at": "2026-11-18T04:14:51.045Z"
+    },
     {
       "aid": 117536007916026,
       "bvid": "BV1eaxy6JE7t",
