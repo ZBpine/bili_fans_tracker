@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/c31d3acb9a772ad3873f2d81bc7e72ad7c43765b.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 79,
-    "like_num": 197438,
+    "archive_count": 80,
+    "like_num": 199690,
     "following": 21,
     "official_title": "",
-    "updated": "2026-11-17T22:17:06.975Z"
+    "updated": "2026-11-18T13:54:20.397Z"
   },
   "records": [
     {
@@ -1206,9 +1206,23 @@
     {
       "time": "2026-11-18T04:14:51.045Z",
       "fans": 46533
+    },
+    {
+      "time": "2026-11-18T13:54:20.397Z",
+      "fans": 46780
     }
   ],
   "videos": [
+    {
+      "aid": 117636486731960,
+      "bvid": "BV1C3sm6qES3",
+      "ctime": 1794990860,
+      "pubdate": 1794990860,
+      "duration": 709,
+      "pic": "http://i1.hdslb.com/bfs/archive/e9346dbbce8d0c173cc2e2732100f3ad55dc358d.jpg",
+      "title": "Gemini4扬眉吐气，三兄弟屎山BUG大论剑",
+      "recorded_at": "2026-11-18T13:54:20.397Z"
+    },
     {
       "aid": 117615481591603,
       "bvid": "BV1WgsV6gEUd",
