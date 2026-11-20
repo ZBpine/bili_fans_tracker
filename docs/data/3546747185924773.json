@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/f342076eefb43485c355cb6fa98837e5e8d61ee7.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 80,
-    "like_num": 201308,
-    "following": 21,
+    "archive_count": 81,
+    "like_num": 204680,
+    "following": 22,
     "official_title": "",
-    "updated": "2026-11-19T21:28:06.815Z"
+    "updated": "2026-11-20T11:29:06.270Z"
   },
   "records": [
     {
@@ -1230,9 +1230,23 @@
     {
       "time": "2026-11-20T03:07:38.892Z",
       "fans": 47223
+    },
+    {
+      "time": "2026-11-20T11:29:06.270Z",
+      "fans": 47424
     }
   ],
   "videos": [
+    {
+      "aid": 117647408633719,
+      "bvid": "BV1K8sq6yENC",
+      "ctime": 1795157134,
+      "pubdate": 1795157134,
+      "duration": 840,
+      "pic": "http://i1.hdslb.com/bfs/archive/4b5e101fa0bd2bda4d122eb0b81e3e9d8740faf2.jpg",
+      "title": "AI御三家旗舰模型，屎山代码大论剑｜屎山论剑",
+      "recorded_at": "2026-11-20T11:29:06.270Z"
+    },
     {
       "aid": 117636486731960,
       "bvid": "BV1C3sm6qES3",

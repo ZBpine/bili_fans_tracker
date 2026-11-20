@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 184,
-    "like_num": 4086476,
-    "following": 222,
+    "archive_count": 185,
+    "like_num": 4089869,
+    "following": 223,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-19T03:20:38.026Z"
+    "updated": "2026-11-20T11:29:06.270Z"
   },
   "records": [
     {
@@ -1286,9 +1286,23 @@
     {
       "time": "2026-11-20T03:07:38.892Z",
       "fans": 1009057
+    },
+    {
+      "time": "2026-11-20T11:29:06.270Z",
+      "fans": 1009087
     }
   ],
   "videos": [
+    {
+      "aid": 117636402907844,
+      "bvid": "BV1mCsm61EMW",
+      "ctime": 1794989351,
+      "pubdate": 1795168800,
+      "duration": 784,
+      "pic": "http://i2.hdslb.com/bfs/archive/83a382a89a2443a24c9bd9eb740d0f0cf528c036.jpg",
+      "title": "研究生为什么要有导师？一个视频讲清导师制的前世今生【不太懂】",
+      "recorded_at": "2026-11-20T11:29:06.270Z"
+    },
     {
       "aid": 117613921371896,
       "bvid": "BV1nQs36eEeD",
