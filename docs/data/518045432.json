@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/4438aab07b6f3c360d4c46e9f345ec987e93a1b7.jpg",
     "sign": "11万粉视频11.11更新，商务:675519014（同VX,备注）",
     "level": 6,
-    "archive_count": 241,
-    "like_num": 1441315,
+    "archive_count": 242,
+    "like_num": 1443518,
     "following": 711,
     "official_title": "优质游戏鉴赏家",
-    "updated": "2026-11-19T21:28:06.815Z"
+    "updated": "2026-11-20T20:07:38.926Z"
   },
   "records": [
     {
@@ -1282,9 +1282,23 @@
     {
       "time": "2026-11-20T11:29:06.270Z",
       "fans": 148311
+    },
+    {
+      "time": "2026-11-20T20:07:38.926Z",
+      "fans": 148473
     }
   ],
   "videos": [
+    {
+      "aid": 117646787872049,
+      "bvid": "BV11MsB6mE2Z",
+      "ctime": 1795148067,
+      "pubdate": 1795153937,
+      "duration": 443,
+      "pic": "http://i1.hdslb.com/bfs/archive/5e0fcd9a02d4531adb2bce441f9b526c2683611c.jpg",
+      "title": "【TaIkGN】比预告还狂野的实机画面！你真的给到她爱了吗？",
+      "recorded_at": "2026-11-20T20:07:38.926Z"
+    },
     {
       "aid": 117596959542241,
       "bvid": "BV1z1Wy6XEuF",

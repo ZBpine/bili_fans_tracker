@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/fa1f9b2694463ce0be1c522b0124ae9588250c5e.jpg",
     "sign": "新人up 求关注qwq",
     "level": 6,
-    "archive_count": 22,
-    "like_num": 250980,
-    "following": 12,
+    "archive_count": 23,
+    "like_num": 258758,
+    "following": 13,
     "official_title": "",
-    "updated": "2026-11-19T21:28:06.815Z"
+    "updated": "2026-11-20T20:07:38.926Z"
   },
   "records": [
     {
@@ -110,9 +110,23 @@
     {
       "time": "2026-11-20T11:29:06.270Z",
       "fans": 62269
+    },
+    {
+      "time": "2026-11-20T20:07:38.926Z",
+      "fans": 63261
     }
   ],
   "videos": [
+    {
+      "aid": 117648734030800,
+      "bvid": "BV1Y6ypzJEmo",
+      "ctime": 1795177451,
+      "pubdate": 1795177451,
+      "duration": 5819,
+      "pic": "http://i1.hdslb.com/bfs/archive/38bf059ba1c10890dcaaf383be785fb90641793d.jpg",
+      "title": "当世界最强的两个AI同台竞技｜AI算法对抗大赛第11集 OA争霸（上）",
+      "recorded_at": "2026-11-20T20:07:38.926Z"
+    },
     {
       "aid": 117614726611729,
       "bvid": "BV1wRsV6gEP4",
