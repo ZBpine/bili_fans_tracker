@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/5779df7e2182bba5160fd813e4cba02b8e13e9d4.jpg",
     "sign": "「以电影的方式探索AIGC世界～」合作 vx : ciaociao23333（非本人）",
     "level": 6,
-    "archive_count": 235,
-    "like_num": 18867777,
+    "archive_count": 236,
+    "like_num": 18885140,
     "following": 1493,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-19T21:28:06.815Z"
+    "updated": "2026-11-21T01:28:13.267Z"
   },
   "records": [
     {
@@ -1190,9 +1190,23 @@
     {
       "time": "2026-11-20T20:07:38.926Z",
       "fans": 1192632
+    },
+    {
+      "time": "2026-11-21T01:28:13.267Z",
+      "fans": 1192839
     }
   ],
   "videos": [
+    {
+      "aid": 117648230715728,
+      "bvid": "BV1LJyWzXEDV",
+      "ctime": 1795169617,
+      "pubdate": 1795176000,
+      "duration": 367,
+      "pic": "http://i0.hdslb.com/bfs/archive/576486c503d6675949b469d3b80bb92eb9aa0a7b.jpg",
+      "title": "年度巨制！神人博士捡到DORO？100年内没人能看懂这集，梦到哪编到哪！",
+      "recorded_at": "2026-11-21T01:28:13.267Z"
+    },
     {
       "aid": 117608535824241,
       "bvid": "BV1sAWq6uEiP",
