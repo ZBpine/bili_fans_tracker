@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 629,
-    "like_num": 9294849,
+    "archive_count": 630,
+    "like_num": 9298795,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-21T09:43:25.378Z"
+    "updated": "2026-11-21T23:10:06.597Z"
   },
   "records": [
     {
@@ -1298,9 +1298,23 @@
     {
       "time": "2026-11-21T17:26:54.382Z",
       "fans": 736845
+    },
+    {
+      "time": "2026-11-21T23:10:06.597Z",
+      "fans": 736843
     }
   ],
   "videos": [
+    {
+      "aid": 117654438414424,
+      "bvid": "BV1diyezQE3V",
+      "ctime": 1795264671,
+      "pubdate": 1795264671,
+      "duration": 958,
+      "pic": "http://i2.hdslb.com/bfs/archive/dfc36401db651360237c9ba8d74f2acf76b5e456.jpg",
+      "title": "【参考信息第676期】高考没有抄近道；“虾滑”冒充小鼠肿瘤",
+      "recorded_at": "2026-11-21T23:10:06.597Z"
+    },
     {
       "aid": 117643197614739,
       "bvid": "BV1Sxs86PEXC",

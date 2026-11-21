@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 392,
-    "like_num": 23241738,
+    "archive_count": 393,
+    "like_num": 23262494,
     "following": 659,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-21T09:43:25.378Z"
+    "updated": "2026-11-21T23:10:06.597Z"
   },
   "records": [
     {
@@ -1202,9 +1202,23 @@
     {
       "time": "2026-11-21T17:26:54.382Z",
       "fans": 2121310
+    },
+    {
+      "time": "2026-11-21T23:10:06.597Z",
+      "fans": 2121339
     }
   ],
   "videos": [
+    {
+      "aid": 117654220248625,
+      "bvid": "BV1zayezsEeM",
+      "ctime": 1795261826,
+      "pubdate": 1795261826,
+      "duration": 666,
+      "pic": "http://i0.hdslb.com/bfs/archive/bb9817b530b73a5e11a515be07b8fad5a16fb5b7.jpg",
+      "title": "派出所长女儿设下杀猪盘，“正常恋爱”狂捞百万美美撤离",
+      "recorded_at": "2026-11-21T23:10:06.597Z"
+    },
     {
       "aid": 117637275194639,
       "bvid": "BV1WLsS6kEvG",

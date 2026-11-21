@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/80511fa44f3145485b35c1549de14bde991c64e0.jpg",
     "sign": " 商微：mmjzy321 妖喵转转转5万粉露脸\n关注喵喵小号  妖喵转转转",
     "level": 6,
-    "archive_count": 204,
-    "like_num": 9497512,
-    "following": 922,
+    "archive_count": 205,
+    "like_num": 9522607,
+    "following": 923,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-21T01:28:13.267Z"
+    "updated": "2026-11-21T23:10:06.597Z"
   },
   "records": [
     {
@@ -1202,9 +1202,23 @@
     {
       "time": "2026-11-21T17:26:54.382Z",
       "fans": 881850
+    },
+    {
+      "time": "2026-11-21T23:10:06.597Z",
+      "fans": 881895
     }
   ],
   "videos": [
+    {
+      "aid": 117649237350339,
+      "bvid": "BV1sPyxzrEUQ",
+      "ctime": 1795185321,
+      "pubdate": 1795230000,
+      "duration": 553,
+      "pic": "http://i0.hdslb.com/bfs/archive/f97af3927364b0f04344aa0c31c1319c932c7782.jpg",
+      "title": "【抽象大事件】11月人类逆天行为大赏（上）",
+      "recorded_at": "2026-11-21T23:10:06.597Z"
+    },
     {
       "aid": 117642811674999,
       "bvid": "BV1Fhsh6SE7Q",
