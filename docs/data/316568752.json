@@ -5,10 +5,10 @@
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
     "archive_count": 1055,
-    "like_num": 43285359,
+    "like_num": 43287491,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-21T23:10:06.597Z"
+    "updated": "2026-11-22T11:18:49.082Z"
   },
   "records": [
     {
@@ -4942,9 +4942,23 @@
     {
       "time": "2026-11-22T03:09:19.414Z",
       "fans": 2194894
+    },
+    {
+      "time": "2026-11-22T11:18:49.082Z",
+      "fans": 2194901
     }
   ],
   "videos": [
+    {
+      "aid": 117659706334093,
+      "bvid": "BV1Z6yLzKESp",
+      "ctime": 1795346237,
+      "pubdate": 1795346237,
+      "duration": 1423,
+      "pic": "http://i1.hdslb.com/bfs/archive/184fb20e9e295276a4efac17a0a247cb67f6aeb2.jpg",
+      "title": "【睡前消息1134】零元面馆 珠海华发 都是2026年的中国",
+      "recorded_at": "2026-11-22T11:18:49.082Z"
+    },
     {
       "aid": 117648683703034,
       "bvid": "BV1vBypzDE63",

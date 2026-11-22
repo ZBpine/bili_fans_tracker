@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/f342076eefb43485c355cb6fa98837e5e8d61ee7.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 81,
-    "like_num": 208673,
+    "archive_count": 82,
+    "like_num": 209768,
     "following": 22,
     "official_title": "",
-    "updated": "2026-11-22T03:09:19.414Z"
+    "updated": "2026-11-22T11:18:49.082Z"
   },
   "records": [
     {
@@ -1258,9 +1258,23 @@
     {
       "time": "2026-11-22T03:09:19.414Z",
       "fans": 48077
+    },
+    {
+      "time": "2026-11-22T11:18:49.082Z",
+      "fans": 48182
     }
   ],
   "videos": [
+    {
+      "aid": 117659656002372,
+      "bvid": "BV1NxyLz2EEa",
+      "ctime": 1795344077,
+      "pubdate": 1795344077,
+      "duration": 603,
+      "pic": "http://i1.hdslb.com/bfs/archive/ef331041c74d22c01bfc556fef00a7a3d70d3ceb.jpg",
+      "title": "屎山论剑：Gemini 4 Neon，多快好省？",
+      "recorded_at": "2026-11-22T11:18:49.082Z"
+    },
     {
       "aid": 117647408633719,
       "bvid": "BV1K8sq6yENC",
