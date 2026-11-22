@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 393,
-    "like_num": 23262494,
+    "archive_count": 394,
+    "like_num": 23284369,
     "following": 659,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-21T23:10:06.597Z"
+    "updated": "2026-11-22T19:31:37.086Z"
   },
   "records": [
     {
@@ -1214,9 +1214,23 @@
     {
       "time": "2026-11-22T11:18:49.082Z",
       "fans": 2121547
+    },
+    {
+      "time": "2026-11-22T19:31:37.086Z",
+      "fans": 2121646
     }
   ],
   "videos": [
+    {
+      "aid": 117659622447321,
+      "bvid": "BV1KpyLzUEt9",
+      "ctime": 1795344546,
+      "pubdate": 1795344546,
+      "duration": 646,
+      "pic": "http://i2.hdslb.com/bfs/archive/ecff8ae1a317bd781df5a933872cf6efd544ed6b.jpg",
+      "title": "你不爱国！反诈遇害的徽剑，是怎样被诈骗犯打成汉奸的？",
+      "recorded_at": "2026-11-22T19:31:37.086Z"
+    },
     {
       "aid": 117654220248625,
       "bvid": "BV1zayezsEeM",

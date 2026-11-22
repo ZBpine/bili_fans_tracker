@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 649,
-    "like_num": 36962945,
+    "archive_count": 650,
+    "like_num": 36971823,
     "following": 245,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-11-21T17:26:54.382Z"
+    "updated": "2026-11-22T19:31:37.086Z"
   },
   "records": [
     {
@@ -1318,9 +1318,23 @@
     {
       "time": "2026-11-22T11:18:49.082Z",
       "fans": 5691401
+    },
+    {
+      "time": "2026-11-22T19:31:37.086Z",
+      "fans": 5691872
     }
   ],
   "videos": [
+    {
+      "aid": 117661149170144,
+      "bvid": "BV1pDyjzEEsJ",
+      "ctime": 1795367336,
+      "pubdate": 1795367336,
+      "duration": 957,
+      "pic": "http://i0.hdslb.com/bfs/archive/008f1230a45b94e33a69d0ce11432c9dc131a77c.jpg",
+      "title": "GTA6性能要求高吗？哪台主机表现好？解锁30帧后能跑多少帧？",
+      "recorded_at": "2026-11-22T19:31:37.086Z"
+    },
     {
       "aid": 117566139795001,
       "bvid": "BV1AK4v6gEgw",

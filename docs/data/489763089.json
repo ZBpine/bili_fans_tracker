@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/6d7c9ef4e2d3147528c5d161f51bf5d604568de1.jpg",
     "sign": "分享科学的快乐和美！\n小号:毕导\n商务联系：s1012295607",
     "level": 6,
-    "archive_count": 172,
-    "like_num": 21603154,
+    "archive_count": 173,
+    "like_num": 21633138,
     "following": 57,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-11-21T17:26:54.382Z"
+    "updated": "2026-11-22T19:31:37.086Z"
   },
   "records": [
     {
@@ -1214,9 +1214,23 @@
     {
       "time": "2026-11-22T11:18:49.082Z",
       "fans": 2658747
+    },
+    {
+      "time": "2026-11-22T19:31:37.086Z",
+      "fans": 2659931
     }
   ],
   "videos": [
+    {
+      "aid": 117659018467245,
+      "bvid": "BV1LwyVzsETP",
+      "ctime": 1795334472,
+      "pubdate": 1795338000,
+      "duration": 212,
+      "pic": "http://i0.hdslb.com/bfs/archive/df4314807705f2bb4147eda6169bae63415798fe.jpg",
+      "title": "同样是牛奶，凭啥一个保15天，一个能放三个月？",
+      "recorded_at": "2026-11-22T19:31:37.086Z"
+    },
     {
       "aid": 117568505386501,
       "bvid": "BV1444B6pE71",

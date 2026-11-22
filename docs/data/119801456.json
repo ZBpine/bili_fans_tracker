@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/57550946b06a4a9c24a70a1b7159c25ad7bdf383.jpg",
     "sign": "一直踏入河流",
     "level": 6,
-    "archive_count": 481,
-    "like_num": 6192186,
+    "archive_count": 482,
+    "like_num": 6199412,
     "following": 5000,
     "official_title": "bilibili 知名UP主 、新星UP主",
-    "updated": "2026-11-21T17:26:54.382Z"
+    "updated": "2026-11-22T19:31:37.086Z"
   },
   "records": [
     {
@@ -42,9 +42,23 @@
     {
       "time": "2026-11-22T11:18:49.082Z",
       "fans": 1474908
+    },
+    {
+      "time": "2026-11-22T19:31:37.086Z",
+      "fans": 1475088
     }
   ],
   "videos": [
+    {
+      "aid": 117655394653649,
+      "bvid": "BV1mJyiz3EuF",
+      "ctime": 1795279158,
+      "pubdate": 1795320000,
+      "duration": 1124,
+      "pic": "http://i2.hdslb.com/bfs/archive/52c40bf3fee9246430af3bf0327f7f1b0a262770.jpg",
+      "title": "传统欧美3A其实已经走进了死胡同",
+      "recorded_at": "2026-11-22T19:31:37.086Z"
+    },
     {
       "aid": 117644103587074,
       "bvid": "BV19ssa6kEnf",
