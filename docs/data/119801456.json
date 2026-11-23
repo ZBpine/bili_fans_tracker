@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/57550946b06a4a9c24a70a1b7159c25ad7bdf383.jpg",
     "sign": "一直踏入河流",
     "level": 6,
-    "archive_count": 482,
-    "like_num": 6199412,
-    "following": 5000,
+    "archive_count": 483,
+    "like_num": 6203198,
+    "following": 4997,
     "official_title": "bilibili 知名UP主 、新星UP主",
-    "updated": "2026-11-22T19:31:37.086Z"
+    "updated": "2026-11-23T21:16:13.463Z"
   },
   "records": [
     {
@@ -54,9 +54,23 @@
     {
       "time": "2026-11-23T08:58:08.309Z",
       "fans": 1475112
+    },
+    {
+      "time": "2026-11-23T21:16:13.463Z",
+      "fans": 1475261
     }
   ],
   "videos": [
+    {
+      "aid": 117666366883471,
+      "bvid": "BV1ScyXztEeQ",
+      "ctime": 1795447249,
+      "pubdate": 1795447249,
+      "duration": 10652,
+      "pic": "http://i2.hdslb.com/bfs/archive/b53e8a34ddedcfec05dad471537c4c8e8876e854.jpg",
+      "title": "【直播回放】股神来了大结局版 2026年11月23日20点场",
+      "recorded_at": "2026-11-23T21:16:13.463Z"
+    },
     {
       "aid": 117655394653649,
       "bvid": "BV1mJyiz3EuF",

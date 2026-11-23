@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 394,
-    "like_num": 23293106,
+    "archive_count": 395,
+    "like_num": 23310132,
     "following": 659,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-23T08:58:08.309Z"
+    "updated": "2026-11-23T21:16:13.463Z"
   },
   "records": [
     {
@@ -1226,9 +1226,23 @@
     {
       "time": "2026-11-23T08:58:08.309Z",
       "fans": 2121821
+    },
+    {
+      "time": "2026-11-23T21:16:13.463Z",
+      "fans": 2122069
     }
   ],
   "videos": [
+    {
+      "aid": 117666031344061,
+      "bvid": "BV1iayXzTEAq",
+      "ctime": 1795441882,
+      "pubdate": 1795441882,
+      "duration": 534,
+      "pic": "http://i0.hdslb.com/bfs/archive/5bec604cfd87944c5be1155e2d040797d4c50c20.jpg",
+      "title": "官媒：消费降级是伪命题",
+      "recorded_at": "2026-11-23T21:16:13.463Z"
+    },
     {
       "aid": 117659622447321,
       "bvid": "BV1KpyLzUEt9",

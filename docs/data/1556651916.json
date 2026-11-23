@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 630,
-    "like_num": 9303311,
+    "archive_count": 631,
+    "like_num": 9307533,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-23T08:58:08.309Z"
+    "updated": "2026-11-23T21:16:13.463Z"
   },
   "records": [
     {
@@ -1322,9 +1322,23 @@
     {
       "time": "2026-11-23T08:58:08.309Z",
       "fans": 736955
+    },
+    {
+      "time": "2026-11-23T21:16:13.463Z",
+      "fans": 736972
     }
   ],
   "videos": [
+    {
+      "aid": 117665712571763,
+      "bvid": "BV1CuyDz5EoC",
+      "ctime": 1795436503,
+      "pubdate": 1795436756,
+      "duration": 998,
+      "pic": "http://i1.hdslb.com/bfs/archive/5aef1c90bd099b5564ff37ba4f60475028d6430c.jpg",
+      "title": "【参考信息第677期】超高分学霸作弊；灾害警报查手机",
+      "recorded_at": "2026-11-23T21:16:13.463Z"
+    },
     {
       "aid": 117654438414424,
       "bvid": "BV1diyezQE3V",
