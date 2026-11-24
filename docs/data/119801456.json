@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/57550946b06a4a9c24a70a1b7159c25ad7bdf383.jpg",
     "sign": "一直踏入河流",
     "level": 6,
-    "archive_count": 483,
-    "like_num": 6203198,
-    "following": 4997,
+    "archive_count": 484,
+    "like_num": 6205006,
+    "following": 4998,
     "official_title": "bilibili 知名UP主 、新星UP主",
-    "updated": "2026-11-23T21:16:13.463Z"
+    "updated": "2026-11-24T17:36:28.072Z"
   },
   "records": [
     {
@@ -62,9 +62,23 @@
     {
       "time": "2026-11-24T05:58:25.333Z",
       "fans": 1475343
+    },
+    {
+      "time": "2026-11-24T17:36:28.072Z",
+      "fans": 1475397
     }
   ],
   "videos": [
+    {
+      "aid": 117671249058513,
+      "bvid": "BV1ZZyZz9ET9",
+      "ctime": 1795521778,
+      "pubdate": 1795521778,
+      "duration": 12201,
+      "pic": "http://i2.hdslb.com/bfs/archive/70509af2456ecd21cfe9fa7331b42c4955300ca3.jpg",
+      "title": "【10月热点锐评】《后会友期》许飞&厉娜｜OpenAI发布722篇数学论文｜刹车门",
+      "recorded_at": "2026-11-24T17:36:28.072Z"
+    },
     {
       "aid": 117666366883471,
       "bvid": "BV1ScyXztEeQ",
