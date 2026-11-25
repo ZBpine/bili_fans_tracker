@@ -5,10 +5,10 @@
     "sign": "专治不明白，合作：dibingfa2020",
     "level": 6,
     "archive_count": 91,
-    "like_num": 1149006,
+    "like_num": 1149151,
     "following": 172,
     "official_title": "bilibili 知名科普UP主",
-    "updated": "2026-11-23T21:16:13.463Z"
+    "updated": "2026-11-25T02:21:47.935Z"
   },
   "records": [
     {
@@ -1238,9 +1238,23 @@
     {
       "time": "2026-11-24T17:36:28.072Z",
       "fans": 474171
+    },
+    {
+      "time": "2026-11-25T02:21:47.935Z",
+      "fans": 474203
     }
   ],
   "videos": [
+    {
+      "aid": 117668967351719,
+      "bvid": "BV1q8yRzjEDv",
+      "ctime": 1795486399,
+      "pubdate": 1795486399,
+      "duration": 868,
+      "pic": "http://i1.hdslb.com/bfs/archive/79415905e879cb6237e6afc5d5090649f66e17ff.jpg",
+      "title": "【闪客】什么是黎曼猜想？为什么没有任何人能看懂的证明却能几乎100%确认它正确？",
+      "recorded_at": "2026-11-25T02:21:47.935Z"
+    },
     {
       "aid": 117637912724937,
       "bvid": "BV1mWsU67ECh",
