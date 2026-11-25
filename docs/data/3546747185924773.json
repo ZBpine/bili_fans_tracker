@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/f342076eefb43485c355cb6fa98837e5e8d61ee7.jpg",
     "sign": "AI有意思",
     "level": 6,
-    "archive_count": 82,
-    "like_num": 213479,
+    "archive_count": 83,
+    "like_num": 215451,
     "following": 22,
     "official_title": "",
-    "updated": "2026-11-25T02:21:47.935Z"
+    "updated": "2026-11-25T22:28:22.675Z"
   },
   "records": [
     {
@@ -1294,9 +1294,23 @@
     {
       "time": "2026-11-25T12:45:43.026Z",
       "fans": 48812
+    },
+    {
+      "time": "2026-11-25T22:28:22.675Z",
+      "fans": 48936
     }
   ],
   "videos": [
+    {
+      "aid": 117677154705198,
+      "bvid": "BV1SxykzhEKf",
+      "ctime": 1795611330,
+      "pubdate": 1795611779,
+      "duration": 499,
+      "pic": "http://i2.hdslb.com/bfs/archive/4c649ed8db6160565debe55010132884da62adc3.jpg",
+      "title": "GLM5.4，再想一次，大有不同",
+      "recorded_at": "2026-11-25T22:28:22.675Z"
+    },
     {
       "aid": 117659656002372,
       "bvid": "BV1NxyLz2EEa",

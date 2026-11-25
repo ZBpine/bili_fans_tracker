@@ -4,11 +4,11 @@
     "face": "http://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
     "sign": "爱折腾、超硬核的科技数码频道！商务合作请联系：bd@geekerwan.com",
     "level": 6,
-    "archive_count": 650,
-    "like_num": 37024936,
+    "archive_count": 651,
+    "like_num": 37077272,
     "following": 244,
     "official_title": "2025百大UP主、2024年度商业影响力奖UP主、知名UP主",
-    "updated": "2026-11-25T02:21:47.935Z"
+    "updated": "2026-11-25T22:28:22.675Z"
   },
   "records": [
     {
@@ -1350,9 +1350,23 @@
     {
       "time": "2026-11-25T12:45:43.026Z",
       "fans": 5695708
+    },
+    {
+      "time": "2026-11-25T22:28:22.675Z",
+      "fans": 5696404
     }
   ],
   "videos": [
+    {
+      "aid": 117675023927333,
+      "bvid": "BV1c5yzzGEL9",
+      "ctime": 1795579037,
+      "pubdate": 1795579037,
+      "duration": 3787,
+      "pic": "http://i1.hdslb.com/bfs/archive/ce4902fc1b34c908fc565ecdbd01d38148c2f2f9.jpg",
+      "title": "极客湾手机影像大横评：哪家手机拍照强？",
+      "recorded_at": "2026-11-25T22:28:22.675Z"
+    },
     {
       "aid": 117661149170144,
       "bvid": "BV1pDyjzEEsJ",
