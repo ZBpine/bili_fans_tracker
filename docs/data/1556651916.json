@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/01fc599bc87d7dc20ac09bb941dfd100a63bc28b.jpg",
     "sign": "资讯连连看，消灭信息差。商务合作请+wx：MQZ998888",
     "level": 6,
-    "archive_count": 631,
-    "like_num": 9313812,
+    "archive_count": 632,
+    "like_num": 9317470,
     "following": 43,
     "official_title": "",
-    "updated": "2026-11-26T04:58:52.188Z"
+    "updated": "2026-11-26T15:07:30.760Z"
   },
   "records": [
     {
@@ -1350,9 +1350,23 @@
     {
       "time": "2026-11-26T04:58:52.188Z",
       "fans": 737057
+    },
+    {
+      "time": "2026-11-26T15:07:30.760Z",
+      "fans": 737059
     }
   ],
   "videos": [
+    {
+      "aid": 117682624006411,
+      "bvid": "BV1Dy17zNEyp",
+      "ctime": 1795694645,
+      "pubdate": 1795694645,
+      "duration": 1068,
+      "pic": "http://i2.hdslb.com/bfs/archive/845abb5f14144179057c8bfd515627fc49f2ef1d.jpg",
+      "title": "【参考信息第678期】80岁津贴5元；人均中位数125元",
+      "recorded_at": "2026-11-26T15:07:30.760Z"
+    },
     {
       "aid": 117665712571763,
       "bvid": "BV1CuyDz5EoC",

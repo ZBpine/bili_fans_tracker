@@ -506,9 +506,23 @@
     {
       "time": "2026-11-26T04:58:52.188Z",
       "fans": 1795968
+    },
+    {
+      "time": "2026-11-26T15:07:30.760Z",
+      "fans": 1796113
     }
   ],
   "videos": [
+    {
+      "aid": 117680006825433,
+      "bvid": "BV1EiymzFEGE",
+      "ctime": 1795654743,
+      "pubdate": 1795654743,
+      "duration": 319,
+      "pic": "http://i0.hdslb.com/bfs/archive/a5de775def69874bbfa619f3fc7014ddead0ebb8.jpg",
+      "title": "【徐静雨】詹姆斯25+10+12大号三双，NBA杯赛冠军又要拿了？",
+      "recorded_at": "2026-11-26T15:07:30.760Z"
+    },
     {
       "aid": 117669554620664,
       "bvid": "BV1UXyozuETf",

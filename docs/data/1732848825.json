@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 207,
-    "like_num": 22371657,
+    "archive_count": 208,
+    "like_num": 22408986,
     "following": 58,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-25T22:28:22.675Z"
+    "updated": "2026-11-26T15:07:30.760Z"
   },
   "records": [
     {
@@ -1358,9 +1358,23 @@
     {
       "time": "2026-11-26T04:58:52.188Z",
       "fans": 2349829
+    },
+    {
+      "time": "2026-11-26T15:07:30.760Z",
+      "fans": 2350484
     }
   ],
   "videos": [
+    {
+      "aid": 117659723237930,
+      "bvid": "BV1vyyLzeEpR",
+      "ctime": 1795345647,
+      "pubdate": 1795658400,
+      "duration": 229,
+      "pic": "http://i2.hdslb.com/bfs/archive/57ecb935b7e175a577d5be21b1d546487047a363.jpg",
+      "title": "省杰青，如何用AI，在高水平期刊低水平造假？",
+      "recorded_at": "2026-11-26T15:07:30.760Z"
+    },
     {
       "aid": 117612075811663,
       "bvid": "BV14AWr6RERQ",
