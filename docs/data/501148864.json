@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/138b6f58b3521bac4799192cd77803c63d736fea.jpg",
     "sign": "【电子羊尾】是全成就后的游戏鉴赏。【印象】是未发售的游戏前瞻、游戏产业的思考。商务合作：znlz1234567",
     "level": 6,
-    "archive_count": 56,
-    "like_num": 299759,
+    "archive_count": 57,
+    "like_num": 300097,
     "following": 191,
     "official_title": "",
-    "updated": "2026-11-26T04:58:52.188Z"
+    "updated": "2026-11-27T08:20:04.861Z"
   },
   "records": [
     {
@@ -1366,9 +1366,23 @@
     {
       "time": "2026-11-26T23:48:26.299Z",
       "fans": 77577
+    },
+    {
+      "time": "2026-11-27T08:20:04.861Z",
+      "fans": 77567
     }
   ],
   "videos": [
+    {
+      "aid": 117687338540386,
+      "bvid": "BV1Ca1WzBEvN",
+      "ctime": 1795766391,
+      "pubdate": 1795766391,
+      "duration": 1255,
+      "pic": "http://i1.hdslb.com/bfs/archive/f5458e8dc90af3529afdc0aa6f3d0865c8a0e529.jpg",
+      "title": "《黑帝斯》真的配得上如此多的荣誉吗？【电子羊尾036】",
+      "recorded_at": "2026-11-27T08:20:04.861Z"
+    },
     {
       "aid": 117556174196972,
       "bvid": "BV1J9xS66Ekk",
