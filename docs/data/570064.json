@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 396,
-    "like_num": 23380267,
+    "archive_count": 397,
+    "like_num": 23393026,
     "following": 660,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-27T08:20:04.861Z"
+    "updated": "2026-11-27T18:55:09.396Z"
   },
   "records": [
     {
@@ -1266,9 +1266,23 @@
     {
       "time": "2026-11-27T08:20:04.861Z",
       "fans": 2126577
+    },
+    {
+      "time": "2026-11-27T18:55:09.396Z",
+      "fans": 2126877
     }
   ],
   "videos": [
+    {
+      "aid": 117686465992901,
+      "bvid": "BV1it1szFEoG",
+      "ctime": 1795753721,
+      "pubdate": 1795779300,
+      "duration": 625,
+      "pic": "http://i2.hdslb.com/bfs/archive/d1652cb6b602efc2d63c550256ed44aab75ec666.jpg",
+      "title": "“贸易顺差这么大，钱都去哪了？”",
+      "recorded_at": "2026-11-27T18:55:09.396Z"
+    },
     {
       "aid": 117676500456760,
       "bvid": "BV1sDyzzmEvL",

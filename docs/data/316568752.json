@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/1c56737dfc0deffffc31c78e0cefb0c3ecf7e000.jpg",
     "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888",
     "level": 6,
-    "archive_count": 1057,
-    "like_num": 43339925,
+    "archive_count": 1058,
+    "like_num": 43349776,
     "following": 179,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-27T08:20:04.861Z"
+    "updated": "2026-11-27T18:55:09.396Z"
   },
   "records": [
     {
@@ -4998,9 +4998,23 @@
     {
       "time": "2026-11-27T08:20:04.861Z",
       "fans": 2196517
+    },
+    {
+      "time": "2026-11-27T18:55:09.396Z",
+      "fans": 2196480
     }
   ],
   "videos": [
+    {
+      "aid": 117688177270618,
+      "bvid": "BV1wB1xzGEQH",
+      "ctime": 1795780438,
+      "pubdate": 1795780438,
+      "duration": 1705,
+      "pic": "http://i2.hdslb.com/bfs/archive/51dd7b37d2ae8e358c6592dc998d8996e5b39b26.jpg",
+      "title": "【睡前消息1136】文艺无产阶级搞斗争  资深技术官僚加工资",
+      "recorded_at": "2026-11-27T18:55:09.396Z"
+    },
     {
       "aid": 117670963844684,
       "bvid": "BV11syfzKELD",

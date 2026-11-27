@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/8cfab8f2f7b04768d878d7ffa7ba51c562248e02.jpg",
     "sign": "大家的赛博研究生同学！分享科研进展，偶尔吃科研圈的瓜。商务号：gengtx2022",
     "level": 6,
-    "archive_count": 208,
-    "like_num": 22429498,
+    "archive_count": 209,
+    "like_num": 22444198,
     "following": 58,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-26T23:48:26.299Z"
+    "updated": "2026-11-27T18:55:09.396Z"
   },
   "records": [
     {
@@ -1370,9 +1370,23 @@
     {
       "time": "2026-11-27T08:20:04.861Z",
       "fans": 2351015
+    },
+    {
+      "time": "2026-11-27T18:55:09.396Z",
+      "fans": 2351293
     }
   ],
   "videos": [
+    {
+      "aid": 117686885417358,
+      "bvid": "BV1kV1szzE9u",
+      "ctime": 1795759872,
+      "pubdate": 1795773600,
+      "duration": 326,
+      "pic": "http://i0.hdslb.com/bfs/archive/49a3ac4641015c65b575dc3803e343446e12b5fc.jpg",
+      "title": "250 名三甲医生真输给 AI 了？我把论文讲清楚！",
+      "recorded_at": "2026-11-27T18:55:09.396Z"
+    },
     {
       "aid": 117659723237930,
       "bvid": "BV1vyyLzeEpR",
