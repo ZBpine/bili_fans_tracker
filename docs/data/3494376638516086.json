@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/80511fa44f3145485b35c1549de14bde991c64e0.jpg",
     "sign": " 商微：mmjzy321 妖喵转转转5万粉露脸\n关注喵喵小号  妖喵转转转",
     "level": 6,
-    "archive_count": 206,
-    "like_num": 9589930,
+    "archive_count": 208,
+    "like_num": 9618051,
     "following": 923,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-27T18:55:09.396Z"
+    "updated": "2026-11-28T18:53:37.096Z"
   },
   "records": [
     {
@@ -1278,9 +1278,33 @@
     {
       "time": "2026-11-28T10:18:45.987Z",
       "fans": 885101
+    },
+    {
+      "time": "2026-11-28T18:53:37.096Z",
+      "fans": 885381
     }
   ],
   "videos": [
+    {
+      "aid": 117694653272459,
+      "bvid": "BV1AT1uzbEY9",
+      "ctime": 1795878179,
+      "pubdate": 1795878179,
+      "duration": 397,
+      "pic": "http://i2.hdslb.com/bfs/archive/f08f56068f7a355d0f0cce7b6da524dbf0c22f84.jpg",
+      "title": "锦鲤信小呆：信了亿元大奖，辞职国企，可奖品真的好呆！【网络狠人123】",
+      "recorded_at": "2026-11-28T18:53:37.096Z"
+    },
+    {
+      "aid": 117692421904821,
+      "bvid": "BV1k61NzJERY",
+      "ctime": 1795844509,
+      "pubdate": 1795844509,
+      "duration": 353,
+      "pic": "http://i1.hdslb.com/bfs/archive/3ed793c77d9b8719f65936cedce068ed4666dfbf.jpg",
+      "title": "沙雕新闻：11月人类抽象行为大赏（下）",
+      "recorded_at": "2026-11-28T18:53:37.096Z"
+    },
     {
       "aid": 117687858567333,
       "bvid": "BV1nk1xzzELr",

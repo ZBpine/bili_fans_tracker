@@ -4,11 +4,11 @@
     "face": "https://i1.hdslb.com/bfs/face/645f6e958a0b6bf8d34a1ae396302cf112dd1a3c.jpg",
     "sign": "分配公平 文化包容 社会平等 舆论开放，这就是社会主义",
     "level": 6,
-    "archive_count": 397,
-    "like_num": 23404619,
+    "archive_count": 398,
+    "like_num": 23414964,
     "following": 660,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-28T10:18:45.987Z"
+    "updated": "2026-11-28T18:53:37.096Z"
   },
   "records": [
     {
@@ -1278,9 +1278,23 @@
     {
       "time": "2026-11-28T10:18:45.987Z",
       "fans": 2127237
+    },
+    {
+      "time": "2026-11-28T18:53:37.096Z",
+      "fans": 2127463
     }
   ],
   "videos": [
+    {
+      "aid": 117693512425379,
+      "bvid": "BV12v1TzhE91",
+      "ctime": 1795861137,
+      "pubdate": 1795862033,
+      "duration": 566,
+      "pic": "http://i2.hdslb.com/bfs/archive/2a3943ecb956ad07b5e0cfbca968c4ec11c1d458.jpg",
+      "title": "民主党追杀，特朗普死保，黄仁勋为何成为风暴眼？",
+      "recorded_at": "2026-11-28T18:53:37.096Z"
+    },
     {
       "aid": 117686465992901,
       "bvid": "BV1it1szFEoG",

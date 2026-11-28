@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/fa1f9b2694463ce0be1c522b0124ae9588250c5e.jpg",
     "sign": "新人up 求关注qwq",
     "level": 6,
-    "archive_count": 23,
-    "like_num": 301941,
+    "archive_count": 24,
+    "like_num": 312759,
     "following": 15,
     "official_title": "",
-    "updated": "2026-11-27T18:55:09.396Z"
+    "updated": "2026-11-28T18:53:37.096Z"
   },
   "records": [
     {
@@ -202,9 +202,23 @@
     {
       "time": "2026-11-28T10:18:45.987Z",
       "fans": 76080
+    },
+    {
+      "time": "2026-11-28T18:53:37.096Z",
+      "fans": 77045
     }
   ],
   "videos": [
+    {
+      "aid": 117694233838416,
+      "bvid": "BV1X41uzyEgi",
+      "ctime": 1795871836,
+      "pubdate": 1795872519,
+      "duration": 6967,
+      "pic": "http://i2.hdslb.com/bfs/archive/f688e85cc76726b98347c9a3f38a7e106a7632fb.jpg",
+      "title": "世界上最强的两个ai组队比赛！（下集）｜AI算法对抗大赛第12集 OA争霸（下）",
+      "recorded_at": "2026-11-28T18:53:37.096Z"
+    },
     {
       "aid": 117648734030800,
       "bvid": "BV1Y6ypzJEmo",
