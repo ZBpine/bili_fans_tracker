@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/ec34c6f6de3b28bada6a62fcdce14f5f438c9cdb.jpg",
     "sign": "和你一起感受科学的快乐和美！！也欢迎关注一个UP叫毕的二阶导。B站商务联系: s1012295607",
     "level": 6,
-    "archive_count": 176,
-    "like_num": 38850495,
+    "archive_count": 177,
+    "like_num": 38950238,
     "following": 568,
     "official_title": "bilibili 2020百大UP主、知名科普UP主",
-    "updated": "2026-11-25T02:21:47.935Z"
+    "updated": "2026-11-28T10:18:45.987Z"
   },
   "records": [
     {
@@ -1274,9 +1274,23 @@
     {
       "time": "2026-11-28T01:56:24.862Z",
       "fans": 8464819
+    },
+    {
+      "time": "2026-11-28T10:18:45.987Z",
+      "fans": 8466476
     }
   ],
   "videos": [
+    {
+      "aid": 117686314997863,
+      "bvid": "BV1Dd1HzVENm",
+      "ctime": 1795751064,
+      "pubdate": 1795751064,
+      "duration": 754,
+      "pic": "http://i2.hdslb.com/bfs/archive/edd458b31482803a2ba78d1bd147ea359664f60b.jpg",
+      "title": "【毕导】最对味的一集！如何放出无声的屁？响屁不臭臭屁不响是真的吗？",
+      "recorded_at": "2026-11-28T10:18:45.987Z"
+    },
     {
       "aid": 117451316535129,
       "bvid": "BV1cpJ86BEys",

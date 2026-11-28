@@ -4,11 +4,11 @@
     "face": "https://i0.hdslb.com/bfs/face/67224b5fa1961bc9cb9d54f6e5896ff7e614379c.jpg",
     "sign": "专注于被忽略的视角，被遗忘的历史。合作请联系wx：MejorHector",
     "level": 6,
-    "archive_count": 185,
-    "like_num": 4098217,
+    "archive_count": 186,
+    "like_num": 4099471,
     "following": 226,
     "official_title": "bilibili 知名UP主",
-    "updated": "2026-11-26T23:48:26.299Z"
+    "updated": "2026-11-28T10:18:45.987Z"
   },
   "records": [
     {
@@ -1378,9 +1378,23 @@
     {
       "time": "2026-11-28T01:56:24.862Z",
       "fans": 1009759
+    },
+    {
+      "time": "2026-11-28T10:18:45.987Z",
+      "fans": 1009786
     }
   ],
   "videos": [
+    {
+      "aid": 117692807775432,
+      "bvid": "BV12b1NzoEd3",
+      "ctime": 1795850136,
+      "pubdate": 1795860000,
+      "duration": 1303,
+      "pic": "http://i0.hdslb.com/bfs/archive/1a4f8e3f9dde09648cf828692a2e74d8a801ff42.jpg",
+      "title": "【伯爵】从中原边缘奋斗成京畿重地，河北付出了什么代价？",
+      "recorded_at": "2026-11-28T10:18:45.987Z"
+    },
     {
       "aid": 117636402907844,
       "bvid": "BV1mCsm61EMW",
